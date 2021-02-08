@@ -1,0 +1,10 @@
+.emphasis {
+    font-style: italic;
+    color: magenta;
+}
+
+.hi-contrast {
+    font-style: bold;
+    color: white;
+    background-color: black;
+}  
