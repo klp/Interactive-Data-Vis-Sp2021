@@ -24,7 +24,11 @@ This second of notes represents the order of steps by which I approached Tutoria
 
 ### Prepping the data
 
-I downloaded a [csv of top wines from Kaggel](https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv), and created a simple csv with country and count from that list for simplicity's sake, and not being familiar with how
+I downloaded a [csv of top wines from Kaggel](https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv), and created a simple csv with country and count from that list for simplicity's sake, and not being familiar with how to aggregate with JS.
+
+### Initial design
+
+1. Bring in data with d3
 
 ## Questions
 
