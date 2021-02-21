@@ -29,6 +29,8 @@ I downloaded a [csv of top wines from Kaggel](https://www.kaggle.com/zynicide/wi
 ### Initial design
 
 1. Bring in data with d3
+1. Set your x and y scale
+1. Create element in which to draw the chart
 
 ## Questions
 
