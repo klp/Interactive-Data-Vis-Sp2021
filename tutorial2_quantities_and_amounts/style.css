@@ -1,3 +1,11 @@
-svg {
-    border: magenta 5px solid;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+h2 {
+    font-size: large;
 }
