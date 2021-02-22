@@ -18,15 +18,15 @@ As you're building, don't forget you can always reference the [class code branch
 
 ## Week 2 Assignment:
 
-- [ ] Implement your own version of the vertical bar chart we did in class using the files present in the root of this directory (`tutorial2_quantities_and_amounts/` [index.html](index.html), [style.css](style.css), [main.js](main.js)), just like we did in Tutorial 1. You may use the existing dataset, or a new one.
+- [ x ] Implement your own version of the vertical bar chart we did in class using the files present in the root of this directory (`tutorial2_quantities_and_amounts/` [index.html](index.html), [style.css](style.css), [main.js](main.js)), just like we did in Tutorial 1. You may use the existing dataset, or a new one.
 
-- [ ] Turn this **vertical bar chart** into a **horizontal bar chart**. This will require adjusting both scales to consider how the data should map back to the svg coordinate plane. (_Tip_: start by getting your bars to show, even if they are not yet positioned/sized correctly -- sometimes it is easier to understand where something should go by seeing where it currently is).
+- [ x ] Turn this **vertical bar chart** into a **horizontal bar chart**. This will require adjusting both scales to consider how the data should map back to the svg coordinate plane. (_Tip_: start by getting your bars to show, even if they are not yet positioned/sized correctly -- sometimes it is easier to understand where something should go by seeing where it currently is).
 
-- [ ] Post your code and deployed links to the Tutorial 2 post on the Commons.
+- [ x ] Post your code and deployed links to the Tutorial 2 post on the Commons.
 
 **BONUS:**
 
-- [ ] Add a [color scale](https://github.com/d3/d3-scale-chromatic) to your bar chart. This is another type of scale where your range is going to be color values instead of screen dimensions. Feel free to use `ordinal` or `sequential` colorscales (this will depend on what type of field you want to map to color).
+- [ x ] Add a [color scale](https://github.com/d3/d3-scale-chromatic) to your bar chart. This is another type of scale where your range is going to be color values instead of screen dimensions. Feel free to use `ordinal` or `sequential` colorscales (this will depend on what type of field you want to map to color).
 - [ ] Add an [HTML table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) to the page as well, using D3 data mapping to create a table row for each element of data.
 
 ## Deploy + Submit
