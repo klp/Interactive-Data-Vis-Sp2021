@@ -39,5 +39,6 @@ At this point, I kinda jammed, sorting through padding/spacing issues. Forgot to
 ## Questions
 
 1. Do data visualizers typically work with aggregated data, or are there JS libraries that can aggregate rawer data without too much of a performance hit?
-2. I need to review the labeling a bit to understand it better. I made adjustments from the demo, so I have some sense of how it works, but not enough to explain it.
-3. I'm interested in conditionally coloring the count labels based where they show up. In the right most bar (Chile), I have a bit of trouble reading the count value. 
+1. I need to review the labeling a bit to understand it better. I made adjustments from the demo, so I have some sense of how it works, but not enough to explain it.
+1. I'm interested in conditionally coloring the count labels based where they show up. In the right most bar (Chile), I have a bit of trouble reading the count value. 
+1. I still haven't quite absorbed the box-model
