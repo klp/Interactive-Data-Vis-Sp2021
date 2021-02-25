@@ -17,7 +17,7 @@ let state = {
 };
 
 /* LOAD DATA */
-d3.json("../data/environmentRatings.json", d3.autoType).then(raw_data => {
+d3.csv("../data/reddit_gamespot_wallstreet_posts.csv", d3.autoType).then(raw_data => {
   // + SET YOUR DATA PATH
   console.log("data", raw_data);
   // save our data to application state
