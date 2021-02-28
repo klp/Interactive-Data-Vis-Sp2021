@@ -2,7 +2,7 @@
 const width = window.innerWidth * 0.7,
   height = window.innerHeight * 0.7,
   margin = { top: 20, bottom: 60, left: 60, right: 40 },
-  radius = 6;
+  radius = 4;
 
 // these variables allow us to access anything we manipulate in init() but need access to in draw().
 // All these variables are empty before we assign something to them.
@@ -20,8 +20,7 @@ let state = {
 /* LOAD DATA */
 d3.csv("../data/reddit_gamespot_wallstreet_posts.csv", d3.autoType).then(raw_data => {
   // + SET YOUR DATA PATH
-  console.log("data", raw_data);
-  // save our data to application state
+  console.log("data", raw_data); // just in case that's helpful
   state.data = raw_data;
   init();
 });
@@ -29,109 +28,113 @@ d3.csv("../data/reddit_gamespot_wallstreet_posts.csv", d3.autoType).then(raw_dat
 /* INITIALIZING FUNCTION */
 // this will be run *one time* when the data finishes loading in
 function init() {
-
-  // set scales
+  // + SCALES
   xScale = d3.scaleLinear()
     .domain(d3.extent(state.data, d => d.comments))
     .range([margin.left, width - margin.right])
 
   yScale = d3.scaleLinear()
     .domain(d3.extent(state.data, d => d.score))
-    .range([height - margin.bottom, margin.top])
-
-  // set domain and range for colorScale
+    .range([height - margin.bottom, margin.bottom])
 
   colorScale = d3.scaleOrdinal()
-  .domain(["investing", "stocks", "wallstreetbets"])
-  .range(["green", "blue", "pink"])
+    .domain(["investing", "stocks", "wallstreetbets"])
+    .range(["green", "pink", "purple"])
 
-  // + DEFINE AXES
+  // + AXES
   const xAxis = d3.axisBottom(xScale)
   const yAxis = d3.axisLeft(yScale)
 
-
   // + UI ELEMENT SETUP
-  const dropdown = d3.select("#dropdown")
+  const selectElement = d3.select("#dropdown") // select drowpdown element from HTML
 
-  dropdown
-    .selectAll("options")
-    .data([
-      { key: "All", label: "All"},
-      { key: "investing",     label: "Investing"  },
-      { key: "stocks",        label: "Stocks"     },
-      { key: "wallstreetbets", label: "Wallstreet" }
-      ]
-    )
+  selectElement
+    .selectAll("option")
+    .data([ 
+      { key: "All", label: "All" },
+      { key: "investing",       label: "Investing" },
+      { key: "stocks",          label: "Stocks" },
+      { key: "wallstreetbets",  label: "Wallstreet" }])
     .join("option")
-    .attr("value)", d => d.key)
-    .text(d => d.label);
+    .attr("value", d => d.key) // set the key to the 'value' -- what we will use to FILTER our data later
+    .text(d => d.label); 
 
-    // event listener
-    dropdown.on("change", event => {
-      console.log("Filtered value: ", event.target.value)
-      state.selectedSubreddit = event.target.value
-      console.log("New state:", state);
-      draw();
-    });
+  // set up our event listener
+  selectElement.on("change", event => {
+    console.log("New filter value is", event.target.value);
+    state.selectedSubreddit = event.target.value
+    console.log("NEW STATE:", state);
+    draw(); // re-draw the graph based on this new selection
+  });
 
   // + CREATE SVG ELEMENT
   svg = d3.select("#d3-container")
-  .append("svg")
-  .attr('width', width)
-  .attr('height', height)
-  
-  svg.append("g")
-  .attr("class", "xAxis")
-  .attr("transform", `translate(${0}, ${height - margin.bottom})`)
-  .call(xAxis)
-  .append("text")
-  .text("# of Comments")
-  .attr("transform", `translate(${width / 2}, ${40})`)
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height)
 
-  svg.append("g")
-    .attr("class", "yAxis")
-    .attr("transform", `translate(${margin.left}, ${0})`)
+  // + CALL AXES
+  const xAxisGroup = svg.append("g")
+    .attr("class", 'xAxis')
+    .attr("transform", `translate(${0}, ${height - margin.bottom})`) // move to the bottom
+    .call(xAxis)
+
+  const yAxisGroup = svg.append("g")
+    .attr("class", 'yAxis')
+    .attr("transform", `translate(${margin.left}, ${0})`) // align with left margin
     .call(yAxis)
-    .append("text")
+
+  // add labels - xAxis
+  xAxisGroup.append("text")
+    .attr("class", 'axis-title')
+    .attr("x", width / 2)
+    .attr("y", 40)
+    .attr("text-anchor", "middle")
+    .text("# of Comments")
+
+  // add labels - yAxis
+  yAxisGroup.append("text")
+    .attr("class", 'axis-title')
+    .attr("x", -50)
+    .attr("y", height / 2)
+    .attr("writing-mode", "vertical-lr")
+    .attr("text-anchor", "middle")
     .text("# of Upvotes")
 
-  draw();
+  draw(); // calls the draw function
 }
 
 /* DRAW FUNCTION */
-// we call this everytime there is an update to the data/state
 function draw() {
 
   // + FILTER DATA BASED ON STATE
   const filteredData = state.data
     .filter(d => state.selectedSubreddit === "All" || state.selectedSubreddit === d.subreddit)
 
-  // + DRAW CIRCLES
   const dot = svg
     .selectAll("circle")
-    .data(filteredData, d => d.id) // second argument is the unique key for that row
+    .data(filteredData, d => d.id)
     .join(
       // + HANDLE ENTER SELECTION
       enter => enter.append("circle")
-      .attr("r", radius)
-      .attr("fill", d => colorScale(d.subreddit))
-      .attr("cx", 0)
-      .attr("cy", d => yScale(d.score))
-      .call(sel => sel.transition())
-        .duration(500)
-        .attr("cx", d => xScale(d.comments))
-      ,
-        
+        .attr("r", radius)
+        .attr("fill", d => colorScale(d.subreddit))
+        .attr("cx", 0) // start dots on the left
+        .attr("cy", d => yScale(d.score))
+        .call(sel => sel.transition()
+          .duration(1500)
+          .attr("cx", d => xScale(d.comments)) // transition to correct position
+        ),
 
       // + HANDLE UPDATE SELECTION
       update => update
-        .call(sel => sel 
+        .call(sel => sel
           .transition()
           .duration(250)
-          .attr("r", radius * 2)
+          .attr("r", radius * 1.2) 
           .transition()
-          .duration(250)
-          .attr("r", radius) 
+          .duration(500)
+          .attr("r", radius * 1) 
         ),
 
       // + HANDLE EXIT SELECTION
@@ -143,4 +146,5 @@ function draw() {
           .attr("opacity", 0)
           .remove()
         )
-    }; 
+    );
+}
