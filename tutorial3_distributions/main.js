@@ -1,5 +1,5 @@
 /* CONSTANTS AND GLOBALS */
-const width = window.innerWidth * 0.7,
+const width = window.innerWidth * 0.8,
   height = window.innerHeight * 0.7,
   margin = { top: 20, bottom: 60, left: 60, right: 40 },
   radius = 5;
@@ -9,11 +9,12 @@ const width = window.innerWidth * 0.7,
 let svg;
 let xScale;
 let yScale;
+let colorScale;
 
 /* APPLICATION STATE */
 let state = {
   data: [],
-  selectedParty: "All" // + YOUR INITIAL FILTER SELECTION
+  sub_reddit: "All" // + YOUR INITIAL FILTER SELECTION
 };
 
 /* LOAD DATA */
@@ -28,19 +29,47 @@ d3.csv("../data/reddit_gamespot_wallstreet_posts.csv", d3.autoType).then(raw_dat
 /* INITIALIZING FUNCTION */
 // this will be run *one time* when the data finishes loading in
 function init() {
-  // + DEFINE SCALES
+  xScale = d3.scaleLinear()
+    .domain(d3.extent(state.data, d => d.num_comments))
+    .range(margin.left, width - margin.right)
+
+  yScale = d3.scaleLinear()
+    .domain(d3.extent(state.data, d => d.score))
+    .range(height - margin.bottom, margin.top)
 
   // + DEFINE AXES
+  const xAxis = d3.axisBottom(xScale)
+  const yAxis = d3.axisLeft(yScale)
 
   // + UI ELEMENT SETUP
   // + add dropdown options
   // + add event listener for 'change'
 
   // + CREATE SVG ELEMENT
+  svg = d3.select("#d3-container")
+    .append("svg")
+    .attr('width', width)
+    .attr('height', height)
 
   // + CREATE AXES
+  svg.append("g")
+    .attr("class", "xAxis")
+    .attr("transform", `translate(${0}, ${height - margin.bottom})`)
+    .call(xAxis)
+    .append("text")
+    .text("# of Comments")
+    .attr("transform", `translate(${width / 2}, ${40})`)
 
-  // draw(); // calls the draw function
+  svg.append("g")
+    .attr("class", "yAxis")
+    .attr("transform", `translate(${margin.left}, ${0})`)
+    .call(yAxis)
+    .append("text")
+    .text("# of Upvotes")
+
+    
+
+  draw(); // calls the draw function
 }
 
 /* DRAW FUNCTION */
@@ -53,7 +82,7 @@ function draw() {
   // + DRAW CIRCLES
   const dot = svg
     .selectAll("circle")
-    .data(filteredData, d => d.BioID) // second argument is the unique key for that row
+    .data(filteredData, d => d.id) // second argument is the unique key for that row
     .join(
       // + HANDLE ENTER SELECTION
       enter => enter.append("circle"),

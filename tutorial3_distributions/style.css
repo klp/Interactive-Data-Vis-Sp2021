@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, sans-serif;
+  }
+  
+  svg{
+    margin: 0 auto;
+    display: block;
+  }
+  
+  text{
+    fill: black;
+  }
