@@ -20,4 +20,5 @@ If you find you're not able complete this week's assignment, reflecting on where
 
 ## Issues
 
-1. Had some trouble with the axis drawing. I think I skipped to trying to refactor into reusable consts too early, so defined them with a appends to svg.
+1. Had some trouble with the axis drawing. I think I skipped to trying to refactor into reusable consts too early, so defined them with a appends to svg. It turns out I wasn't passing in an array (i.e. using square brackets)
+2. Wish I could have gotten the top axis label to be on the left. I abandoned that to complete the brief. Oh well.

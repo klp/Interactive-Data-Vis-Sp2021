@@ -1,10 +1,12 @@
 body{
     font-family: Arial, sans-serif;
+    font-size: 13;
   }
   
   svg{
     margin: 0 auto;
     display: block;
+    border: palegreen;
   }
   
   text{
