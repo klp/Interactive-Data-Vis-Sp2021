@@ -1,5 +1,5 @@
 /* CONSTANTS AND GLOBALS */
-const width = window.innerWidth * 0.8,
+const width = window.innerWidth * 0.7,
   height = window.innerHeight * 0.7,
   margin = { top: 20, bottom: 60, left: 60, right: 40 },
   radius = 5;
@@ -30,7 +30,7 @@ d3.csv("../data/reddit_gamespot_wallstreet_posts.csv", d3.autoType).then(raw_dat
 // this will be run *one time* when the data finishes loading in
 function init() {
   xScale = d3.scaleLinear()
-    .domain(d3.extent(state.data, d => d.num_comments))
+    .domain(d3.extent(state.data, d => d.comments))
     .range(margin.left, width - margin.right)
 
   yScale = d3.scaleLinear()
@@ -62,9 +62,11 @@ function init() {
 
   svg.append("g")
     .attr("class", "yAxis")
-    .attr("transform", `translate(${margin.left}, ${0})`)
+    .attr("transform", `translate(${margin.left}, ${height / 2})`)
     .call(yAxis)
     .append("text")
+    .attr("transform", "rotate(-90)")
+    
     .text("# of Upvotes")
 
     
