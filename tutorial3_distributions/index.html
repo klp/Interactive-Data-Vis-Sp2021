@@ -5,7 +5,30 @@
     <link rel="stylesheet" href="./style.css">
   </head>
   <body>
-    <label for="dropdown">Filter Selection</label>
+    <h1>Gamestop Reddit Post Comments vs. Upvotes</h1>
+    <p>This scatterplot displays number of comments vs
+      upvotes for Reddit posts about Gamestop stock. 
+      The data source can be found here: 
+      <a href="https://www.kaggle.com/yorkehead/stock-market-subreddits">
+        on Kaggle (Stock Market Subreddits</a>. 
+     </p>
+
+    <p>The posts are categorized by three Subreddits:
+      <ol>
+        <li>Investing</li>
+        <li>Stocks</li>
+        <li>Wallstreet Bets</li>
+      </ol>
+    </p>
+    <p>I think it's interesting how many more upvotes
+      and posts happen on Wallstreet Bets vs. the other
+      categories.
+    </p>
+    <p>One enhancement comes to mind: trimming the outliers
+      and see if there's a better linear shape to the data
+      based on shortening the x-axis that way.
+    </p>
+    <label for="dropdown">Related Subreddits</label>
     <select id="dropdown" name="dropdown"></select>
     <div id="d3-container"> </div>
     <script src="../lib/d3.js"></script>

@@ -1,7 +1,7 @@
 /* CONSTANTS AND GLOBALS */
-const width = window.innerWidth * 0.7,
+const width = window.innerWidth * 0.8,
   height = window.innerHeight * 0.7,
-  margin = { top: 20, bottom: 60, left: 60, right: 40 },
+  margin = { top: 20, bottom: 60, left: 200, right: 40 },
   radius = 4;
 
 // these variables allow us to access anything we manipulate in init() but need access to in draw().
@@ -46,7 +46,7 @@ function init() {
   const yAxis = d3.axisLeft(yScale)
 
   // + UI ELEMENT SETUP
-  const selectElement = d3.select("#dropdown") // select drowpdown element from HTML
+  const selectElement = d3.select("#dropdown") // select drowpdown element index.html
 
   selectElement
     .selectAll("option")
@@ -56,7 +56,7 @@ function init() {
       { key: "stocks",          label: "Stocks" },
       { key: "wallstreetbets",  label: "Wallstreet" }])
     .join("option")
-    .attr("value", d => d.key) // set the key to the 'value' -- what we will use to FILTER our data later
+    .attr("value", d => d.key) // this feels kinda magical
     .text(d => d.label); 
 
   // set up our event listener
@@ -67,21 +67,20 @@ function init() {
     draw(); // re-draw the graph based on this new selection
   });
 
-  // + CREATE SVG ELEMENT
   svg = d3.select("#d3-container")
     .append("svg")
     .attr("width", width)
     .attr("height", height)
 
-  // + CALL AXES
+  // calling axes
   const xAxisGroup = svg.append("g")
     .attr("class", 'xAxis')
-    .attr("transform", `translate(${0}, ${height - margin.bottom})`) // move to the bottom
+    .attr("transform", `translate(${0}, ${height - margin.bottom})`) 
     .call(xAxis)
 
   const yAxisGroup = svg.append("g")
     .attr("class", 'yAxis')
-    .attr("transform", `translate(${margin.left}, ${0})`) // align with left margin
+    .attr("transform", `translate(${margin.left}, ${0})`) 
     .call(yAxis)
 
   // add labels - xAxis
@@ -95,13 +94,13 @@ function init() {
   // add labels - yAxis
   yAxisGroup.append("text")
     .attr("class", 'axis-title')
-    .attr("x", -50)
+    .attr("x", -90)
     .attr("y", height / 2)
     .attr("writing-mode", "vertical-lr")
     .attr("text-anchor", "middle")
     .text("# of Upvotes")
 
-  draw(); // calls the draw function
+  draw(); 
 }
 
 /* DRAW FUNCTION */
@@ -119,11 +118,11 @@ function draw() {
       enter => enter.append("circle")
         .attr("r", radius)
         .attr("fill", d => colorScale(d.subreddit))
-        .attr("cx", 0) // start dots on the left
-        .attr("cy", d => yScale(d.score))
+        .attr("cx", d => xScale(d.comments)) // start dots on the left
+        .attr("cy", height - margin.bottom)
         .call(sel => sel.transition()
           .duration(1500)
-          .attr("cx", d => xScale(d.comments)) // transition to correct position
+          .attr("cy", d => yScale(d.score)) // transition to correct position
         ),
 
       // + HANDLE UPDATE SELECTION

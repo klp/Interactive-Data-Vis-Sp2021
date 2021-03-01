@@ -2,12 +2,40 @@ body{
     font-family: Arial, sans-serif;
     font-size: 13;
   }
-  
-  svg{
-    margin: 0 auto;
-    display: block;
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
   }
   
-  text{
-    fill: black;
-  }
+svg{
+  margin: 0 auto;
+  display: block;
+}
+
+.xAxis {
+  font: 13px sans-serif;
+}
+
+.yAxis {
+  font: 13px sans-serif;
+}
+
+text{
+  fill: black;
+}
+
+a {
+  color: green;
+  padding: 1.5em;
+}
+
+a:visited {
+  color: olivedrab;
+}
+
+p {
+  text-indent: 1em;
+}
+
+
