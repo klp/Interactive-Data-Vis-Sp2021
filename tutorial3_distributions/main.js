@@ -29,11 +29,11 @@ d3.csv("../data/reddit_gamespot_wallstreet_posts.csv", d3.autoType).then(raw_dat
 // this will be run *one time* when the data finishes loading in
 function init() {
   // + SCALES
-  xScale = d3.scaleLinear()
+  xScale = d3.scaleLog()
     .domain(d3.extent(state.data, d => d.comments))
     .range([margin.left, width - margin.right])
 
-  yScale = d3.scaleLinear()
+  yScale = d3.scaleLog()
     .domain(d3.extent(state.data, d => d.score))
     .range([height - margin.bottom, margin.bottom])
 
