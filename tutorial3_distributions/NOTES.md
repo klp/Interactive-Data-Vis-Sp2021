@@ -24,3 +24,7 @@ If you find you're not able complete this week's assignment, reflecting on where
 2. Wish I could have gotten the top axis label to be on the left. I abandoned that to complete the brief. Oh well.
 3. Really strugged for a while, probably based on scope and executing each function. I'm too used to a complier or interpreter to catch bugs, though vscode and the console are somewhat helpful
 4. I ended up riffing on the demo branch for what I'm submitting...
+
+## Post submission changes
+
+1. Changed scales to be logrhythmic...need to think about how these get labeled...
