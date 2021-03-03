@@ -16,8 +16,8 @@ If you find you're not able complete this week's assignment, reflecting on where
 ## Order of operations
 1. As always fetch upstream, then merge upstream/main into local main branch.
 2. After a bit of cleaning, load the data ([original source](https://data.cityofnewyork.us/Business/Charges/5fn4-dr26) for reference later.
-3. 
+3. I tried to do some wrangling, but got caught up in errors...decided I would preprocess the data to make headway, and maybe create a branch with my attempts at wrangling and aggregating.
 
 ## Questions and comments
 1. I need to aggregate some of my data for this to work as a line graph. I'm thinking of doing a count of Borough (i.e. number of charges
-per borough), then have an x-axis equal to date or maybe month. Wondering if I should do the aggregation in d3 
+per borough), then have an x-axis equal to date or maybe month. Wondering if I should do the aggregation in d3. 

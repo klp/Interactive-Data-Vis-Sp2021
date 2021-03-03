@@ -28,9 +28,8 @@ let state = {
 d3.csv('../data/nyc_dca_charges_cleaned.csv', d => {
   return {
     // HEY JAVIER Want to parse violation_date from MM/DD/YYYY to MM/YYYY for each of readibility
-    violation_date: new Date(+d.violation_date, 0, 1), // convert violation_date to date, love to get that to MM/YYYY
-    // violation_date: tParse(violation_date) //
-    // Trying to group and count by 
+    violation_date: new Date(+d.violation_date, 0, 1), // convert violation_date to date, but fails
+    // violation_date: tParse(violation_date) // an attempt to 
 
   }
 })
