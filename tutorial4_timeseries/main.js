@@ -18,7 +18,7 @@ let state = {
 
 /* LOAD DATA */
 // + SET YOUR DATA PATH
-d3.csv('YOUR_DATA_PATH', d3.autoType)
+d3.csv('../data/nyc_dca_charges_cleaned.csv', d3.autoType)
   .then(data => {
     console.log("loaded data:", data);
     state.data = data;
