@@ -9,6 +9,13 @@ const width = window.innerWidth * 0.7,
 let svg;
 let xScale;
 let yScale;
+// let countsByBorough = d3.nest()
+//   .key(d => d.borugh)
+//   .rollup(v => v.length)
+//   .entries(data);
+// console.log(countsByBorough);
+
+const tParse = d3.timeParse("%m/Y"); // Trying to use this to format date
 
 /* APPLICATION STATE */
 let state = {
@@ -18,14 +25,26 @@ let state = {
 
 /* LOAD DATA */
 // + SET YOUR DATA PATH
-d3.csv('../data/nyc_dca_charges_cleaned.csv', d3.autoType)
+d3.csv('../data/nyc_dca_charges_cleaned.csv', d => {
+  return {
+    // HEY JAVIER Want to parse violation_date from MM/DD/YYYY to MM/YYYY for each of readibility
+    violation_date: new Date(+d.violation_date, 0, 1), // convert violation_date to date, love to get that to MM/YYYY
+    // violation_date: tParse(violation_date) //
+    // Trying to group and count by 
+
+  }
+})
   .then(data => {
     console.log("loaded data:", data);
     state.data = data;
     init();
-  });
 
-/* INITIALIZING FUNCTION */
+});
+
+
+
+
+  /* INITIALIZING FUNCTION */
 // this will be run *one time* when the data finishes loading in
 function init() {
   // + SCALES
