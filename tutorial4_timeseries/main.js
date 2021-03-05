@@ -71,7 +71,7 @@ function init() {
     .attr("class", 'xAxis')
     .attr("transform", `translate(${0}, ${height - margin.bottom})`)
     .call(xAxis
-      .tickFormat(d3.timeFormat("%Y-%m-%d")))
+      .tickFormat(d3.timeFormat("%m-%Y")))
   
   const yAxisGroup = svg.append("g")
     .attr("class", 'yAxis')
