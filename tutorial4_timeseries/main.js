@@ -25,23 +25,12 @@ let state = {
 
 /* LOAD DATA */
 // + SET YOUR DATA PATH
-d3.csv('../data/nyc_dca_charges_cleaned.csv', d => {
-  return {
-    // HEY JAVIER Want to parse violation_date from MM/DD/YYYY to MM/YYYY for each of readibility
-    violation_date: new Date(+d.violation_date, 0, 1), // convert violation_date to date, but fails
-    // violation_date: tParse(violation_date) // an attempt to 
-
-  }
-})
-  .then(data => {
-    console.log("loaded data:", data);
-    state.data = data;
+d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', d3.autoType).then(import_data => {
+    console.log("loaded data:", import_data);
+    state.data = import_data;
     init();
 
 });
-
-
-
 
   /* INITIALIZING FUNCTION */
 // this will be run *one time* when the data finishes loading in
