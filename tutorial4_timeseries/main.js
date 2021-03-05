@@ -71,11 +71,12 @@ function init() {
     .attr("class", 'xAxis')
     .attr("transform", `translate(${0}, ${height - margin.bottom})`)
     .call(xAxis
-      .tickFormat(d3.timeFormat("%m-%Y")))
+      .tickFormat(d3.timeFormat("%m-%Y"))
+      .ticks(12))
   
   const yAxisGroup = svg.append("g")
     .attr("class", 'yAxis')
-    .attr("tranform", `translate(${margin.left}, ${0})`)
+    .attr("transform", `translate(${margin.left}, ${0})`) 
     .call(yAxis)
 
   xAxisGroup.append("text")
@@ -84,6 +85,14 @@ function init() {
     .attr("y", 40)
     .attr("text-anchor", "middle")
     .text("Date of Violation")
+  
+  yAxisGroup.append("text")
+    .attr("class", 'axis_title')
+    .attr("x", -30)
+    .attr("y", height / 2)
+    .attr("writing-mode", "vertical-lr")
+    .attr("text-archor", "middle")
+    .text("# of Charges")
 
   draw(); // calls the draw function
 }
