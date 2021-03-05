@@ -18,9 +18,13 @@ If you find you're not able complete this week's assignment, reflecting on where
 2. After a bit of cleaning, load the data ([original source](https://data.cityofnewyork.us/Business/Charges/5fn4-dr26) for reference later.
 3. I tried to do some wrangling, but got caught up in errors...decided I would preprocess the data to make headway, and maybe create a branch with my attempts at wrangling and aggregating.
 4. After preprocessing the data, I wanted to get to a point where the svg element is defined, and axes drawn, to see if the scaling is right
+5. Made adjustments after adding trying to add the dropdown selector values:
+a. Make sure that I include all columns I wanted to use in the override function when importing the csv
+b. Sorted the array created from the set so there was some sense to it.
 
 ## Questions and comments
 1. I need to aggregate some of my data for this to work as a line graph. I'm thinking of doing a count of Borough (i.e. number of charges
 per borough), then have an x-axis equal to date or maybe month. Wondering if I should do the aggregation in d3. 
 2. Is there a reason why we use single quotes when calling the axes attributes?
-3. 
+3. When I'm selecting the options for dropdown, these last two bits seem mysterious `.attr("attr", d => d) .text(d => d)`...
+4. It occurs to me that I should probably start saving more const and vars over time.

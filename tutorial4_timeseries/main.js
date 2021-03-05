@@ -27,7 +27,9 @@ let state = {
 // + SET YOUR DATA PATH
 d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', (d) => {
   return {
-  date: new Date(d.violation_date)
+  date: new Date(d.violation_date),
+  borough: d.borough,
+  count_charges: d.count_violation_by_date_borough
   }
 })
 
@@ -55,9 +57,14 @@ function init() {
   const yAxis = d3.axisLeft(yScale)
 
   // + UI ELEMENT SETUP
+  const dropdown = d3.select("#dropdown")
 
   // add in dropdown options from the unique values in the data
-
+  dropdown.selectAll("options")
+    .data (Array.from(new Set(state.data.map(d => d.borough))).sort())  // you can't sort a set, but you can sort an array
+    .join("option")
+    .attr("value", d => d)
+    .text(d => d)
   // + SET SELECT ELEMENT'S DEFAULT VALUE (optional)
 
   // + CREATE SVG ELEMENT
