@@ -31,7 +31,7 @@ d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', (d) => {
   }
 })
 
-.then(import_data => {
+  .then(import_data => {
     console.log("loaded data:", import_data);
     state.data = import_data;
     init();
@@ -43,7 +43,7 @@ d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', (d) => {
 function init() {
   // + SCALES
   xScale = d3.scaleLinear()
-    .domain(d3.extent(state.data, d => d.violation_date))
+    .domain(d3.extent(state.data, d => d.date))
     .range([margin.left, width - margin.right])
   
   yScale = d3.scaleLinear()
@@ -70,7 +70,8 @@ function init() {
   const xAxisGroup = svg.append("g")
     .attr("class", 'xAxis')
     .attr("transform", `translate(${0}, ${height - margin.bottom})`)
-    .call(xAxis)
+    .call(xAxis
+      .tickFormat(d3.timeFormat("%Y-%m-%d")))
   
   const yAxisGroup = svg.append("g")
     .attr("class", 'yAxis')
