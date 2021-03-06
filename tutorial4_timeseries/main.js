@@ -9,13 +9,9 @@ const width = window.innerWidth * 0.7,
 let svg;
 let xScale;
 let yScale;
-// let countsByBorough = d3.nest()
-//   .key(d => d.borugh)
-//   .rollup(v => v.length)
-//   .entries(data);
-// console.log(countsByBorough);
-
-const tParse = d3.timeParse("%m/Y"); // Trying to use this to format date
+let xAxisGroup;
+let yAxisGroup;
+let colorScale = d3.scaleOrdinal(d3.schemeTableau10); 
 
 /* APPLICATION STATE */
 let state = {
@@ -25,20 +21,19 @@ let state = {
 
 /* LOAD DATA */
 // + SET YOUR DATA PATH
-d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', (d) => {
+d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', d => {
   return {
   date: new Date(d.violation_date),
   borough: d.borough,
-  count_charges: d.count_violation_by_date_borough
+  count_charges: +d.count_violation_by_date_borough
   }
 })
 
-  .then(import_data => {
-    console.log("loaded data:", import_data);
-    state.data = import_data;
+  .then(data => {
+    console.log("loaded data:", data);
+    state.data = data;
     init();
-
-});
+  });
 
   /* INITIALIZING FUNCTION */
 // this will be run *one time* when the data finishes loading in
@@ -60,12 +55,20 @@ function init() {
   const dropdown = d3.select("#dropdown")
 
   // add in dropdown options from the unique values in the data
-  dropdown.selectAll("options")
-    .data (Array.from(new Set(state.data.map(d => d.borough))).sort())  // you can't sort a set, but you can sort an array
+  dropdown.selectAll("option")
+    .data ([
+      "Select a borough",
+      ...Array.from(new Set(state.data.map(d => d.borough))).sort()
+    ])  // you can't sort a set, but you can sort an array
     .join("option")
     .attr("value", d => d)
     .text(d => d)
   // + SET SELECT ELEMENT'S DEFAULT VALUE (optional)
+  dropdown.on("change", event => {
+    state.selection = event.target.value
+    console:log('state updated to: ', state) // to track what's going on
+    draw();
+  });
 
   // + CREATE SVG ELEMENT
   svg = d3.select("#d3-container")
@@ -108,14 +111,49 @@ function init() {
 // we call this everytime there is an update to the data/state
 function draw() {
   // + FILTER DATA BASED ON STATE
+  const filteredByBorough = state.data
+    .filter(d => d.borough === state.selection)
 
   // + UPDATE SCALE(S), if needed
 
   // + UPDATE AXIS/AXES, if needed
 
   // + DRAW CIRCLES/LABEL GROUPS, if you decide to
+  const dots = svg 
+    .selectAll(".dot")
+    .data(filteredByBorough, d => d.violation_date)
+    .join(
+      enter => enter.append("g")
+        .attr("class", "dot")
+        .attr("transform", d => `translate(${xScale(d.violation_date)}, ${yScale(d.count_charges)})`)
+      ,
+      update => update.transition()
+        .call(update => update.transition()
+          .duration(900)
+          .attr("transform", d => `translate(${xScale(d.violation_date)}, ${yScale(d.count_charges)})`)
+      ),
+      exit => exit.remove()
+    );
 
-  // + DEFINE LINE GENERATOR FUNCTION
+  dots.selectAll("circle")
+      .data(d => [d]) // pass data to child
+      .join("circle")
+      .attr("r", radius)
+
+  // + DEFINE AREA GENERATOR FUNCTION
+  const area = d3.area()
+    .x(d => x(d.violation_date))
+    .y1(d => y(d.count_charges))
+    .y0(y(0));
 
   // + DRAW LINE AND/OR AREA
+  svg.selectAll(".area")
+  .data([filteredData]) // data needs to take an []
+  .join("path")
+  .attr("class", 'area')
+  .attr("fill", d => colorScale(d.borough))
+  .attr("stroke", "black")
+  .transition()
+  .duration(1000)
+  .attr("d", d => lineGen(d))
 }
