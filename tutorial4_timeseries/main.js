@@ -44,7 +44,7 @@ function init() {
     .range([margin.left, width - margin.right])
   
   yScale = d3.scaleLinear()
-    .domain(d3.extent(state.data, d => d.count_violation_by_date_borough))
+    .domain(d3.extent(state.data, d => d.count_charges))
     .range([height - margin.bottom, margin.bottom])
 
   // + AXES
