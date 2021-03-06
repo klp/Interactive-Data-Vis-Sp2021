@@ -28,7 +28,6 @@ d3.csv('../data/nyc_dca_charges_cleaned_processed.csv', d => {
   count_charges: +d.count_violation_by_date_borough
   }
 })
-
   .then(data => {
     console.log("loaded data:", data);
     state.data = data;
@@ -125,8 +124,7 @@ function draw() {
     .join(
       enter => enter.append("g")
         .attr("class", "dot")
-        .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`)
-      ,
+        .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`),
       update => update.transition()
         .call(update => update.transition()
           .duration(900)
