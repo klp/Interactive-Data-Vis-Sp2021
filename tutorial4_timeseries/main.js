@@ -16,14 +16,14 @@ let colorScale = d3.scaleOrdinal(d3.schemeTableau10);
 /* APPLICATION STATE */
 let state = {
   data: [],
-  selection: "All", // + YOUR FILTER SELECTION
+  selection: "All" // + YOUR FILTER SELECTION
 };
 
 /* LOAD DATA */
 // + SET YOUR DATA PATH
-d3.csv('../data/nyc_dca_charges_final_cleaned_processed.csv', d => {
+d3.csv('../data/nyc_dca_charges_cleaned_processed.csv', d => {
   return {
-  date: new Date(d.violation_date),
+  date: new Date(+d.violation_year, 0, 1),
   borough: d.borough,
   count_charges: +d.count_violation_by_date_borough
   }
@@ -66,7 +66,7 @@ function init() {
   // + SET SELECT ELEMENT'S DEFAULT VALUE (optional)
   dropdown.on("change", event => {
     state.selection = event.target.value
-    console:log('state updated to: ', state) // to track what's going on
+    console.log('state updated to: ', state) // to track what's going on
     draw();
   });
 
@@ -81,8 +81,8 @@ function init() {
     .attr("class", 'xAxis')
     .attr("transform", `translate(${0}, ${height - margin.bottom})`)
     .call(xAxis
-      .tickFormat(d3.timeFormat("%m-%Y"))
-      .ticks(12))
+      .tickFormat(d3.timeFormat("%Y"))
+      .ticks(7))
   
   const yAxisGroup = svg.append("g")
     .attr("class", 'yAxis')
@@ -98,7 +98,7 @@ function init() {
   
   yAxisGroup.append("text")
     .attr("class", 'axis_title')
-    .attr("x", -30)
+    .attr("x", -40)
     .attr("y", height / 2)
     .attr("writing-mode", "vertical-lr")
     .attr("text-archor", "middle")

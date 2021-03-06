@@ -1,0 +1,9449 @@
+violation_year,borough,count_violation_by_date_borough
+2014,Bronx,35
+2014,Brooklyn,34
+2014,Manhattan,35
+2014,Queens,25
+2014,Staten Island,11
+2014,Bronx,30
+2014,Brooklyn,14
+2014,Manhattan,7
+2014,Queens,17
+2014,Unknown,1
+2014,Brooklyn,9
+2014,Queens,11
+2014,Bronx,5
+2014,Brooklyn,10
+2014,Queens,9
+2014,Bronx,23
+2014,Brooklyn,36
+2014,Manhattan,43
+2014,Queens,28
+2014,Staten Island,18
+2014,Bronx,46
+2014,Brooklyn,28
+2014,Manhattan,23
+2014,Queens,27
+2014,Staten Island,1
+2014,Bronx,13
+2014,Brooklyn,38
+2014,Manhattan,65
+2014,Queens,30
+2014,Staten Island,11
+2014,Unknown,27
+2014,Bronx,32
+2014,Brooklyn,35
+2014,Manhattan,41
+2014,Queens,27
+2014,Staten Island,19
+2014,Unknown,13
+2014,Bronx,38
+2014,Brooklyn,48
+2014,Manhattan,39
+2014,Queens,54
+2014,Staten Island,11
+2014,Unknown,16
+2014,Bronx,26
+2014,Brooklyn,5
+2014,Queens,28
+2014,Bronx,20
+2014,Brooklyn,8
+2014,Queens,11
+2014,Unknown,2
+2014,Bronx,17
+2014,Brooklyn,13
+2014,Manhattan,48
+2014,Queens,13
+2014,Staten Island,14
+2014,Bronx,23
+2014,Brooklyn,59
+2014,Manhattan,25
+2014,Queens,28
+2014,Staten Island,1
+2014,Bronx,4
+2014,Brooklyn,10
+2014,Manhattan,34
+2014,Queens,65
+2014,Staten Island,15
+2014,Unknown,1
+2014,Bronx,29
+2014,Brooklyn,60
+2014,Manhattan,70
+2014,Queens,17
+2014,Staten Island,21
+2014,Unknown,22
+2014,Bronx,32
+2014,Brooklyn,69
+2014,Manhattan,30
+2014,Queens,44
+2014,Staten Island,4
+2014,Unknown,1
+2014,Bronx,27
+2014,Brooklyn,22
+2014,Manhattan,3
+2014,Bronx,6
+2014,Brooklyn,15
+2014,Manhattan,21
+2014,Queens,3
+2014,Unknown,2
+2014,Manhattan,3
+2014,Queens,1
+2014,Staten Island,11
+2014,Bronx,33
+2014,Brooklyn,41
+2014,Manhattan,47
+2014,Queens,24
+2014,Staten Island,8
+2014,Bronx,28
+2014,Brooklyn,38
+2014,Manhattan,18
+2014,Queens,38
+2014,Staten Island,5
+2014,Unknown,15
+2014,Bronx,16
+2014,Manhattan,10
+2014,Queens,7
+2014,Staten Island,4
+2014,Bronx,6
+2014,Brooklyn,31
+2014,Bronx,12
+2014,Brooklyn,65
+2014,Manhattan,31
+2014,Queens,13
+2014,Staten Island,24
+2014,Bronx,24
+2014,Brooklyn,41
+2014,Manhattan,37
+2014,Queens,23
+2014,Staten Island,5
+2014,Unknown,14
+2014,Bronx,5
+2014,Brooklyn,22
+2014,Manhattan,74
+2014,Queens,37
+2014,Staten Island,16
+2014,Unknown,1
+2014,Bronx,21
+2014,Brooklyn,49
+2014,Manhattan,58
+2014,Queens,6
+2014,Staten Island,8
+2014,Bronx,34
+2014,Brooklyn,53
+2014,Manhattan,37
+2014,Queens,53
+2014,Staten Island,9
+2014,Bronx,4
+2014,Brooklyn,5
+2014,Queens,6
+2014,Staten Island,7
+2014,Brooklyn,18
+2014,Queens,7
+2014,Bronx,7
+2014,Brooklyn,19
+2014,Manhattan,26
+2014,Queens,6
+2014,Staten Island,16
+2014,Unknown,2
+2014,Bronx,22
+2014,Brooklyn,32
+2014,Manhattan,28
+2014,Queens,31
+2014,Staten Island,4
+2014,Unknown,7
+2014,Brooklyn,14
+2014,Manhattan,41
+2014,Queens,55
+2014,Staten Island,7
+2014,Bronx,17
+2014,Brooklyn,27
+2014,Manhattan,50
+2014,Queens,15
+2014,Staten Island,5
+2014,Unknown,10
+2014,Bronx,5
+2014,Brooklyn,52
+2014,Manhattan,28
+2014,Queens,32
+2014,Staten Island,3
+2014,Unknown,13
+2014,Bronx,14
+2014,Brooklyn,42
+2014,Manhattan,8
+2014,Queens,8
+2014,Brooklyn,26
+2014,Bronx,8
+2014,Brooklyn,19
+2014,Manhattan,18
+2014,Queens,11
+2014,Staten Island,13
+2014,Unknown,15
+2014,Bronx,15
+2014,Brooklyn,52
+2014,Manhattan,9
+2014,Queens,33
+2014,Staten Island,2
+2014,Unknown,13
+2014,Brooklyn,13
+2014,Manhattan,41
+2014,Queens,47
+2014,Staten Island,20
+2014,Unknown,1
+2014,Staten Island,3
+2014,Bronx,8
+2014,Brooklyn,39
+2014,Manhattan,38
+2014,Queens,27
+2014,Bronx,5
+2014,Queens,12
+2014,Bronx,9
+2014,Brooklyn,13
+2014,BRONX,1
+2014,Bronx,7
+2014,Brooklyn,29
+2014,Manhattan,16
+2014,Outside NYC,14
+2014,Queens,23
+2014,Bronx,5
+2014,Brooklyn,29
+2014,Manhattan,23
+2014,Queens,29
+2014,Staten Island,12
+2014,Bronx,26
+2014,Brooklyn,68
+2014,Manhattan,54
+2014,Queens,14
+2014,Staten Island,6
+2014,Bronx,9
+2014,Brooklyn,33
+2014,Manhattan,7
+2014,Queens,51
+2014,Staten Island,18
+2014,Bronx,15
+2014,Brooklyn,3
+2014,Manhattan,6
+2014,Queens,3
+2014,Bronx,18
+2014,Brooklyn,5
+2014,Manhattan,2
+2014,Queens,6
+2014,Bronx,16
+2014,Brooklyn,12
+2014,Manhattan,42
+2014,Queens,19
+2014,Staten Island,15
+2014,Bronx,28
+2014,Brooklyn,42
+2014,Manhattan,10
+2014,Queens,28
+2014,Staten Island,7
+2014,Bronx,4
+2014,Brooklyn,23
+2014,Manhattan,50
+2014,Queens,35
+2014,Staten Island,22
+2014,Bronx,21
+2014,Brooklyn,37
+2014,Manhattan,84
+2014,Queens,11
+2014,Staten Island,30
+2014,Bronx,15
+2014,Brooklyn,22
+2014,Manhattan,12
+2014,Queens,14
+2014,Staten Island,9
+2014,Unknown,5
+2014,Bronx,32
+2014,Brooklyn,5
+2014,Manhattan,24
+2014,Brooklyn,13
+2014,Queens,4
+2014,Bronx,15
+2014,Brooklyn,18
+2014,Manhattan,20
+2014,Outside NYC,1
+2014,Queens,13
+2014,Staten Island,5
+2014,BRONX,1
+2014,Bronx,19
+2014,Brooklyn,30
+2014,Manhattan,3
+2014,Queens,20
+2014,Staten Island,2
+2014,Bronx,7
+2014,Brooklyn,19
+2014,Manhattan,19
+2014,Queens,34
+2014,Staten Island,19
+2014,Unknown,25
+2014,Bronx,15
+2014,Brooklyn,29
+2014,Manhattan,30
+2014,Queens,5
+2014,Staten Island,17
+2014,Unknown,8
+2014,Bronx,26
+2014,Brooklyn,57
+2014,Manhattan,23
+2014,Queens,21
+2014,Staten Island,6
+2014,Bronx,12
+2014,Brooklyn,5
+2014,Manhattan,34
+2014,Queens,11
+2014,Staten Island,6
+2014,Bronx,5
+2014,Brooklyn,9
+2014,Manhattan,27
+2014,Bronx,1
+2014,Brooklyn,10
+2014,Manhattan,24
+2014,Queens,15
+2014,Staten Island,47
+2014,Unknown,34
+2014,Bronx,14
+2014,Brooklyn,16
+2014,Manhattan,9
+2014,Queens,18
+2014,Staten Island,36
+2014,Unknown,6
+2014,Brooklyn,33
+2014,Manhattan,20
+2014,Queens,30
+2014,Staten Island,10
+2014,Bronx,31
+2014,Brooklyn,32
+2014,Manhattan,36
+2014,Outside NYC,1
+2014,Queens,4
+2014,Staten Island,7
+2014,Bronx,32
+2014,Brooklyn,45
+2014,Manhattan,16
+2014,Queens,30
+2014,Unknown,42
+2014,Bronx,19
+2014,Brooklyn,22
+2014,Manhattan,27
+2014,Queens,4
+2014,Staten Island,3
+2014,Brooklyn,3
+2014,Manhattan,13
+2014,Queens,1
+2014,Bronx,10
+2014,Brooklyn,16
+2014,Manhattan,30
+2014,Queens,7
+2014,Staten Island,13
+2014,Bronx,22
+2014,Brooklyn,18
+2014,Manhattan,8
+2014,Outside NYC,2
+2014,Queens,19
+2014,Unknown,2
+2014,Bronx,10
+2014,Brooklyn,26
+2014,Manhattan,27
+2014,Queens,27
+2014,Staten Island,3
+2014,Bronx,17
+2014,Brooklyn,39
+2014,Manhattan,22
+2014,Queens,5
+2014,Staten Island,13
+2014,Bronx,33
+2014,Brooklyn,22
+2014,Manhattan,15
+2014,Queens,20
+2014,Staten Island,2
+2014,Bronx,6
+2014,Brooklyn,18
+2014,Manhattan,8
+2014,Queens,33
+2014,Bronx,2
+2014,Brooklyn,4
+2014,Queens,2
+2014,Bronx,10
+2014,Brooklyn,10
+2014,Manhattan,48
+2014,Queens,12
+2014,Staten Island,19
+2014,Bronx,14
+2014,Brooklyn,27
+2014,Manhattan,9
+2014,Queens,17
+2014,Staten Island,7
+2014,Unknown,8
+2014,Bronx,1
+2014,Brooklyn,18
+2014,Manhattan,32
+2014,Queens,25
+2014,Staten Island,23
+2014,Bronx,34
+2014,Brooklyn,28
+2014,Manhattan,38
+2014,Queens,9
+2014,Staten Island,18
+2014,Unknown,83
+2014,Bronx,67
+2014,Brooklyn,35
+2014,Manhattan,15
+2014,Queens,24
+2014,Staten Island,8
+2014,Unknown,6
+2014,Bronx,10
+2014,Brooklyn,2
+2014,Manhattan,11
+2014,Queens,2
+2014,Staten Island,10
+2014,Brooklyn,25
+2014,Manhattan,9
+2014,Bronx,13
+2014,Brooklyn,23
+2014,Manhattan,20
+2014,Queens,45
+2014,Staten Island,3
+2014,Unknown,32
+2014,Bronx,16
+2014,Brooklyn,29
+2014,Manhattan,16
+2014,Outside NYC,1
+2014,Queens,33
+2014,Staten Island,3
+2014,Bronx,9
+2014,Brooklyn,15
+2014,Manhattan,41
+2014,Outside NYC,1
+2014,Queens,21
+2014,Staten Island,26
+2014,Unknown,18
+2014,BRONX,2
+2014,Bronx,36
+2014,Brooklyn,27
+2014,Manhattan,41
+2014,Queens,5
+2014,Bronx,23
+2014,Brooklyn,52
+2014,Manhattan,21
+2014,Queens,31
+2014,Staten Island,9
+2014,Bronx,33
+2014,Brooklyn,4
+2014,Manhattan,6
+2014,Queens,2
+2014,Bronx,10
+2014,Brooklyn,7
+2014,Manhattan,1
+2014,Queens,3
+2014,Bronx,8
+2014,Brooklyn,13
+2014,Manhattan,27
+2014,Queens,11
+2014,Staten Island,7
+2014,Unknown,1
+2014,Bronx,17
+2014,Brooklyn,36
+2014,Manhattan,15
+2014,Queens,18
+2014,Staten Island,3
+2014,Unknown,2
+2014,Bronx,2
+2014,Brooklyn,16
+2014,Manhattan,24
+2014,Queens,37
+2014,Staten Island,18
+2014,Bronx,15
+2014,Brooklyn,32
+2014,Manhattan,53
+2014,Queens,7
+2014,Staten Island,2
+2014,Unknown,10
+2014,Bronx,5
+2014,Brooklyn,52
+2014,Manhattan,22
+2014,Queens,23
+2014,Staten Island,17
+2014,Unknown,1
+2014,Bronx,6
+2014,Brooklyn,23
+2014,Manhattan,2
+2014,Queens,7
+2014,Bronx,12
+2014,Brooklyn,14
+2014,Manhattan,36
+2014,Queens,11
+2014,Staten Island,6
+2014,Unknown,5
+2014,Bronx,19
+2014,Brooklyn,13
+2014,Manhattan,3
+2014,Queens,23
+2014,Unknown,34
+2014,Bronx,7
+2014,Brooklyn,18
+2014,Manhattan,13
+2014,Queens,21
+2014,Staten Island,8
+2014,Unknown,2
+2014,Bronx,7
+2014,Brooklyn,39
+2014,Manhattan,36
+2014,Queens,9
+2014,Staten Island,8
+2014,Bronx,2
+2014,Brooklyn,14
+2014,Manhattan,26
+2014,Queens,16
+2014,Bronx,8
+2014,Brooklyn,13
+2014,Manhattan,41
+2014,Queens,13
+2014,Staten Island,5
+2014,Unknown,7
+2014,Bronx,26
+2014,Brooklyn,23
+2014,Manhattan,21
+2014,Queens,30
+2014,Staten Island,2
+2014,Unknown,24
+2014,Bronx,10
+2014,Brooklyn,16
+2014,Manhattan,31
+2014,Queens,19
+2014,Staten Island,7
+2014,Unknown,15
+2014,Bronx,5
+2014,Brooklyn,30
+2014,Manhattan,36
+2014,Outside NYC,1
+2014,Queens,17
+2014,Staten Island,10
+2014,Bronx,12
+2014,Brooklyn,24
+2014,Manhattan,10
+2014,Queens,17
+2014,Staten Island,4
+2014,Bronx,8
+2014,Manhattan,11
+2014,Queens,3
+2014,Bronx,11
+2014,Brooklyn,5
+2014,Queens,12
+2014,Bronx,11
+2014,Brooklyn,1
+2014,Manhattan,26
+2014,Outside NYC,20
+2014,Queens,8
+2014,Staten Island,10
+2014,Unknown,12
+2014,Bronx,6
+2014,Brooklyn,13
+2014,Manhattan,5
+2014,Queens,23
+2014,Staten Island,2
+2014,Bronx,6
+2014,Brooklyn,9
+2014,Manhattan,18
+2014,Outside NYC,1
+2014,Queens,9
+2014,Staten Island,14
+2014,Bronx,3
+2014,Brooklyn,31
+2014,Manhattan,36
+2014,Queens,5
+2014,Staten Island,8
+2014,Bronx,13
+2014,Brooklyn,19
+2014,Manhattan,6
+2014,Queens,11
+2014,Staten Island,2
+2014,Bronx,11
+2014,Brooklyn,3
+2014,Manhattan,2
+2014,Queens,5
+2014,Brooklyn,19
+2014,Bronx,8
+2014,Brooklyn,2
+2014,Manhattan,27
+2014,Outside NYC,2
+2014,Queens,13
+2014,Staten Island,7
+2014,Unknown,25
+2014,Bronx,10
+2014,Brooklyn,5
+2014,Manhattan,13
+2014,Outside NYC,1
+2014,Queens,19
+2014,Staten Island,6
+2014,Bronx,8
+2014,Brooklyn,5
+2014,Manhattan,20
+2014,Queens,13
+2014,Staten Island,13
+2014,Bronx,10
+2014,Brooklyn,21
+2014,Manhattan,36
+2014,Queens,10
+2014,Staten Island,6
+2014,Unknown,51
+2014,Bronx,17
+2014,Brooklyn,26
+2014,Manhattan,9
+2014,Queens,23
+2014,Bronx,3
+2014,Brooklyn,10
+2014,Manhattan,15
+2014,Bronx,9
+2014,Brooklyn,12
+2014,Manhattan,12
+2014,Bronx,5
+2014,Brooklyn,9
+2014,Manhattan,24
+2014,Queens,16
+2014,Staten Island,5
+2014,Bronx,11
+2014,Brooklyn,26
+2014,Manhattan,5
+2014,Queens,38
+2014,Staten Island,6
+2014,BROOKLYN,2
+2014,Bronx,8
+2014,Brooklyn,5
+2014,Manhattan,25
+2014,Queens,18
+2014,Staten Island,10
+2014,Bronx,16
+2014,Brooklyn,27
+2014,Manhattan,15
+2014,Queens,2
+2014,Staten Island,3
+2014,Queens,4
+2014,Bronx,10
+2014,Brooklyn,6
+2014,Queens,8
+2014,Staten Island,8
+2014,Bronx,7
+2014,Brooklyn,2
+2014,Manhattan,7
+2014,Queens,21
+2014,Bronx,6
+2014,Brooklyn,5
+2014,Manhattan,22
+2014,Queens,17
+2014,Staten Island,6
+2014,Bronx,12
+2014,Brooklyn,17
+2014,Manhattan,12
+2014,Queens,16
+2014,Staten Island,4
+2014,Bronx,7
+2014,Brooklyn,15
+2014,Manhattan,26
+2014,Outside NYC,1
+2014,Queens,23
+2014,Staten Island,8
+2014,Bronx,6
+2014,Brooklyn,23
+2014,Manhattan,17
+2014,Queens,3
+2014,Staten Island,5
+2014,Unknown,5
+2014,Bronx,4
+2014,Brooklyn,1
+2014,Queens,4
+2014,Bronx,5
+2014,Brooklyn,5
+2014,Bronx,5
+2014,Brooklyn,6
+2014,Manhattan,16
+2014,Queens,6
+2014,Staten Island,1
+2014,Unknown,3
+2014,Bronx,6
+2014,Brooklyn,9
+2014,Manhattan,25
+2014,Queens,12
+2014,Staten Island,13
+2014,Bronx,6
+2014,Brooklyn,15
+2014,Manhattan,21
+2014,Queens,7
+2014,Staten Island,5
+2014,Bronx,5
+2014,Brooklyn,12
+2014,Manhattan,11
+2014,Queens,24
+2014,Staten Island,2
+2014,Brooklyn,3
+2014,Queens,6
+2014,Bronx,6
+2014,Manhattan,3
+2014,Bronx,5
+2014,Brooklyn,6
+2014,Manhattan,6
+2014,Queens,6
+2014,Bronx,11
+2014,Brooklyn,16
+2014,Manhattan,9
+2014,Queens,17
+2014,Bronx,2
+2014,Brooklyn,10
+2014,Manhattan,16
+2014,Queens,9
+2014,Staten Island,2
+2014,Bronx,2
+2014,Brooklyn,20
+2014,Manhattan,21
+2014,Outside NYC,1
+2014,Queens,6
+2014,Staten Island,1
+2014,Bronx,9
+2014,Brooklyn,7
+2014,Manhattan,18
+2014,Queens,11
+2014,Staten Island,4
+2014,Brooklyn,7
+2014,Manhattan,3
+2014,Queens,2
+2014,Bronx,4
+2014,Brooklyn,17
+2014,Manhattan,2
+2014,Queens,1
+2014,Bronx,4
+2014,Brooklyn,10
+2014,Manhattan,11
+2014,Queens,8
+2014,Staten Island,10
+2014,Unknown,2
+2014,Bronx,13
+2014,Brooklyn,19
+2014,Manhattan,6
+2014,Queens,9
+2014,Unknown,25
+2014,Bronx,6
+2014,Brooklyn,17
+2014,Manhattan,14
+2014,Queens,4
+2014,Staten Island,10
+2014,Bronx,3
+2014,Brooklyn,27
+2014,Manhattan,4
+2014,Queens,11
+2014,Staten Island,1
+2014,Bronx,7
+2014,Brooklyn,14
+2014,Manhattan,9
+2014,Queens,11
+2014,Staten Island,6
+2014,Bronx,4
+2014,Brooklyn,1
+2014,Manhattan,12
+2014,Brooklyn,7
+2014,Manhattan,20
+2014,Bronx,4
+2014,Brooklyn,12
+2014,Manhattan,14
+2014,Queens,40
+2014,Staten Island,6
+2014,Unknown,34
+2014,Bronx,2
+2014,Brooklyn,23
+2014,Manhattan,7
+2014,Queens,8
+2014,Staten Island,1
+2014,Unknown,9
+2014,Bronx,2
+2014,Brooklyn,4
+2014,Manhattan,8
+2014,Queens,4
+2014,Staten Island,8
+2014,Bronx,6
+2014,Brooklyn,21
+2014,Manhattan,8
+2014,Queens,2
+2014,Staten Island,2
+2014,Bronx,3
+2014,Brooklyn,4
+2014,Manhattan,21
+2014,Queens,13
+2014,Staten Island,8
+2014,Bronx,11
+2014,Brooklyn,7
+2014,Manhattan,6
+2014,Queens,6
+2014,Bronx,4
+2014,Brooklyn,14
+2014,Queens,1
+2014,Staten Island,1
+2014,Bronx,4
+2014,Brooklyn,19
+2014,Manhattan,8
+2014,Queens,6
+2014,Bronx,2
+2014,Brooklyn,12
+2014,Manhattan,10
+2014,Queens,12
+2014,Unknown,6
+2014,Bronx,1
+2014,Queens,1
+2014,Bronx,8
+2014,Brooklyn,29
+2014,Manhattan,14
+2014,Queens,5
+2014,Bronx,1
+2014,Brooklyn,13
+2014,Manhattan,19
+2014,Queens,9
+2014,Staten Island,7
+2014,Manhattan,9
+2014,Queens,4
+2014,Staten Island,3
+2014,Bronx,20
+2014,Brooklyn,20
+2014,Manhattan,20
+2014,Queens,7
+2014,Bronx,7
+2014,Brooklyn,26
+2014,Manhattan,19
+2014,Queens,21
+2014,Staten Island,5
+2014,Bronx,4
+2014,Brooklyn,17
+2014,Manhattan,18
+2014,Queens,12
+2014,Staten Island,6
+2014,Bronx,6
+2014,Brooklyn,21
+2014,Manhattan,8
+2014,Outside NYC,1
+2014,Queens,5
+2014,Staten Island,4
+2014,Unknown,13
+2014,Manhattan,4
+2014,Queens,3
+2014,Bronx,4
+2014,Brooklyn,13
+2014,Manhattan,21
+2014,Queens,7
+2014,Staten Island,1
+2014,Bronx,8
+2014,Brooklyn,23
+2014,Manhattan,20
+2014,Outside NYC,1
+2014,Queens,30
+2014,Staten Island,19
+2014,Bronx,2
+2014,Brooklyn,17
+2014,Manhattan,29
+2014,Queens,15
+2014,Staten Island,14
+2014,Unknown,1
+2014,Bronx,8
+2014,Brooklyn,36
+2014,Manhattan,19
+2014,Queens,4
+2014,Staten Island,17
+2014,Unknown,31
+2014,Bronx,3
+2014,Brooklyn,3
+2014,Manhattan,23
+2014,Queens,9
+2014,Staten Island,5
+2014,Bronx,5
+2014,Brooklyn,7
+2014,Manhattan,18
+2014,Queens,4
+2014,Bronx,4
+2014,Brooklyn,14
+2014,Manhattan,6
+2014,Queens,19
+2014,Bronx,1
+2014,Brooklyn,3
+2014,Manhattan,24
+2014,Outside NYC,1
+2014,Queens,1
+2014,Staten Island,6
+2014,Bronx,8
+2014,Brooklyn,9
+2014,Manhattan,22
+2014,Queens,10
+2014,Staten Island,4
+2014,Unknown,66
+2014,Bronx,3
+2014,Brooklyn,19
+2014,Manhattan,24
+2014,Queens,10
+2014,Staten Island,15
+2014,Unknown,16
+2014,Bronx,3
+2014,Manhattan,2
+2014,Bronx,11
+2014,Brooklyn,25
+2014,Manhattan,42
+2014,Queens,22
+2014,Bronx,13
+2014,Brooklyn,29
+2014,Manhattan,25
+2014,Queens,11
+2014,Staten Island,1
+2014,Unknown,1
+2014,Bronx,1
+2014,Brooklyn,12
+2014,Manhattan,32
+2014,Queens,9
+2014,Staten Island,3
+2014,Bronx,10
+2014,Brooklyn,23
+2014,Manhattan,19
+2014,Queens,8
+2014,Bronx,5
+2014,Brooklyn,7
+2014,Manhattan,34
+2014,Queens,11
+2014,Staten Island,4
+2014,Unknown,3
+2014,Brooklyn,3
+2014,Bronx,6
+2014,Brooklyn,2
+2014,Manhattan,15
+2014,Queens,14
+2014,Staten Island,3
+2014,Bronx,8
+2014,Brooklyn,15
+2014,Manhattan,20
+2014,Queens,22
+2014,Bronx,4
+2014,Brooklyn,16
+2014,Manhattan,19
+2014,Queens,9
+2014,Staten Island,5
+2014,Bronx,13
+2014,Brooklyn,22
+2014,Manhattan,26
+2014,Queens,5
+2014,Staten Island,1
+2014,Unknown,6
+2014,BROOKLYN,1
+2014,Bronx,4
+2014,Brooklyn,4
+2014,Manhattan,22
+2014,Queens,11
+2014,Staten Island,9
+2014,Bronx,2
+2014,Brooklyn,5
+2014,Manhattan,20
+2014,Queens,1
+2014,Staten Island,2
+2014,Unknown,3
+2014,Bronx,9
+2014,Brooklyn,12
+2014,Manhattan,21
+2014,Queens,10
+2014,Staten Island,3
+2014,Unknown,5
+2014,Bronx,3
+2014,Brooklyn,16
+2014,Manhattan,36
+2014,Queens,13
+2014,Staten Island,3
+2014,Bronx,8
+2014,Brooklyn,23
+2014,Manhattan,19
+2014,Queens,5
+2014,Staten Island,2
+2014,Bronx,3
+2014,Brooklyn,8
+2014,Manhattan,36
+2014,Queens,17
+2014,Staten Island,4
+2014,Bronx,4
+2014,Brooklyn,8
+2014,Manhattan,22
+2014,Queens,1
+2014,Bronx,7
+2014,Brooklyn,23
+2014,Manhattan,9
+2014,Queens,22
+2014,Staten Island,1
+2014,Bronx,2
+2014,Brooklyn,10
+2014,Manhattan,43
+2014,Queens,4
+2014,Staten Island,7
+2014,Unknown,64
+2014,Bronx,7
+2014,Brooklyn,12
+2014,Manhattan,8
+2014,Queens,58
+2014,Staten Island,1
+2014,Bronx,4
+2014,Brooklyn,5
+2014,Manhattan,13
+2014,Queens,9
+2014,Staten Island,7
+2014,Bronx,5
+2014,Brooklyn,16
+2014,Manhattan,17
+2014,Queens,3
+2014,Staten Island,1
+2014,Bronx,9
+2014,Brooklyn,21
+2014,Manhattan,18
+2014,Queens,39
+2014,Staten Island,23
+2014,Bronx,7
+2014,Brooklyn,9
+2014,Manhattan,16
+2014,Queens,3
+2014,Staten Island,12
+2014,Bronx,9
+2014,Brooklyn,14
+2014,Manhattan,29
+2014,Queens,3
+2014,Staten Island,8
+2014,Unknown,2
+2014,Bronx,3
+2014,Brooklyn,19
+2014,Manhattan,8
+2014,Queens,10
+2014,Staten Island,18
+2014,Unknown,20
+2014,Staten Island,1
+2014,Bronx,3
+2014,Brooklyn,9
+2014,Manhattan,12
+2014,Queens,6
+2014,Staten Island,5
+2014,Bronx,8
+2014,Brooklyn,13
+2014,Manhattan,19
+2014,Queens,11
+2014,Staten Island,3
+2014,Bronx,3
+2014,Brooklyn,20
+2014,Manhattan,22
+2014,Queens,6
+2014,Staten Island,6
+2014,Bronx,9
+2014,Brooklyn,12
+2014,Manhattan,18
+2014,Queens,20
+2014,Staten Island,2
+2014,Unknown,52
+2014,Bronx,2
+2014,Brooklyn,11
+2014,Manhattan,11
+2014,Queens,18
+2014,Staten Island,7
+2014,Brooklyn,1
+2014,Brooklyn,6
+2014,Manhattan,14
+2014,Queens,34
+2014,Staten Island,4
+2014,Unknown,42
+2014,Bronx,8
+2014,Brooklyn,19
+2014,Manhattan,31
+2014,Queens,25
+2014,Staten Island,5
+2014,Bronx,4
+2014,Brooklyn,16
+2014,Manhattan,24
+2014,Queens,1
+2014,Staten Island,6
+2014,Unknown,3
+2014,Bronx,6
+2014,Brooklyn,15
+2014,Manhattan,23
+2014,Queens,20
+2014,Staten Island,14
+2014,Bronx,10
+2014,Brooklyn,15
+2014,Queens,4
+2014,Bronx,7
+2014,Brooklyn,4
+2014,Queens,2
+2014,Bronx,3
+2014,Brooklyn,8
+2014,Manhattan,22
+2014,Queens,17
+2014,Bronx,8
+2014,Brooklyn,13
+2014,Manhattan,26
+2014,Queens,19
+2014,Staten Island,4
+2014,Bronx,11
+2014,Brooklyn,15
+2014,Manhattan,23
+2014,Queens,6
+2014,Staten Island,15
+2014,Bronx,2
+2014,Brooklyn,25
+2014,Manhattan,20
+2014,Queens,4
+2014,Staten Island,1
+2014,Bronx,12
+2014,Brooklyn,16
+2014,Manhattan,21
+2014,Queens,13
+2014,Staten Island,4
+2014,Bronx,5
+2014,Brooklyn,5
+2014,Queens,2
+2014,Staten Island,5
+2014,Bronx,2
+2014,Brooklyn,17
+2014,Bronx,4
+2014,Brooklyn,15
+2014,Manhattan,17
+2014,Queens,7
+2014,Staten Island,3
+2014,Bronx,27
+2014,Brooklyn,8
+2014,Manhattan,17
+2014,Queens,20
+2014,Bronx,1
+2014,Brooklyn,29
+2014,Manhattan,15
+2014,Outside NYC,1
+2014,Queens,11
+2014,Unknown,8
+2014,Bronx,10
+2014,Brooklyn,23
+2014,Manhattan,30
+2014,Queens,8
+2014,Unknown,25
+2014,Bronx,3
+2014,Brooklyn,12
+2014,Manhattan,34
+2014,Outside NYC,2
+2014,Queens,28
+2014,Staten Island,10
+2014,Unknown,23
+2014,Bronx,13
+2014,Brooklyn,14
+2014,Queens,4
+2014,Staten Island,6
+2014,Brooklyn,7
+2014,Queens,19
+2014,Bronx,5
+2014,Brooklyn,4
+2014,Manhattan,14
+2014,Outside NYC,1
+2014,Queens,1
+2014,Unknown,16
+2014,Bronx,6
+2014,Brooklyn,6
+2014,Manhattan,15
+2014,Outside NYC,1
+2014,Queens,11
+2014,Staten Island,1
+2014,Bronx,1
+2014,Brooklyn,8
+2014,Manhattan,18
+2014,Queens,11
+2014,Staten Island,9
+2014,Bronx,14
+2014,Brooklyn,14
+2014,Manhattan,5
+2014,Queens,5
+2014,Bronx,7
+2014,Brooklyn,12
+2014,Manhattan,18
+2014,Outside NYC,1
+2014,Queens,6
+2014,Staten Island,12
+2014,Unknown,36
+2014,Bronx,4
+2014,Manhattan,16
+2014,Queens,2
+2014,Staten Island,3
+2014,Bronx,8
+2014,Brooklyn,18
+2014,Manhattan,3
+2014,Queens,14
+2014,Bronx,9
+2014,Brooklyn,9
+2014,Manhattan,13
+2014,Queens,9
+2014,Staten Island,2
+2014,Unknown,11
+2014,Bronx,6
+2014,Brooklyn,3
+2014,Manhattan,15
+2014,Queens,26
+2014,Staten Island,3
+2014,Bronx,26
+2014,Brooklyn,9
+2014,Manhattan,18
+2014,Queens,20
+2014,Staten Island,30
+2014,Bronx,9
+2014,Brooklyn,3
+2014,Manhattan,14
+2014,Queens,15
+2014,Staten Island,2
+2014,Unknown,29
+2014,Bronx,7
+2014,Brooklyn,4
+2014,Manhattan,12
+2014,Queens,21
+2014,Staten Island,3
+2014,Bronx,2
+2014,Brooklyn,7
+2014,Bronx,3
+2014,Brooklyn,31
+2014,Bronx,9
+2014,Brooklyn,5
+2014,Manhattan,14
+2014,Queens,14
+2014,Staten Island,7
+2014,Unknown,1
+2014,Bronx,5
+2014,Brooklyn,6
+2014,Manhattan,3
+2014,Queens,16
+2014,Staten Island,5
+2014,Bronx,3
+2014,Brooklyn,36
+2014,Manhattan,2
+2014,Queens,5
+2014,Staten Island,7
+2014,Bronx,16
+2014,Brooklyn,6
+2014,Manhattan,17
+2014,Queens,2
+2014,Staten Island,6
+2014,Unknown,23
+2014,Bronx,10
+2014,Brooklyn,21
+2014,Manhattan,24
+2014,Queens,21
+2014,Bronx,2
+2014,Brooklyn,3
+2014,Queens,2
+2014,Staten Island,2
+2014,Bronx,6
+2014,Brooklyn,13
+2014,Manhattan,9
+2014,Outside NYC,2
+2014,Queens,17
+2014,Staten Island,4
+2014,Unknown,24
+2014,Bronx,6
+2014,Brooklyn,16
+2014,Manhattan,13
+2014,Outside NYC,2
+2014,Queens,23
+2014,Unknown,32
+2014,Bronx,3
+2014,Brooklyn,32
+2014,Manhattan,15
+2014,Outside NYC,1
+2014,Queens,2
+2014,Staten Island,1
+2014,Bronx,4
+2014,Brooklyn,4
+2014,Manhattan,26
+2014,Queens,26
+2014,Staten Island,9
+2014,Bronx,8
+2014,Manhattan,10
+2014,Queens,13
+2014,Bronx,5
+2014,Brooklyn,41
+2014,Queens,8
+2014,Bronx,6
+2014,Brooklyn,21
+2014,Manhattan,19
+2014,Queens,12
+2014,Staten Island,3
+2014,Unknown,24
+2014,Bronx,21
+2014,Brooklyn,25
+2014,Manhattan,9
+2014,Queens,16
+2014,Staten Island,1
+2014,Unknown,2
+2014,Brooklyn,20
+2014,Manhattan,7
+2014,Queens,15
+2014,Staten Island,3
+2014,Unknown,7
+2014,Bronx,2
+2014,Brooklyn,18
+2014,Manhattan,18
+2014,Queens,3
+2014,Staten Island,1
+2014,Unknown,28
+2014,Bronx,14
+2014,Brooklyn,20
+2014,Manhattan,17
+2014,Queens,18
+2014,Staten Island,1
+2014,Bronx,7
+2014,Brooklyn,7
+2014,Manhattan,3
+2014,Queens,13
+2014,Bronx,12
+2014,Brooklyn,14
+2014,Bronx,3
+2014,Brooklyn,22
+2014,Manhattan,9
+2014,Queens,9
+2014,Staten Island,2
+2014,Bronx,3
+2014,Brooklyn,16
+2014,Manhattan,12
+2014,Queens,35
+2014,Staten Island,5
+2014,Bronx,10
+2014,Brooklyn,9
+2014,Manhattan,23
+2014,Outside NYC,1
+2014,Queens,6
+2014,Staten Island,2
+2014,Bronx,6
+2014,Brooklyn,8
+2014,Manhattan,19
+2014,Queens,23
+2014,Bronx,1
+2014,Brooklyn,9
+2014,Manhattan,27
+2014,Queens,49
+2014,Staten Island,6
+2014,Bronx,11
+2014,Brooklyn,24
+2014,Queens,3
+2014,Brooklyn,8
+2014,Manhattan,9
+2014,Queens,10
+2014,Bronx,3
+2014,Manhattan,10
+2014,Queens,18
+2014,Bronx,16
+2014,Brooklyn,15
+2014,Manhattan,5
+2014,Queens,8
+2014,Staten Island,6
+2014,Bronx,11
+2014,Brooklyn,23
+2014,Manhattan,9
+2014,Queens,35
+2014,Staten Island,4
+2014,Bronx,10
+2014,Brooklyn,3
+2014,Queens,5
+2014,Staten Island,9
+2014,Bronx,16
+2014,Brooklyn,2
+2014,Manhattan,2
+2014,Queens,8
+2014,Unknown,32
+2014,Bronx,1
+2014,Brooklyn,18
+2014,Manhattan,22
+2014,Outside NYC,1
+2014,Queens,15
+2014,Unknown,11
+2014,Bronx,7
+2014,Brooklyn,28
+2014,Manhattan,21
+2014,Queens,16
+2014,Staten Island,1
+2014,Unknown,15
+2014,Bronx,14
+2014,Brooklyn,35
+2014,Manhattan,27
+2014,Queens,17
+2014,Staten Island,23
+2014,Unknown,18
+2014,Bronx,6
+2014,Brooklyn,19
+2014,Queens,2
+2014,Bronx,9
+2014,Brooklyn,21
+2014,Queens,2
+2014,Staten Island,6
+2014,Bronx,4
+2014,Brooklyn,35
+2014,Manhattan,21
+2014,Queens,7
+2014,Staten Island,9
+2014,Unknown,47
+2014,Bronx,11
+2014,Brooklyn,47
+2014,Manhattan,3
+2014,Queens,10
+2014,Staten Island,3
+2014,Bronx,3
+2014,Brooklyn,29
+2014,Manhattan,13
+2014,Queens,17
+2014,Staten Island,5
+2014,Unknown,21
+2014,Bronx,28
+2014,Brooklyn,33
+2014,Manhattan,28
+2014,Queens,16
+2014,Staten Island,4
+2014,Unknown,71
+2014,Bronx,17
+2014,Brooklyn,52
+2014,Manhattan,4
+2014,Outside NYC,2
+2014,Queens,33
+2014,Staten Island,2
+2014,Unknown,5
+2014,Bronx,15
+2014,Brooklyn,3
+2014,Manhattan,24
+2014,Queens,3
+2014,Bronx,4
+2014,Brooklyn,12
+2014,Queens,7
+2014,Bronx,17
+2014,Brooklyn,13
+2014,Manhattan,14
+2014,Queens,14
+2014,Unknown,8
+2014,Bronx,19
+2014,Brooklyn,48
+2014,Manhattan,2
+2014,Outside NYC,1
+2014,Queens,24
+2014,Unknown,14
+2014,Bronx,4
+2014,Brooklyn,19
+2014,Manhattan,5
+2014,Queens,21
+2014,Unknown,15
+2014,Manhattan,2
+2014,Bronx,2
+2014,Brooklyn,15
+2014,Manhattan,7
+2014,Outside NYC,1
+2014,Queens,36
+2014,Unknown,29
+2014,Brooklyn,28
+2014,Queens,4
+2014,Bronx,18
+2014,Brooklyn,7
+2014,Staten Island,5
+2014,Bronx,2
+2014,Brooklyn,17
+2014,Manhattan,16
+2014,Queens,8
+2014,Staten Island,1
+2014,Bronx,1
+2014,Brooklyn,13
+2014,Manhattan,17
+2014,Outside NYC,2
+2014,Queens,32
+2014,Unknown,2
+2014,Bronx,3
+2014,Brooklyn,33
+2014,Manhattan,2
+2014,Outside NYC,1
+2014,Queens,17
+2014,Staten Island,2
+2014,Bronx,5
+2014,Brooklyn,28
+2014,Manhattan,52
+2014,Queens,6
+2014,Staten Island,6
+2014,Unknown,1
+2014,Bronx,2
+2014,Brooklyn,39
+2014,Manhattan,22
+2014,Queens,24
+2014,Staten Island,3
+2014,Unknown,16
+2014,Bronx,10
+2014,Brooklyn,19
+2014,Queens,9
+2014,Brooklyn,13
+2014,Queens,12
+2014,Bronx,5
+2014,Brooklyn,16
+2014,Manhattan,21
+2014,Queens,15
+2014,Staten Island,14
+2014,Bronx,7
+2014,Brooklyn,19
+2014,Manhattan,17
+2014,Queens,14
+2014,Staten Island,10
+2014,Unknown,6
+2014,Bronx,1
+2014,Brooklyn,12
+2014,Manhattan,3
+2014,Queens,32
+2014,Staten Island,6
+2014,Unknown,12
+2014,Bronx,15
+2014,Brooklyn,16
+2014,Manhattan,21
+2014,Queens,3
+2014,Staten Island,7
+2014,Unknown,16
+2014,Bronx,3
+2014,Brooklyn,42
+2014,Manhattan,17
+2014,Queens,42
+2014,Staten Island,2
+2014,Bronx,8
+2014,Brooklyn,3
+2014,Manhattan,8
+2014,Bronx,21
+2014,Brooklyn,14
+2014,Manhattan,21
+2014,Queens,13
+2014,Bronx,8
+2014,Brooklyn,10
+2014,Manhattan,41
+2014,Queens,6
+2014,Staten Island,4
+2014,Unknown,6
+2014,Bronx,8
+2014,Brooklyn,30
+2014,Manhattan,3
+2014,Queens,32
+2014,Bronx,1
+2014,Brooklyn,20
+2014,Manhattan,56
+2014,Queens,31
+2014,Bronx,5
+2014,Brooklyn,30
+2014,Manhattan,36
+2014,Queens,4
+2014,Staten Island,9
+2014,Bronx,44
+2014,Brooklyn,1
+2014,Queens,3
+2014,Bronx,22
+2014,Brooklyn,2
+2014,Manhattan,13
+2014,Queens,6
+2014,Unknown,1
+2014,Bronx,1
+2014,Brooklyn,7
+2014,Manhattan,17
+2014,Queens,15
+2014,Staten Island,8
+2014,Bronx,21
+2014,Brooklyn,28
+2014,Manhattan,10
+2014,Queens,12
+2014,Staten Island,4
+2014,Unknown,6
+2014,Brooklyn,35
+2014,Manhattan,6
+2014,Queens,14
+2014,Staten Island,6
+2014,Unknown,16
+2014,Bronx,6
+2014,Manhattan,21
+2014,Outside NYC,1
+2014,Queens,21
+2014,Unknown,7
+2014,Bronx,6
+2014,Manhattan,11
+2014,Queens,2
+2014,Staten Island,6
+2014,Bronx,2
+2014,Brooklyn,31
+2014,Queens,9
+2014,Bronx,6
+2014,Brooklyn,16
+2014,Manhattan,44
+2014,Queens,14
+2014,Staten Island,4
+2014,Unknown,3
+2014,Bronx,4
+2014,Brooklyn,16
+2014,Manhattan,50
+2014,Queens,19
+2014,Staten Island,8
+2014,Unknown,6
+2014,Bronx,1
+2014,Brooklyn,26
+2014,Manhattan,51
+2014,Queens,5
+2014,Staten Island,9
+2015,Bronx,1
+2015,Brooklyn,13
+2015,Manhattan,23
+2015,Queens,11
+2015,Unknown,13
+2015,Bronx,8
+2015,Queens,5
+2015,Staten Island,3
+2015,Bronx,11
+2015,Brooklyn,5
+2015,Queens,9
+2015,Staten Island,1
+2015,Bronx,9
+2015,Brooklyn,3
+2015,Manhattan,62
+2015,Queens,17
+2015,Bronx,9
+2015,Brooklyn,33
+2015,Manhattan,24
+2015,Outside NYC,1
+2015,Queens,42
+2015,Bronx,7
+2015,Brooklyn,8
+2015,Manhattan,27
+2015,Outside NYC,1
+2015,Queens,28
+2015,Unknown,6
+2015,Bronx,3
+2015,Brooklyn,21
+2015,Manhattan,32
+2015,Queens,24
+2015,Staten Island,3
+2015,Bronx,14
+2015,Brooklyn,14
+2015,Manhattan,53
+2015,Queens,38
+2015,Staten Island,2
+2015,Bronx,9
+2015,Brooklyn,10
+2015,Queens,4
+2015,Bronx,21
+2015,Brooklyn,22
+2015,Bronx,12
+2015,Brooklyn,20
+2015,Manhattan,77
+2015,Queens,22
+2015,Unknown,2
+2015,Bronx,13
+2015,Brooklyn,44
+2015,Manhattan,56
+2015,Queens,14
+2015,Bronx,18
+2015,Brooklyn,19
+2015,Manhattan,59
+2015,Queens,11
+2015,Staten Island,6
+2015,Unknown,1
+2015,Bronx,6
+2015,Brooklyn,32
+2015,Manhattan,67
+2015,Queens,17
+2015,Staten Island,3
+2015,Bronx,20
+2015,Brooklyn,29
+2015,Manhattan,57
+2015,Queens,25
+2015,Staten Island,5
+2015,Unknown,3
+2015,Bronx,12
+2015,Queens,8
+2015,Bronx,9
+2015,Queens,4
+2015,Staten Island,5
+2015,Bronx,5
+2015,Brooklyn,26
+2015,Manhattan,33
+2015,Queens,18
+2015,Staten Island,2
+2015,Unknown,2
+2015,Bronx,12
+2015,Brooklyn,39
+2015,Manhattan,16
+2015,Queens,14
+2015,Staten Island,3
+2015,Unknown,3
+2015,Brooklyn,40
+2015,Manhattan,37
+2015,Queens,10
+2015,Staten Island,4
+2015,Bronx,15
+2015,Brooklyn,39
+2015,Manhattan,52
+2015,Queens,19
+2015,Bronx,9
+2015,Brooklyn,18
+2015,Queens,6
+2015,Bronx,5
+2015,Brooklyn,28
+2015,Bronx,4
+2015,Brooklyn,7
+2015,Manhattan,11
+2015,Queens,10
+2015,Staten Island,14
+2015,BRONX,1
+2015,Bronx,2
+2015,Brooklyn,51
+2015,Manhattan,23
+2015,Queens,10
+2015,Staten Island,8
+2015,Bronx,11
+2015,Brooklyn,64
+2015,Manhattan,20
+2015,Outside NYC,1
+2015,Queens,19
+2015,Staten Island,1
+2015,Unknown,15
+2015,Bronx,13
+2015,Brooklyn,65
+2015,Manhattan,23
+2015,Queens,11
+2015,Staten Island,2
+2015,Bronx,10
+2015,Brooklyn,28
+2015,Manhattan,13
+2015,Queens,1
+2015,Bronx,25
+2015,Manhattan,5
+2015,Bronx,4
+2015,Brooklyn,5
+2015,Manhattan,19
+2015,Outside NYC,9
+2015,Queens,5
+2015,Staten Island,3
+2015,BROOKLYN,1
+2015,Bronx,12
+2015,Brooklyn,30
+2015,Manhattan,12
+2015,Queens,56
+2015,Unknown,9
+2015,Bronx,8
+2015,Brooklyn,26
+2015,Manhattan,21
+2015,Queens,40
+2015,Staten Island,8
+2015,Bronx,12
+2015,Brooklyn,45
+2015,Manhattan,16
+2015,Queens,12
+2015,Staten Island,7
+2015,Unknown,12
+2015,Bronx,7
+2015,Brooklyn,31
+2015,Manhattan,35
+2015,Queens,28
+2015,Staten Island,1
+2015,Bronx,19
+2015,Queens,4
+2015,Staten Island,2
+2015,Bronx,26
+2015,Brooklyn,2
+2015,Queens,3
+2015,Bronx,26
+2015,Brooklyn,7
+2015,Manhattan,22
+2015,Queens,25
+2015,Staten Island,12
+2015,Bronx,33
+2015,Brooklyn,25
+2015,Manhattan,15
+2015,Queens,57
+2015,Bronx,16
+2015,Brooklyn,34
+2015,Manhattan,29
+2015,Queens,21
+2015,Bronx,16
+2015,Brooklyn,48
+2015,Manhattan,13
+2015,Staten Island,16
+2015,Bronx,16
+2015,Brooklyn,32
+2015,Manhattan,22
+2015,Queens,58
+2015,Bronx,24
+2015,Brooklyn,5
+2015,Queens,4
+2015,Bronx,11
+2015,Manhattan,2
+2015,Outside NYC,1
+2015,Queens,18
+2015,Brooklyn,32
+2015,Manhattan,6
+2015,Queens,18
+2015,Bronx,14
+2015,Brooklyn,39
+2015,Manhattan,34
+2015,Queens,7
+2015,Bronx,8
+2015,Brooklyn,36
+2015,Manhattan,15
+2015,Queens,28
+2015,Bronx,15
+2015,Brooklyn,8
+2015,Manhattan,1
+2015,Queens,1
+2015,Bronx,21
+2015,Brooklyn,3
+2015,Queens,11
+2015,Bronx,19
+2015,Brooklyn,10
+2015,Manhattan,23
+2015,Queens,10
+2015,Staten Island,6
+2015,Unknown,2
+2015,Bronx,12
+2015,Brooklyn,44
+2015,Manhattan,16
+2015,Queens,34
+2015,Unknown,1
+2015,Bronx,16
+2015,Brooklyn,36
+2015,Manhattan,19
+2015,Outside NYC,1
+2015,Queens,32
+2015,Staten Island,14
+2015,Unknown,2
+2015,Bronx,8
+2015,Brooklyn,32
+2015,Manhattan,31
+2015,Queens,3
+2015,Staten Island,5
+2015,Bronx,3
+2015,Brooklyn,14
+2015,Manhattan,59
+2015,Outside NYC,1
+2015,Queens,28
+2015,Staten Island,7
+2015,Unknown,5
+2015,Brooklyn,2
+2015,Manhattan,12
+2015,Queens,21
+2015,Bronx,29
+2015,Brooklyn,5
+2015,Queens,2
+2015,Bronx,16
+2015,Brooklyn,10
+2015,Manhattan,23
+2015,Queens,19
+2015,Staten Island,15
+2015,Unknown,23
+2015,Bronx,26
+2015,Brooklyn,26
+2015,Manhattan,1
+2015,Queens,22
+2015,Bronx,4
+2015,Brooklyn,33
+2015,Manhattan,22
+2015,Queens,22
+2015,Staten Island,19
+2015,Bronx,23
+2015,Brooklyn,7
+2015,Manhattan,6
+2015,Queens,1
+2015,Staten Island,4
+2015,Bronx,6
+2015,Brooklyn,16
+2015,Manhattan,21
+2015,Queens,21
+2015,Staten Island,8
+2015,Bronx,17
+2015,Brooklyn,9
+2015,Queens,3
+2015,Bronx,15
+2015,Brooklyn,4
+2015,Queens,8
+2015,Bronx,14
+2015,Brooklyn,2
+2015,Manhattan,26
+2015,Queens,24
+2015,Staten Island,16
+2015,Unknown,1
+2015,Bronx,12
+2015,Brooklyn,14
+2015,Queens,21
+2015,Brooklyn,61
+2015,Manhattan,5
+2015,Queens,20
+2015,Staten Island,9
+2015,Unknown,1
+2015,Bronx,11
+2015,Brooklyn,12
+2015,Manhattan,36
+2015,Staten Island,9
+2015,Unknown,3
+2015,Bronx,11
+2015,Brooklyn,26
+2015,Manhattan,21
+2015,Queens,30
+2015,Staten Island,14
+2015,Bronx,12
+2015,Brooklyn,11
+2015,Manhattan,2
+2015,Queens,3
+2015,Bronx,3
+2015,Brooklyn,7
+2015,Staten Island,8
+2015,Bronx,12
+2015,Brooklyn,1
+2015,Manhattan,13
+2015,Queens,15
+2015,Staten Island,10
+2015,BROOKLYN,2
+2015,Bronx,10
+2015,Brooklyn,39
+2015,Manhattan,7
+2015,Queens,29
+2015,Unknown,2
+2015,Bronx,1
+2015,Brooklyn,28
+2015,Manhattan,39
+2015,Queens,13
+2015,Staten Island,3
+2015,BROOKLYN,1
+2015,Bronx,2
+2015,Brooklyn,24
+2015,Manhattan,24
+2015,Queens,1
+2015,Staten Island,2
+2015,Bronx,12
+2015,Brooklyn,26
+2015,Manhattan,26
+2015,Queens,37
+2015,Staten Island,15
+2015,Bronx,11
+2015,Brooklyn,34
+2015,Manhattan,19
+2015,Brooklyn,5
+2015,Queens,7
+2015,Bronx,15
+2015,Brooklyn,1
+2015,Manhattan,43
+2015,Queens,20
+2015,Staten Island,7
+2015,Bronx,7
+2015,Brooklyn,13
+2015,Queens,24
+2015,Bronx,6
+2015,Brooklyn,38
+2015,Manhattan,22
+2015,Outside NYC,1
+2015,Queens,27
+2015,Staten Island,11
+2015,Bronx,8
+2015,Brooklyn,48
+2015,Manhattan,27
+2015,Staten Island,2
+2015,Bronx,18
+2015,Brooklyn,19
+2015,Manhattan,31
+2015,Queens,33
+2015,Staten Island,8
+2015,Bronx,8
+2015,Brooklyn,2
+2015,Manhattan,6
+2015,Queens,14
+2015,Brooklyn,9
+2015,Queens,12
+2015,Staten Island,2
+2015,Bronx,17
+2015,Brooklyn,5
+2015,Manhattan,35
+2015,Outside NYC,2
+2015,Queens,18
+2015,Staten Island,9
+2015,Bronx,15
+2015,Brooklyn,30
+2015,Manhattan,2
+2015,Queens,23
+2015,Brooklyn,26
+2015,Manhattan,39
+2015,Queens,44
+2015,Bronx,8
+2015,Brooklyn,30
+2015,Manhattan,32
+2015,Staten Island,7
+2015,Unknown,3
+2015,Bronx,13
+2015,Brooklyn,14
+2015,Manhattan,22
+2015,Outside NYC,4
+2015,Queens,24
+2015,Staten Island,9
+2015,Bronx,3
+2015,Brooklyn,12
+2015,Manhattan,10
+2015,Queens,8
+2015,Bronx,7
+2015,Brooklyn,3
+2015,Manhattan,28
+2015,Queens,14
+2015,Bronx,21
+2015,Brooklyn,9
+2015,Queens,31
+2015,Bronx,5
+2015,Brooklyn,39
+2015,Manhattan,28
+2015,Queens,10
+2015,Bronx,9
+2015,Brooklyn,32
+2015,Manhattan,34
+2015,Queens,8
+2015,Unknown,1
+2015,Bronx,9
+2015,Brooklyn,26
+2015,Manhattan,29
+2015,Queens,18
+2015,Staten Island,5
+2015,Brooklyn,3
+2015,Queens,9
+2015,Staten Island,4
+2015,Bronx,12
+2015,Queens,2
+2015,Bronx,5
+2015,Manhattan,13
+2015,Queens,17
+2015,Bronx,15
+2015,Brooklyn,43
+2015,Queens,21
+2015,BROOKLYN,1
+2015,Bronx,1
+2015,Brooklyn,31
+2015,Manhattan,36
+2015,Queens,20
+2015,Staten Island,3
+2015,Unknown,5
+2015,BROOKLYN,1
+2015,Bronx,12
+2015,Brooklyn,29
+2015,Manhattan,30
+2015,Outside NYC,7
+2015,Staten Island,3
+2015,Bronx,14
+2015,Brooklyn,36
+2015,Manhattan,27
+2015,Queens,24
+2015,Staten Island,3
+2015,Unknown,8
+2015,Bronx,1
+2015,Manhattan,7
+2015,Queens,2
+2015,Bronx,6
+2015,Brooklyn,3
+2015,Queens,1
+2015,Bronx,6
+2015,Brooklyn,1
+2015,Manhattan,26
+2015,Queens,20
+2015,Unknown,1
+2015,Bronx,5
+2015,Brooklyn,19
+2015,Manhattan,1
+2015,Queens,26
+2015,Unknown,1
+2015,Brooklyn,34
+2015,Manhattan,11
+2015,Queens,25
+2015,Staten Island,2
+2015,BROOKLYN,1
+2015,Bronx,12
+2015,Brooklyn,41
+2015,Manhattan,39
+2015,Queens,6
+2015,Bronx,9
+2015,Brooklyn,30
+2015,Manhattan,18
+2015,Queens,23
+2015,Bronx,9
+2015,Brooklyn,1
+2015,Manhattan,4
+2015,Queens,5
+2015,Staten Island,6
+2015,Bronx,13
+2015,Brooklyn,5
+2015,Queens,7
+2015,Bronx,17
+2015,Brooklyn,1
+2015,Manhattan,36
+2015,Queens,22
+2015,Unknown,3
+2015,Bronx,11
+2015,Brooklyn,26
+2015,Manhattan,8
+2015,Queens,24
+2015,Unknown,3
+2015,Brooklyn,12
+2015,Manhattan,37
+2015,Queens,37
+2015,Bronx,10
+2015,Brooklyn,32
+2015,Manhattan,50
+2015,Queens,2
+2015,Staten Island,2
+2015,Bronx,7
+2015,Brooklyn,24
+2015,Manhattan,51
+2015,Queens,26
+2015,Bronx,5
+2015,Brooklyn,4
+2015,Manhattan,4
+2015,Queens,4
+2015,Brooklyn,8
+2015,Manhattan,4
+2015,Bronx,10
+2015,Brooklyn,2
+2015,Manhattan,28
+2015,Queens,11
+2015,Unknown,2
+2015,Bronx,25
+2015,Brooklyn,29
+2015,Manhattan,2
+2015,Queens,11
+2015,Unknown,1
+2015,Bronx,1
+2015,Brooklyn,15
+2015,Manhattan,50
+2015,Queens,36
+2015,Bronx,14
+2015,Brooklyn,48
+2015,Manhattan,29
+2015,Bronx,22
+2015,Brooklyn,18
+2015,Manhattan,27
+2015,Queens,27
+2015,Bronx,7
+2015,Queens,3
+2015,Staten Island,3
+2015,Queens,13
+2015,Bronx,15
+2015,Manhattan,34
+2015,Queens,24
+2015,Bronx,26
+2015,Brooklyn,38
+2015,Queens,34
+2015,BROOKLYN,1
+2015,Bronx,13
+2015,Brooklyn,33
+2015,Manhattan,27
+2015,Queens,21
+2015,Bronx,17
+2015,Brooklyn,43
+2015,Manhattan,14
+2015,Queens,4
+2015,Bronx,8
+2015,Brooklyn,42
+2015,Manhattan,20
+2015,Queens,13
+2015,Brooklyn,22
+2015,Manhattan,9
+2015,Queens,3
+2015,Bronx,9
+2015,Brooklyn,5
+2015,Bronx,15
+2015,Manhattan,47
+2015,Queens,7
+2015,Bronx,15
+2015,Brooklyn,46
+2015,Queens,21
+2015,Brooklyn,35
+2015,Manhattan,33
+2015,Queens,16
+2015,Bronx,18
+2015,Brooklyn,29
+2015,Manhattan,16
+2015,Queens,1
+2015,Staten Island,1
+2015,Bronx,7
+2015,Brooklyn,16
+2015,Manhattan,24
+2015,Queens,22
+2015,Bronx,7
+2015,Queens,3
+2015,Staten Island,2
+2015,Bronx,4
+2015,Brooklyn,1
+2015,Manhattan,1
+2015,Queens,17
+2015,BROOKLYN,2
+2015,Bronx,8
+2015,Brooklyn,22
+2015,Manhattan,15
+2015,Queens,19
+2015,Staten Island,5
+2015,Bronx,2
+2015,Brooklyn,27
+2015,Manhattan,24
+2015,Staten Island,4
+2015,Queens,2
+2015,Bronx,8
+2015,Brooklyn,2
+2015,Queens,4
+2015,Bronx,15
+2015,Brooklyn,8
+2015,Queens,6
+2015,Bronx,9
+2015,Manhattan,34
+2015,Queens,18
+2015,Staten Island,1
+2015,Unknown,2
+2015,Bronx,5
+2015,Brooklyn,11
+2015,Outside NYC,2
+2015,Queens,7
+2015,Staten Island,2
+2015,Brooklyn,4
+2015,Manhattan,36
+2015,Queens,17
+2015,Bronx,6
+2015,Brooklyn,30
+2015,Manhattan,19
+2015,Staten Island,7
+2015,BRONX,1
+2015,Bronx,4
+2015,Brooklyn,17
+2015,Manhattan,36
+2015,Queens,9
+2015,Staten Island,8
+2015,Brooklyn,7
+2015,Queens,4
+2015,Staten Island,6
+2015,Bronx,18
+2015,Manhattan,3
+2015,Queens,9
+2015,BRONX,5
+2015,Bronx,24
+2015,Brooklyn,1
+2015,Manhattan,23
+2015,Queens,8
+2015,Staten Island,2
+2015,Bronx,2
+2015,Brooklyn,20
+2015,Manhattan,6
+2015,Queens,16
+2015,BROOKLYN,1
+2015,Bronx,7
+2015,Brooklyn,35
+2015,Manhattan,23
+2015,Queens,18
+2015,Staten Island,11
+2015,BRONX,2
+2015,BROOKLYN,1
+2015,Bronx,11
+2015,Brooklyn,20
+2015,Manhattan,19
+2015,Queens,2
+2015,Staten Island,1
+2015,BRONX,6
+2015,BROOKLYN,3
+2015,Bronx,8
+2015,Brooklyn,5
+2015,Manhattan,30
+2015,Queens,12
+2015,Staten Island,4
+2015,Bronx,17
+2015,Manhattan,2
+2015,Queens,2
+2015,Staten Island,3
+2015,Bronx,13
+2015,Brooklyn,16
+2015,Queens,2
+2015,Bronx,9
+2015,Brooklyn,3
+2015,Manhattan,36
+2015,Queens,26
+2015,Staten Island,4
+2015,Bronx,3
+2015,Brooklyn,21
+2015,Queens,21
+2015,BROOKLYN,2
+2015,Bronx,15
+2015,Brooklyn,23
+2015,Manhattan,21
+2015,Queens,27
+2015,Staten Island,6
+2015,BRONX,1
+2015,BROOKLYN,5
+2015,Bronx,3
+2015,Brooklyn,30
+2015,Manhattan,25
+2015,Staten Island,4
+2015,BRONX,1
+2015,Bronx,11
+2015,Brooklyn,17
+2015,Manhattan,19
+2015,Queens,27
+2015,Staten Island,4
+2015,Bronx,27
+2015,Brooklyn,4
+2015,Manhattan,10
+2015,Queens,10
+2015,Bronx,9
+2015,Brooklyn,1
+2015,Manhattan,18
+2015,Queens,20
+2015,Staten Island,9
+2015,BRONX,1
+2015,Bronx,26
+2015,Brooklyn,17
+2015,Manhattan,2
+2015,Queens,32
+2015,Bronx,1
+2015,Brooklyn,29
+2015,Manhattan,20
+2015,Queens,28
+2015,Staten Island,8
+2015,BRONX,1
+2015,Bronx,1
+2015,Brooklyn,13
+2015,Manhattan,25
+2015,Queens,13
+2015,Staten Island,14
+2015,Bronx,4
+2015,Brooklyn,12
+2015,Manhattan,31
+2015,Queens,38
+2015,Staten Island,7
+2015,Manhattan,22
+2015,Queens,3
+2015,Bronx,19
+2015,Brooklyn,2
+2015,Manhattan,44
+2015,Queens,28
+2015,Bronx,6
+2015,Brooklyn,17
+2015,Manhattan,31
+2015,Queens,19
+2015,Bronx,4
+2015,Brooklyn,15
+2015,Manhattan,12
+2015,Queens,20
+2015,Bronx,4
+2015,Brooklyn,5
+2015,Manhattan,36
+2015,Queens,1
+2015,Bronx,11
+2015,Brooklyn,5
+2015,Manhattan,15
+2015,Queens,11
+2015,Staten Island,5
+2015,Bronx,17
+2015,Brooklyn,23
+2015,Queens,21
+2015,Brooklyn,27
+2015,Manhattan,30
+2015,Queens,16
+2015,Staten Island,5
+2015,Bronx,25
+2015,Brooklyn,26
+2015,Manhattan,6
+2015,Queens,4
+2015,Staten Island,4
+2015,Bronx,17
+2015,Brooklyn,23
+2015,Manhattan,21
+2015,Queens,31
+2015,Staten Island,5
+2015,Brooklyn,10
+2015,Manhattan,8
+2015,Bronx,17
+2015,Brooklyn,1
+2015,Manhattan,12
+2015,Queens,18
+2015,Staten Island,4
+2015,Bronx,9
+2015,Brooklyn,23
+2015,Queens,20
+2015,Unknown,6
+2015,Brooklyn,19
+2015,Manhattan,13
+2015,Queens,23
+2015,Staten Island,7
+2015,Bronx,13
+2015,Brooklyn,29
+2015,Manhattan,17
+2015,Staten Island,3
+2015,Bronx,16
+2015,Brooklyn,46
+2015,Manhattan,9
+2015,Queens,11
+2015,Staten Island,8
+2015,Brooklyn,3
+2015,Manhattan,2
+2015,BRONX,1
+2015,Bronx,8
+2015,Manhattan,24
+2015,Queens,16
+2015,Staten Island,9
+2015,Bronx,13
+2015,Brooklyn,13
+2015,Queens,25
+2015,Bronx,1
+2015,Brooklyn,18
+2015,Manhattan,12
+2015,Queens,19
+2015,Staten Island,11
+2015,BRONX,1
+2015,Bronx,33
+2015,Brooklyn,30
+2015,Manhattan,29
+2015,Queens,4
+2015,Staten Island,8
+2015,Bronx,25
+2015,Brooklyn,27
+2015,Manhattan,17
+2015,Queens,19
+2015,Staten Island,8
+2015,Unknown,7
+2015,Brooklyn,3
+2015,Manhattan,2
+2015,Bronx,20
+2015,Brooklyn,16
+2015,Manhattan,15
+2015,Queens,22
+2015,Staten Island,7
+2015,Bronx,23
+2015,Brooklyn,27
+2015,Queens,31
+2015,Brooklyn,21
+2015,Manhattan,14
+2015,Outside NYC,1
+2015,Queens,25
+2015,Staten Island,1
+2015,Bronx,23
+2015,Brooklyn,13
+2015,Manhattan,22
+2015,Queens,4
+2015,Staten Island,1
+2015,Bronx,22
+2015,Brooklyn,21
+2015,Manhattan,16
+2015,Queens,22
+2015,Staten Island,6
+2015,Brooklyn,1
+2015,Queens,6
+2015,Bronx,27
+2015,Manhattan,10
+2015,Queens,15
+2015,Staten Island,5
+2015,Bronx,11
+2015,Brooklyn,16
+2015,Manhattan,2
+2015,Queens,14
+2015,BROOKLYN,1
+2015,Brooklyn,44
+2015,Manhattan,23
+2015,Queens,16
+2015,Staten Island,7
+2015,Bronx,19
+2015,Brooklyn,24
+2015,Manhattan,31
+2015,Queens,8
+2015,BRONX,1
+2015,Bronx,13
+2015,Brooklyn,21
+2015,Manhattan,11
+2015,Queens,12
+2015,Staten Island,4
+2015,Brooklyn,10
+2015,Bronx,29
+2015,Manhattan,7
+2015,Staten Island,6
+2015,Bronx,5
+2015,Brooklyn,5
+2015,Queens,19
+2015,Brooklyn,36
+2015,Manhattan,31
+2015,Queens,7
+2015,Staten Island,4
+2015,Bronx,23
+2015,Brooklyn,45
+2015,Manhattan,12
+2015,Queens,6
+2015,Bronx,18
+2015,Brooklyn,20
+2015,Manhattan,17
+2015,Queens,17
+2015,Brooklyn,14
+2015,Manhattan,3
+2015,Queens,4
+2015,Bronx,22
+2015,Manhattan,4
+2015,Queens,8
+2015,Bronx,12
+2015,Brooklyn,22
+2015,Manhattan,1
+2015,Queens,34
+2015,Bronx,11
+2015,Brooklyn,13
+2015,Manhattan,4
+2015,Queens,19
+2015,Bronx,16
+2015,Brooklyn,22
+2015,Manhattan,7
+2015,Queens,3
+2015,Bronx,10
+2015,Brooklyn,25
+2015,Manhattan,14
+2015,Queens,18
+2015,Brooklyn,8
+2015,Manhattan,9
+2015,Bronx,16
+2015,Manhattan,32
+2015,Queens,26
+2015,Bronx,30
+2015,Brooklyn,31
+2015,Queens,14
+2015,Bronx,2
+2015,Brooklyn,6
+2015,Manhattan,26
+2015,Queens,19
+2015,Bronx,37
+2015,Brooklyn,24
+2015,Manhattan,25
+2015,Queens,7
+2015,Staten Island,6
+2015,Bronx,18
+2015,Brooklyn,15
+2015,Manhattan,16
+2015,Queens,8
+2015,Staten Island,3
+2015,Brooklyn,9
+2015,Manhattan,13
+2015,Bronx,14
+2015,Brooklyn,9
+2015,Manhattan,34
+2015,Queens,23
+2015,Bronx,17
+2015,Brooklyn,17
+2015,Outside NYC,1
+2015,Queens,17
+2015,Brooklyn,23
+2015,Manhattan,59
+2015,Queens,24
+2015,Bronx,17
+2015,Brooklyn,25
+2015,Manhattan,23
+2015,Queens,8
+2015,Staten Island,6
+2015,Bronx,12
+2015,Brooklyn,39
+2015,Manhattan,31
+2015,Outside NYC,1
+2015,Queens,29
+2015,Manhattan,1
+2015,Bronx,32
+2015,Brooklyn,3
+2015,Queens,21
+2015,Staten Island,3
+2015,Bronx,11
+2015,Brooklyn,24
+2015,Manhattan,23
+2015,Queens,10
+2015,Staten Island,2
+2015,Bronx,29
+2015,Brooklyn,8
+2015,Manhattan,34
+2015,Queens,1
+2015,Staten Island,1
+2015,Unknown,6
+2015,Bronx,10
+2015,Brooklyn,17
+2015,Manhattan,42
+2015,Queens,17
+2015,Bronx,2
+2015,Brooklyn,3
+2015,Manhattan,11
+2015,Queens,8
+2015,Staten Island,2
+2015,Bronx,7
+2015,Queens,5
+2015,Bronx,17
+2015,Manhattan,52
+2015,Queens,29
+2015,BRONX,1
+2015,Bronx,22
+2015,Brooklyn,16
+2015,Queens,38
+2015,Bronx,3
+2015,Brooklyn,27
+2015,Manhattan,26
+2015,Queens,20
+2015,Bronx,25
+2015,Brooklyn,24
+2015,Manhattan,31
+2015,Queens,3
+2015,Bronx,19
+2015,Brooklyn,31
+2015,Manhattan,63
+2015,Queens,26
+2015,Staten Island,2
+2015,Unknown,8
+2015,Brooklyn,15
+2015,Manhattan,17
+2015,Staten Island,3
+2015,BROOKLYN,1
+2015,Brooklyn,10
+2015,Manhattan,2
+2015,Bronx,12
+2015,Brooklyn,5
+2015,Manhattan,21
+2015,Queens,28
+2015,Unknown,7
+2015,Bronx,10
+2015,Brooklyn,26
+2015,Manhattan,1
+2015,Outside NYC,6
+2015,Queens,30
+2015,Bronx,10
+2015,Brooklyn,47
+2015,Manhattan,18
+2015,Outside NYC,8
+2015,Queens,8
+2015,Unknown,3
+2015,Bronx,7
+2015,Brooklyn,37
+2015,Manhattan,13
+2015,Queens,5
+2015,Bronx,5
+2015,Brooklyn,25
+2015,Manhattan,29
+2015,Queens,29
+2015,Staten Island,9
+2015,Bronx,7
+2015,Brooklyn,18
+2015,Manhattan,13
+2015,Queens,10
+2015,Staten Island,3
+2015,Brooklyn,2
+2015,Manhattan,3
+2015,Queens,1
+2015,Bronx,10
+2015,Manhattan,41
+2015,Queens,33
+2015,Bronx,14
+2015,Brooklyn,15
+2015,Manhattan,6
+2015,Queens,18
+2015,Brooklyn,13
+2015,Manhattan,43
+2015,Queens,29
+2015,Bronx,20
+2015,Brooklyn,34
+2015,Manhattan,43
+2015,Queens,1
+2015,Staten Island,12
+2015,Bronx,2
+2015,Brooklyn,4
+2015,Manhattan,2
+2015,Queens,10
+2015,Bronx,8
+2015,Brooklyn,7
+2015,Manhattan,2
+2015,Queens,2
+2015,Bronx,21
+2015,Manhattan,34
+2015,Queens,19
+2015,Bronx,8
+2015,Brooklyn,19
+2015,Manhattan,5
+2015,Queens,32
+2015,Bronx,5
+2015,Brooklyn,28
+2015,Manhattan,34
+2015,Queens,16
+2015,Bronx,16
+2015,Brooklyn,17
+2015,Manhattan,33
+2015,Staten Island,9
+2015,Bronx,9
+2015,Brooklyn,14
+2015,Manhattan,51
+2015,Queens,10
+2015,Staten Island,2
+2015,Bronx,4
+2015,Brooklyn,6
+2015,Manhattan,8
+2015,Staten Island,3
+2015,Bronx,12
+2015,Brooklyn,6
+2015,Queens,1
+2015,Bronx,24
+2015,Brooklyn,4
+2015,Outside NYC,1
+2015,Queens,6
+2015,Staten Island,1
+2015,Brooklyn,28
+2015,Manhattan,14
+2015,Queens,25
+2015,Bronx,17
+2015,Brooklyn,9
+2015,Manhattan,7
+2015,Staten Island,4
+2015,Bronx,9
+2015,Brooklyn,11
+2015,Manhattan,10
+2015,Queens,12
+2015,Staten Island,5
+2015,Bronx,9
+2015,Brooklyn,10
+2015,Manhattan,2
+2015,Queens,5
+2015,Bronx,8
+2015,Brooklyn,12
+2015,Bronx,9
+2015,Brooklyn,2
+2015,Manhattan,34
+2015,Queens,8
+2015,Bronx,18
+2015,Brooklyn,8
+2015,Queens,14
+2015,Unknown,9
+2015,Brooklyn,17
+2015,Manhattan,36
+2015,Queens,35
+2015,Bronx,18
+2015,Brooklyn,43
+2015,Manhattan,18
+2015,Queens,1
+2015,Staten Island,1
+2015,Bronx,15
+2015,Brooklyn,21
+2015,Manhattan,28
+2015,Queens,22
+2015,Bronx,8
+2015,Brooklyn,6
+2015,Manhattan,3
+2015,Queens,3
+2015,Staten Island,1
+2015,Brooklyn,5
+2015,Queens,12
+2015,Bronx,17
+2015,Manhattan,48
+2015,Queens,19
+2015,Bronx,13
+2015,Brooklyn,18
+2015,Manhattan,11
+2015,Queens,23
+2015,Staten Island,1
+2015,Brooklyn,21
+2015,Manhattan,34
+2015,Queens,44
+2015,Staten Island,1
+2015,Unknown,2
+2015,Bronx,40
+2015,Brooklyn,22
+2015,Manhattan,14
+2015,Staten Island,15
+2015,Bronx,12
+2015,Brooklyn,37
+2015,Manhattan,32
+2015,Queens,20
+2015,Bronx,4
+2015,Brooklyn,7
+2015,Queens,6
+2015,Bronx,5
+2015,Manhattan,34
+2015,Queens,13
+2015,Bronx,1
+2015,Brooklyn,15
+2015,Manhattan,3
+2015,Queens,43
+2015,Bronx,18
+2015,Brooklyn,29
+2015,Manhattan,13
+2015,Queens,4
+2015,Bronx,27
+2015,Brooklyn,26
+2015,Manhattan,32
+2015,Queens,18
+2015,Staten Island,9
+2015,Bronx,3
+2015,Brooklyn,6
+2015,Manhattan,4
+2015,Queens,8
+2015,Bronx,14
+2015,Brooklyn,9
+2015,Queens,7
+2015,Bronx,21
+2015,Manhattan,28
+2015,Queens,35
+2015,Bronx,6
+2015,Brooklyn,17
+2015,Manhattan,7
+2015,Queens,26
+2015,Bronx,16
+2015,Brooklyn,20
+2015,Manhattan,29
+2015,Staten Island,1
+2015,Bronx,8
+2015,Brooklyn,26
+2015,Manhattan,21
+2015,Queens,26
+2015,Bronx,3
+2015,Brooklyn,3
+2015,Manhattan,14
+2015,Queens,3
+2015,Brooklyn,8
+2015,Manhattan,1
+2015,Queens,3
+2015,Bronx,14
+2015,Manhattan,18
+2015,Queens,35
+2015,Bronx,7
+2015,Brooklyn,13
+2015,Queens,19
+2015,Staten Island,3
+2015,Brooklyn,11
+2015,Manhattan,28
+2015,Queens,17
+2015,Bronx,3
+2015,Brooklyn,21
+2015,Manhattan,31
+2015,Staten Island,8
+2015,Bronx,21
+2015,Brooklyn,11
+2015,Manhattan,19
+2015,Queens,24
+2015,Staten Island,13
+2015,Bronx,3
+2015,Brooklyn,17
+2015,Manhattan,6
+2015,Staten Island,2
+2015,Bronx,11
+2015,Brooklyn,3
+2015,Queens,2
+2015,Bronx,16
+2015,Brooklyn,4
+2015,Manhattan,31
+2015,Queens,24
+2015,Staten Island,1
+2015,Bronx,14
+2015,Brooklyn,36
+2015,Manhattan,1
+2015,Queens,24
+2015,Staten Island,1
+2015,Bronx,1
+2015,Brooklyn,24
+2015,Manhattan,34
+2015,Queens,23
+2015,Staten Island,7
+2015,Manhattan,7
+2015,Bronx,8
+2015,Brooklyn,7
+2015,Manhattan,21
+2015,Brooklyn,3
+2015,Queens,6
+2015,Staten Island,7
+2015,Brooklyn,19
+2015,Manhattan,6
+2015,Queens,6
+2015,Bronx,6
+2015,Manhattan,30
+2015,Queens,34
+2015,Staten Island,1
+2015,BRONX,2
+2015,Bronx,7
+2015,Brooklyn,33
+2015,Manhattan,6
+2015,Queens,28
+2015,Brooklyn,46
+2015,Manhattan,39
+2015,Queens,18
+2015,Bronx,18
+2015,Brooklyn,23
+2015,Manhattan,32
+2015,Unknown,11
+2015,Bronx,4
+2015,Brooklyn,27
+2015,Manhattan,38
+2015,Queens,22
+2015,Staten Island,7
+2015,Bronx,8
+2015,Brooklyn,7
+2015,Manhattan,8
+2015,Manhattan,10
+2015,Queens,4
+2015,BRONX,1
+2015,Bronx,12
+2015,Brooklyn,4
+2015,Manhattan,17
+2015,Queens,15
+2015,Staten Island,3
+2015,Bronx,9
+2015,Brooklyn,9
+2015,Manhattan,14
+2015,Queens,8
+2015,Bronx,9
+2015,Brooklyn,12
+2015,Manhattan,26
+2015,Queens,18
+2015,Staten Island,1
+2015,Bronx,24
+2015,Brooklyn,24
+2015,Manhattan,17
+2015,Outside NYC,1
+2015,Queens,3
+2015,BROOKLYN,2
+2015,Bronx,11
+2015,Brooklyn,19
+2015,Manhattan,29
+2015,Queens,23
+2015,Staten Island,1
+2015,Bronx,4
+2015,Brooklyn,4
+2015,Manhattan,3
+2015,Queens,4
+2015,Manhattan,9
+2015,Bronx,18
+2015,Brooklyn,1
+2015,Manhattan,29
+2015,Queens,45
+2015,Staten Island,6
+2015,Bronx,19
+2015,Brooklyn,25
+2015,Manhattan,5
+2015,Queens,38
+2015,Brooklyn,31
+2015,Manhattan,56
+2015,Queens,22
+2015,Bronx,14
+2015,Brooklyn,14
+2015,Manhattan,24
+2015,Queens,1
+2015,Staten Island,2
+2015,Brooklyn,14
+2015,Manhattan,11
+2015,Queens,2
+2015,Staten Island,5
+2015,Brooklyn,12
+2015,Manhattan,3
+2015,Queens,4
+2015,Bronx,14
+2015,Brooklyn,2
+2015,Manhattan,30
+2015,Queens,34
+2015,Staten Island,3
+2015,Bronx,9
+2015,Brooklyn,22
+2015,Manhattan,4
+2015,Queens,38
+2015,BRONX,5
+2015,Bronx,19
+2015,Brooklyn,32
+2015,Manhattan,39
+2015,Queens,24
+2015,Brooklyn,15
+2015,Manhattan,12
+2015,Staten Island,5
+2015,Bronx,16
+2015,Brooklyn,2
+2015,Manhattan,31
+2015,Queens,22
+2015,Staten Island,7
+2015,Bronx,11
+2015,Brooklyn,37
+2015,Manhattan,3
+2015,Queens,43
+2015,Staten Island,1
+2015,Bronx,14
+2015,Brooklyn,26
+2015,Manhattan,33
+2015,Queens,43
+2015,Bronx,14
+2015,Brooklyn,9
+2015,Manhattan,32
+2015,Staten Island,2
+2016,Bronx,6
+2016,Brooklyn,13
+2016,Outside NYC,1
+2016,Bronx,20
+2016,Brooklyn,3
+2016,Manhattan,25
+2016,Queens,34
+2016,Staten Island,4
+2016,Bronx,21
+2016,Brooklyn,15
+2016,Queens,26
+2016,Bronx,2
+2016,Brooklyn,11
+2016,Manhattan,46
+2016,Queens,35
+2016,Bronx,11
+2016,Brooklyn,17
+2016,Manhattan,46
+2016,Queens,1
+2016,Unknown,2
+2016,Bronx,17
+2016,Brooklyn,8
+2016,Manhattan,29
+2016,Outside NYC,5
+2016,Queens,19
+2016,Staten Island,22
+2016,Brooklyn,15
+2016,Manhattan,5
+2016,Queens,3
+2016,Bronx,16
+2016,Brooklyn,4
+2016,Outside NYC,2
+2016,Queens,3
+2016,Bronx,15
+2016,Manhattan,26
+2016,Outside NYC,1
+2016,Queens,26
+2016,Bronx,10
+2016,Brooklyn,18
+2016,Manhattan,3
+2016,Outside NYC,2
+2016,Queens,36
+2016,Staten Island,2
+2016,Brooklyn,36
+2016,Manhattan,16
+2016,Queens,37
+2016,Bronx,17
+2016,Brooklyn,19
+2016,Manhattan,21
+2016,Outside NYC,1
+2016,Queens,8
+2016,Bronx,7
+2016,Brooklyn,43
+2016,Manhattan,30
+2016,Queens,19
+2016,Staten Island,5
+2016,Brooklyn,20
+2016,Manhattan,7
+2016,Queens,1
+2016,Bronx,22
+2016,Brooklyn,1
+2016,Manhattan,2
+2016,Queens,35
+2016,Bronx,15
+2016,Brooklyn,24
+2016,Manhattan,30
+2016,Queens,31
+2016,Bronx,17
+2016,Brooklyn,38
+2016,Manhattan,31
+2016,BRONX,1
+2016,Bronx,10
+2016,Brooklyn,21
+2016,Manhattan,45
+2016,Queens,30
+2016,Staten Island,2
+2016,Brooklyn,1
+2016,Outside NYC,1
+2016,Queens,1
+2016,Bronx,6
+2016,Brooklyn,3
+2016,Manhattan,1
+2016,Unknown,1
+2016,Bronx,13
+2016,Brooklyn,29
+2016,Manhattan,51
+2016,Queens,33
+2016,Bronx,15
+2016,Brooklyn,33
+2016,Manhattan,41
+2016,Queens,43
+2016,Unknown,10
+2016,Bronx,13
+2016,Brooklyn,46
+2016,Manhattan,21
+2016,Queens,29
+2016,Staten Island,6
+2016,Bronx,12
+2016,Manhattan,1
+2016,Queens,13
+2016,Staten Island,3
+2016,Brooklyn,4
+2016,Manhattan,1
+2016,Queens,7
+2016,Staten Island,3
+2016,Bronx,14
+2016,Manhattan,38
+2016,Queens,20
+2016,Bronx,12
+2016,Brooklyn,41
+2016,Manhattan,4
+2016,Queens,27
+2016,Bronx,9
+2016,Brooklyn,39
+2016,Manhattan,46
+2016,Queens,33
+2016,Unknown,2
+2016,Bronx,9
+2016,Brooklyn,37
+2016,Manhattan,55
+2016,Staten Island,4
+2016,Bronx,5
+2016,Brooklyn,42
+2016,Manhattan,39
+2016,Queens,33
+2016,Staten Island,2
+2016,Bronx,2
+2016,Brooklyn,8
+2016,Queens,3
+2016,Outside NYC,1
+2016,Bronx,20
+2016,Manhattan,49
+2016,Queens,27
+2016,Bronx,9
+2016,Brooklyn,37
+2016,Queens,39
+2016,Bronx,9
+2016,Brooklyn,43
+2016,Manhattan,57
+2016,Queens,33
+2016,Staten Island,1
+2016,Bronx,15
+2016,Brooklyn,40
+2016,Manhattan,54
+2016,Queens,3
+2016,Bronx,12
+2016,Brooklyn,29
+2016,Manhattan,50
+2016,Queens,30
+2016,Staten Island,9
+2016,Bronx,9
+2016,Brooklyn,16
+2016,Manhattan,16
+2016,Queens,2
+2016,Staten Island,3
+2016,Brooklyn,7
+2016,Manhattan,4
+2016,Queens,5
+2016,Bronx,12
+2016,Brooklyn,45
+2016,Manhattan,56
+2016,Outside NYC,5
+2016,Queens,32
+2016,Unknown,5
+2016,Bronx,14
+2016,Brooklyn,38
+2016,Manhattan,59
+2016,Queens,55
+2016,Bronx,20
+2016,Brooklyn,56
+2016,Manhattan,27
+2016,Queens,57
+2016,Staten Island,8
+2016,Brooklyn,39
+2016,Manhattan,12
+2016,Queens,10
+2016,Staten Island,3
+2016,Brooklyn,4
+2016,Manhattan,5
+2016,Queens,6
+2016,BRONX,1
+2016,Bronx,19
+2016,Manhattan,34
+2016,Queens,50
+2016,Staten Island,2
+2016,Bronx,15
+2016,Brooklyn,29
+2016,Manhattan,14
+2016,Queens,50
+2016,Bronx,19
+2016,Brooklyn,43
+2016,Manhattan,44
+2016,Queens,41
+2016,Bronx,17
+2016,Brooklyn,78
+2016,Manhattan,48
+2016,Outside NYC,1
+2016,Queens,1
+2016,Bronx,16
+2016,Brooklyn,65
+2016,Manhattan,21
+2016,Queens,26
+2016,Staten Island,4
+2016,Bronx,2
+2016,Brooklyn,21
+2016,Manhattan,4
+2016,Queens,24
+2016,Staten Island,10
+2016,Bronx,8
+2016,Brooklyn,5
+2016,Queens,21
+2016,Bronx,12
+2016,Brooklyn,6
+2016,Manhattan,28
+2016,Queens,20
+2016,Bronx,16
+2016,Brooklyn,35
+2016,Queens,34
+2016,Bronx,1
+2016,Brooklyn,45
+2016,Manhattan,45
+2016,Queens,25
+2016,Unknown,1
+2016,Bronx,13
+2016,Brooklyn,32
+2016,Manhattan,64
+2016,Bronx,11
+2016,Brooklyn,59
+2016,Manhattan,60
+2016,Queens,28
+2016,Staten Island,1
+2016,Unknown,4
+2016,Bronx,5
+2016,Brooklyn,22
+2016,Manhattan,12
+2016,Queens,5
+2016,Bronx,11
+2016,Brooklyn,11
+2016,Queens,1
+2016,Bronx,20
+2016,Brooklyn,2
+2016,Manhattan,79
+2016,Queens,38
+2016,Staten Island,1
+2016,Unknown,1
+2016,Bronx,15
+2016,Brooklyn,43
+2016,Queens,34
+2016,Staten Island,4
+2016,Brooklyn,36
+2016,Manhattan,60
+2016,Bronx,11
+2016,Brooklyn,26
+2016,Manhattan,29
+2016,Queens,7
+2016,Staten Island,2
+2016,Brooklyn,27
+2016,Manhattan,7
+2016,Queens,46
+2016,Staten Island,2
+2016,Brooklyn,3
+2016,Queens,2
+2016,Bronx,6
+2016,Brooklyn,15
+2016,Manhattan,18
+2016,Outside NYC,2
+2016,Queens,25
+2016,Staten Island,5
+2016,Bronx,8
+2016,Brooklyn,20
+2016,Queens,22
+2016,Staten Island,1
+2016,Bronx,2
+2016,Brooklyn,33
+2016,Manhattan,80
+2016,Queens,28
+2016,Staten Island,1
+2016,Bronx,9
+2016,Brooklyn,40
+2016,Manhattan,45
+2016,Bronx,7
+2016,Brooklyn,64
+2016,Manhattan,33
+2016,Queens,22
+2016,Staten Island,5
+2016,Bronx,2
+2016,Brooklyn,17
+2016,Manhattan,9
+2016,Queens,29
+2016,Staten Island,5
+2016,Brooklyn,14
+2016,Queens,3
+2016,Bronx,14
+2016,Brooklyn,1
+2016,Manhattan,36
+2016,Queens,41
+2016,Staten Island,2
+2016,Bronx,4
+2016,Brooklyn,12
+2016,Manhattan,3
+2016,Queens,18
+2016,Bronx,6
+2016,Brooklyn,21
+2016,Manhattan,34
+2016,Queens,25
+2016,Bronx,8
+2016,Brooklyn,21
+2016,Manhattan,68
+2016,Queens,7
+2016,Bronx,16
+2016,Brooklyn,23
+2016,Manhattan,32
+2016,Queens,25
+2016,Staten Island,4
+2016,Brooklyn,27
+2016,Manhattan,6
+2016,Queens,30
+2016,Staten Island,1
+2016,Manhattan,17
+2016,Queens,2
+2016,Bronx,18
+2016,Brooklyn,7
+2016,Manhattan,36
+2016,Queens,5
+2016,Staten Island,1
+2016,Bronx,11
+2016,Brooklyn,25
+2016,Manhattan,1
+2016,Queens,20
+2016,Bronx,26
+2016,Brooklyn,34
+2016,Manhattan,38
+2016,Queens,15
+2016,Staten Island,2
+2016,BRONX,2
+2016,Bronx,12
+2016,Brooklyn,46
+2016,Manhattan,61
+2016,Bronx,8
+2016,Brooklyn,47
+2016,Manhattan,40
+2016,Queens,19
+2016,Staten Island,4
+2016,Brooklyn,15
+2016,Manhattan,12
+2016,Queens,7
+2016,Staten Island,6
+2016,Bronx,1
+2016,Brooklyn,8
+2016,Queens,11
+2016,Bronx,7
+2016,Manhattan,64
+2016,Queens,28
+2016,Staten Island,3
+2016,Bronx,14
+2016,Brooklyn,33
+2016,Manhattan,1
+2016,Queens,6
+2016,Brooklyn,47
+2016,Manhattan,37
+2016,Queens,18
+2016,Staten Island,5
+2016,Bronx,6
+2016,Brooklyn,25
+2016,Manhattan,35
+2016,Queens,2
+2016,Staten Island,2
+2016,Bronx,7
+2016,Brooklyn,57
+2016,Manhattan,30
+2016,Queens,11
+2016,Bronx,2
+2016,Brooklyn,25
+2016,Manhattan,6
+2016,Queens,2
+2016,Staten Island,4
+2016,Brooklyn,9
+2016,Queens,4
+2016,Bronx,13
+2016,Brooklyn,4
+2016,Manhattan,35
+2016,Queens,20
+2016,Staten Island,12
+2016,Bronx,6
+2016,Brooklyn,50
+2016,Manhattan,7
+2016,Queens,24
+2016,Bronx,27
+2016,Brooklyn,44
+2016,Manhattan,44
+2016,Queens,25
+2016,BRONX,1
+2016,Bronx,17
+2016,Brooklyn,49
+2016,Manhattan,51
+2016,Queens,6
+2016,Staten Island,13
+2016,Bronx,6
+2016,Brooklyn,40
+2016,Manhattan,17
+2016,Queens,14
+2016,Staten Island,3
+2016,Bronx,7
+2016,Brooklyn,32
+2016,Manhattan,6
+2016,Queens,44
+2016,Bronx,4
+2016,Brooklyn,4
+2016,Queens,6
+2016,Bronx,20
+2016,Brooklyn,1
+2016,Manhattan,33
+2016,Outside NYC,1
+2016,Queens,20
+2016,Staten Island,5
+2016,Bronx,19
+2016,Brooklyn,27
+2016,Manhattan,9
+2016,Queens,21
+2016,Brooklyn,29
+2016,Manhattan,20
+2016,Queens,17
+2016,Staten Island,5
+2016,Bronx,4
+2016,Brooklyn,32
+2016,Manhattan,41
+2016,Outside NYC,4
+2016,Queens,1
+2016,Staten Island,1
+2016,Bronx,8
+2016,Brooklyn,34
+2016,Manhattan,41
+2016,Queens,11
+2016,Staten Island,11
+2016,Manhattan,11
+2016,Staten Island,7
+2016,Bronx,6
+2016,Brooklyn,1
+2016,Manhattan,42
+2016,Outside NYC,2
+2016,Queens,25
+2016,Staten Island,8
+2016,Bronx,9
+2016,Brooklyn,8
+2016,Manhattan,7
+2016,Queens,27
+2016,Bronx,2
+2016,Brooklyn,18
+2016,Manhattan,26
+2016,Queens,32
+2016,Staten Island,3
+2016,Bronx,16
+2016,Brooklyn,14
+2016,Manhattan,30
+2016,Queens,17
+2016,Bronx,12
+2016,Brooklyn,29
+2016,Manhattan,25
+2016,Outside NYC,3
+2016,Queens,21
+2016,Brooklyn,15
+2016,Bronx,9
+2016,Brooklyn,1
+2016,Manhattan,23
+2016,Outside NYC,2
+2016,Queens,15
+2016,Staten Island,10
+2016,Bronx,10
+2016,Brooklyn,30
+2016,Outside NYC,3
+2016,Queens,17
+2016,Bronx,18
+2016,Brooklyn,22
+2016,Manhattan,23
+2016,Queens,20
+2016,Staten Island,8
+2016,Brooklyn,22
+2016,Manhattan,58
+2016,Queens,6
+2016,Bronx,10
+2016,Brooklyn,30
+2016,Manhattan,45
+2016,Queens,16
+2016,Staten Island,11
+2016,Bronx,3
+2016,Brooklyn,28
+2016,Manhattan,7
+2016,Queens,19
+2016,Bronx,10
+2016,Brooklyn,4
+2016,Queens,5
+2016,Bronx,16
+2016,Brooklyn,2
+2016,Manhattan,41
+2016,Outside NYC,1
+2016,Queens,19
+2016,Staten Island,7
+2016,Bronx,15
+2016,Brooklyn,24
+2016,Queens,28
+2016,Brooklyn,48
+2016,Manhattan,27
+2016,Queens,23
+2016,Bronx,14
+2016,Brooklyn,26
+2016,Manhattan,35
+2016,Queens,2
+2016,Staten Island,5
+2016,Bronx,16
+2016,Brooklyn,29
+2016,Manhattan,30
+2016,Outside NYC,1
+2016,Queens,23
+2016,Staten Island,14
+2016,Bronx,8
+2016,Brooklyn,30
+2016,Queens,17
+2016,Staten Island,4
+2016,Bronx,2
+2016,Brooklyn,2
+2016,Manhattan,4
+2016,Queens,2
+2016,Bronx,16
+2016,Manhattan,37
+2016,Outside NYC,1
+2016,Queens,21
+2016,Staten Island,8
+2016,Bronx,15
+2016,Brooklyn,52
+2016,Outside NYC,3
+2016,Queens,38
+2016,Bronx,5
+2016,Brooklyn,41
+2016,Manhattan,24
+2016,Queens,16
+2016,Staten Island,9
+2016,Bronx,6
+2016,Brooklyn,47
+2016,Manhattan,39
+2016,Queens,12
+2016,Staten Island,8
+2016,Unknown,7
+2016,Bronx,19
+2016,Brooklyn,26
+2016,Manhattan,29
+2016,Queens,43
+2016,Staten Island,13
+2016,Bronx,1
+2016,Brooklyn,8
+2016,Queens,13
+2016,Staten Island,9
+2016,Bronx,16
+2016,Brooklyn,6
+2016,Queens,3
+2016,Bronx,12
+2016,Brooklyn,2
+2016,Manhattan,34
+2016,Outside NYC,5
+2016,Queens,24
+2016,Staten Island,10
+2016,Unknown,3
+2016,Bronx,8
+2016,Brooklyn,16
+2016,Queens,20
+2016,Brooklyn,32
+2016,Manhattan,18
+2016,Queens,11
+2016,Staten Island,1
+2016,Bronx,11
+2016,Brooklyn,34
+2016,Manhattan,19
+2016,Queens,7
+2016,Staten Island,5
+2016,Bronx,11
+2016,Brooklyn,26
+2016,Manhattan,26
+2016,Queens,30
+2016,Staten Island,3
+2016,Bronx,3
+2016,Brooklyn,7
+2016,Staten Island,2
+2016,Bronx,1
+2016,Brooklyn,9
+2016,Manhattan,21
+2016,Outside NYC,2
+2016,Queens,29
+2016,Staten Island,11
+2016,Bronx,14
+2016,Brooklyn,45
+2016,Manhattan,1
+2016,Queens,4
+2016,Bronx,14
+2016,Brooklyn,20
+2016,Manhattan,26
+2016,Queens,25
+2016,Staten Island,15
+2016,Bronx,4
+2016,Brooklyn,2
+2016,Manhattan,6
+2016,Staten Island,1
+2016,Bronx,9
+2016,Manhattan,10
+2016,Bronx,17
+2016,Manhattan,22
+2016,Queens,29
+2016,Staten Island,1
+2016,Bronx,13
+2016,Brooklyn,36
+2016,Queens,31
+2016,Brooklyn,33
+2016,Manhattan,28
+2016,Queens,17
+2016,Staten Island,17
+2016,Bronx,8
+2016,Brooklyn,25
+2016,Manhattan,37
+2016,Queens,1
+2016,Staten Island,23
+2016,BROOKLYN,3
+2016,Bronx,14
+2016,Brooklyn,28
+2016,Manhattan,30
+2016,Queens,12
+2016,Staten Island,4
+2016,Unknown,1
+2016,Bronx,6
+2016,Brooklyn,14
+2016,Queens,3
+2016,Staten Island,1
+2016,Brooklyn,9
+2016,Manhattan,5
+2016,Queens,5
+2016,Bronx,16
+2016,Brooklyn,1
+2016,Manhattan,20
+2016,Queens,31
+2016,Staten Island,9
+2016,Bronx,10
+2016,Brooklyn,47
+2016,Queens,26
+2016,Bronx,3
+2016,Brooklyn,38
+2016,Manhattan,30
+2016,Queens,18
+2016,Staten Island,2
+2016,BROOKLYN,1
+2016,Bronx,11
+2016,Brooklyn,39
+2016,Manhattan,26
+2016,Queens,1
+2016,Staten Island,7
+2016,Bronx,22
+2016,Brooklyn,23
+2016,Manhattan,33
+2016,Queens,32
+2016,Bronx,10
+2016,Manhattan,13
+2016,Queens,6
+2016,Bronx,6
+2016,Brooklyn,13
+2016,Manhattan,48
+2016,Outside NYC,9
+2016,Queens,23
+2016,Staten Island,5
+2016,Bronx,24
+2016,Brooklyn,52
+2016,Manhattan,19
+2016,Queens,37
+2016,Staten Island,1
+2016,Bronx,7
+2016,Brooklyn,35
+2016,Manhattan,30
+2016,Queens,19
+2016,Bronx,18
+2016,Brooklyn,31
+2016,Manhattan,41
+2016,Queens,9
+2016,Staten Island,1
+2016,Bronx,19
+2016,Brooklyn,30
+2016,Manhattan,18
+2016,Queens,9
+2016,Staten Island,5
+2016,Manhattan,14
+2016,Bronx,13
+2016,Brooklyn,11
+2016,Manhattan,17
+2016,Queens,15
+2016,Staten Island,10
+2016,Bronx,16
+2016,Brooklyn,34
+2016,Queens,26
+2016,Unknown,6
+2016,Brooklyn,36
+2016,Manhattan,37
+2016,Queens,19
+2016,Staten Island,2
+2016,Bronx,14
+2016,Brooklyn,31
+2016,Manhattan,29
+2016,Queens,1
+2016,Staten Island,1
+2016,Bronx,12
+2016,Brooklyn,11
+2016,Manhattan,30
+2016,Queens,30
+2016,Staten Island,3
+2016,Manhattan,24
+2016,Bronx,19
+2016,Brooklyn,2
+2016,Manhattan,6
+2016,Queens,17
+2016,Staten Island,1
+2016,Bronx,10
+2016,Brooklyn,24
+2016,Manhattan,18
+2016,Queens,15
+2016,Staten Island,4
+2016,Bronx,12
+2016,Brooklyn,17
+2016,Manhattan,46
+2016,Queens,7
+2016,Staten Island,5
+2016,Bronx,11
+2016,Brooklyn,27
+2016,Manhattan,18
+2016,Queens,21
+2016,Staten Island,6
+2016,Bronx,22
+2016,Brooklyn,8
+2016,Manhattan,24
+2016,Queens,9
+2016,Staten Island,6
+2016,Bronx,26
+2016,Brooklyn,50
+2016,Manhattan,2
+2016,Queens,16
+2016,Unknown,3
+2016,Bronx,4
+2016,Brooklyn,30
+2016,Manhattan,25
+2016,Queens,13
+2016,Bronx,30
+2016,Brooklyn,37
+2016,Manhattan,42
+2016,Queens,2
+2016,Staten Island,7
+2016,Bronx,10
+2016,Brooklyn,30
+2016,Manhattan,36
+2016,Queens,17
+2016,Staten Island,13
+2016,Staten Island,5
+2016,Brooklyn,1
+2016,Bronx,42
+2016,Brooklyn,6
+2016,Manhattan,14
+2016,Outside NYC,3
+2016,Queens,13
+2016,Staten Island,14
+2016,Bronx,23
+2016,Brooklyn,36
+2016,Manhattan,3
+2016,Queens,20
+2016,Unknown,1
+2016,Brooklyn,22
+2016,Manhattan,20
+2016,Queens,35
+2016,Staten Island,17
+2016,BROOKLYN,2
+2016,Bronx,31
+2016,Brooklyn,33
+2016,Manhattan,20
+2016,Outside NYC,2
+2016,Queens,2
+2016,Staten Island,4
+2016,Bronx,23
+2016,Brooklyn,41
+2016,Manhattan,27
+2016,Queens,32
+2016,Bronx,36
+2016,Brooklyn,11
+2016,Manhattan,29
+2016,Queens,30
+2016,Bronx,31
+2016,Brooklyn,56
+2016,Manhattan,4
+2016,Queens,17
+2016,Bronx,11
+2016,Brooklyn,50
+2016,Manhattan,17
+2016,Queens,26
+2016,Staten Island,9
+2016,Bronx,24
+2016,Brooklyn,21
+2016,Manhattan,38
+2016,Queens,4
+2016,Staten Island,7
+2016,Bronx,15
+2016,Brooklyn,34
+2016,Manhattan,29
+2016,Queens,21
+2016,Staten Island,30
+2016,Bronx,22
+2016,Brooklyn,19
+2016,Manhattan,18
+2016,Queens,22
+2016,Staten Island,6
+2016,Bronx,29
+2016,Brooklyn,17
+2016,Queens,21
+2016,Bronx,11
+2016,Brooklyn,49
+2016,Manhattan,7
+2016,Outside NYC,4
+2016,Queens,23
+2016,Bronx,24
+2016,Brooklyn,35
+2016,Manhattan,19
+2016,Queens,2
+2016,Staten Island,1
+2016,Bronx,23
+2016,Brooklyn,34
+2016,Manhattan,47
+2016,Queens,14
+2016,Staten Island,5
+2016,Manhattan,7
+2016,Queens,7
+2016,Staten Island,1
+2016,Bronx,24
+2016,Brooklyn,16
+2016,Manhattan,17
+2016,Queens,10
+2016,Staten Island,6
+2016,BROOKLYN,1
+2016,Bronx,34
+2016,Brooklyn,52
+2016,Manhattan,2
+2016,Outside NYC,2
+2016,Queens,25
+2016,Staten Island,3
+2016,Brooklyn,48
+2016,Manhattan,34
+2016,Queens,14
+2016,Bronx,22
+2016,Brooklyn,32
+2016,Manhattan,8
+2016,Bronx,2
+2016,Brooklyn,23
+2016,Manhattan,50
+2016,Outside NYC,2
+2016,Queens,26
+2016,Staten Island,2
+2016,Brooklyn,6
+2016,Queens,18
+2016,Bronx,16
+2016,Brooklyn,12
+2016,Manhattan,20
+2016,Queens,11
+2016,Staten Island,3
+2016,Bronx,34
+2016,Brooklyn,26
+2016,Queens,21
+2016,BROOKLYN,1
+2016,Bronx,8
+2016,Brooklyn,29
+2016,Manhattan,26
+2016,Queens,4
+2016,Bronx,13
+2016,Brooklyn,51
+2016,Manhattan,22
+2016,Queens,23
+2016,Queens,16
+2016,Staten Island,2
+2016,Bronx,31
+2016,Brooklyn,11
+2016,Manhattan,16
+2016,Queens,30
+2016,Staten Island,4
+2016,Bronx,13
+2016,Brooklyn,45
+2016,Manhattan,2
+2016,Outside NYC,2
+2016,Queens,28
+2016,Bronx,5
+2016,Brooklyn,30
+2016,Manhattan,30
+2016,Outside NYC,3
+2016,Queens,34
+2016,Staten Island,2
+2016,Bronx,29
+2016,Brooklyn,47
+2016,Manhattan,51
+2016,Queens,4
+2016,Bronx,17
+2016,Brooklyn,67
+2016,Manhattan,44
+2016,Queens,29
+2016,Staten Island,5
+2016,Brooklyn,3
+2016,Queens,13
+2016,Staten Island,1
+2016,Bronx,32
+2016,Brooklyn,6
+2016,Manhattan,24
+2016,Outside NYC,3
+2016,Queens,28
+2016,Staten Island,3
+2016,BROOKLYN,1
+2016,Bronx,21
+2016,Brooklyn,30
+2016,Manhattan,11
+2016,Queens,25
+2016,Bronx,8
+2016,Brooklyn,66
+2016,Manhattan,29
+2016,Outside NYC,12
+2016,Queens,27
+2016,Staten Island,2
+2016,Bronx,21
+2016,Brooklyn,37
+2016,Manhattan,25
+2016,Queens,4
+2016,Staten Island,2
+2016,Bronx,4
+2016,Brooklyn,36
+2016,Manhattan,38
+2016,Queens,10
+2016,Staten Island,4
+2016,Bronx,28
+2016,Queens,25
+2016,Bronx,4
+2016,Brooklyn,62
+2016,Manhattan,34
+2016,Queens,32
+2016,Bronx,3
+2016,Brooklyn,33
+2016,Manhattan,45
+2016,Staten Island,1
+2016,Bronx,14
+2016,Brooklyn,45
+2016,Manhattan,39
+2016,Queens,15
+2016,Staten Island,2
+2016,Brooklyn,5
+2016,Manhattan,16
+2016,Queens,26
+2016,Staten Island,8
+2016,Bronx,21
+2016,Brooklyn,4
+2016,Queens,7
+2016,Bronx,15
+2016,Manhattan,33
+2016,Outside NYC,10
+2016,Queens,17
+2016,Staten Island,10
+2016,BROOKLYN,3
+2016,Bronx,39
+2016,Brooklyn,40
+2016,Queens,31
+2016,Bronx,7
+2016,Brooklyn,52
+2016,Manhattan,21
+2016,Queens,24
+2016,Staten Island,2
+2016,BROOKLYN,1
+2016,Bronx,4
+2016,Brooklyn,41
+2016,Manhattan,29
+2016,Outside NYC,6
+2016,Bronx,6
+2016,Brooklyn,63
+2016,Manhattan,39
+2016,Outside NYC,11
+2016,Queens,10
+2016,Staten Island,9
+2016,Brooklyn,16
+2016,Manhattan,2
+2016,Queens,13
+2016,Staten Island,1
+2016,Brooklyn,2
+2016,Queens,10
+2016,Bronx,3
+2016,Manhattan,14
+2016,Queens,13
+2016,BROOKLYN,2
+2016,Bronx,17
+2016,Brooklyn,26
+2016,Manhattan,8
+2016,Queens,21
+2016,Unknown,3
+2016,Bronx,15
+2016,Brooklyn,44
+2016,Manhattan,23
+2016,Queens,26
+2016,Bronx,17
+2016,Brooklyn,48
+2016,Manhattan,33
+2016,Outside NYC,11
+2016,Queens,2
+2016,Staten Island,4
+2016,Unknown,3
+2016,Bronx,16
+2016,Brooklyn,51
+2016,Manhattan,30
+2016,Queens,13
+2016,Staten Island,5
+2016,Bronx,6
+2016,Brooklyn,7
+2016,Queens,3
+2016,Staten Island,6
+2016,Bronx,4
+2016,Brooklyn,2
+2016,Manhattan,13
+2016,Queens,2
+2016,Bronx,29
+2016,Brooklyn,1
+2016,Manhattan,25
+2016,Queens,14
+2016,Staten Island,10
+2016,Bronx,20
+2016,Brooklyn,37
+2016,Manhattan,6
+2016,Outside NYC,1
+2016,Queens,21
+2016,Bronx,7
+2016,Brooklyn,28
+2016,Manhattan,24
+2016,Outside NYC,9
+2016,Queens,34
+2016,Staten Island,3
+2016,Bronx,20
+2016,Brooklyn,35
+2016,Manhattan,13
+2016,Queens,3
+2016,Staten Island,5
+2016,Bronx,25
+2016,Brooklyn,39
+2016,Manhattan,14
+2016,Queens,26
+2016,Staten Island,1
+2016,Brooklyn,14
+2016,Manhattan,12
+2016,Bronx,4
+2016,Brooklyn,11
+2016,Staten Island,5
+2016,Bronx,35
+2016,Manhattan,19
+2016,Queens,16
+2016,Staten Island,3
+2016,Bronx,24
+2016,Brooklyn,49
+2016,Queens,16
+2016,Unknown,12
+2016,Brooklyn,48
+2016,Manhattan,31
+2016,Queens,19
+2016,Staten Island,8
+2016,Bronx,18
+2016,Brooklyn,36
+2016,Manhattan,25
+2016,Queens,4
+2016,Staten Island,2
+2016,BRONX,1
+2016,Bronx,12
+2016,Brooklyn,25
+2016,Manhattan,12
+2016,Queens,22
+2016,Staten Island,1
+2016,Brooklyn,18
+2016,Manhattan,7
+2016,Bronx,33
+2016,Brooklyn,2
+2016,Manhattan,4
+2016,Queens,7
+2016,Bronx,10
+2016,Brooklyn,55
+2016,Manhattan,14
+2016,Queens,25
+2016,Bronx,16
+2016,Brooklyn,21
+2016,Manhattan,26
+2016,Queens,1
+2016,Staten Island,11
+2016,Bronx,27
+2016,Brooklyn,27
+2016,Manhattan,22
+2016,Queens,14
+2016,Staten Island,2
+2016,Bronx,8
+2016,Brooklyn,10
+2016,Manhattan,7
+2016,Staten Island,11
+2016,Manhattan,20
+2016,Bronx,28
+2016,Manhattan,21
+2016,Queens,6
+2016,Staten Island,6
+2016,Bronx,27
+2016,Brooklyn,32
+2016,Manhattan,1
+2016,Queens,13
+2016,Staten Island,1
+2016,Brooklyn,19
+2016,Manhattan,20
+2016,Outside NYC,4
+2016,Queens,23
+2016,Bronx,6
+2016,Brooklyn,28
+2016,Manhattan,17
+2016,Queens,5
+2016,Staten Island,3
+2016,Bronx,11
+2016,Brooklyn,29
+2016,Manhattan,43
+2016,Queens,9
+2016,Staten Island,5
+2016,Brooklyn,12
+2016,Queens,3
+2016,Staten Island,8
+2016,Bronx,2
+2016,Brooklyn,12
+2016,Bronx,36
+2016,Brooklyn,12
+2016,Manhattan,29
+2016,Queens,5
+2016,Staten Island,7
+2016,Unknown,8
+2016,Bronx,17
+2016,Brooklyn,31
+2016,Manhattan,1
+2016,Queens,12
+2016,Bronx,20
+2016,Brooklyn,33
+2016,Manhattan,5
+2016,Queens,11
+2016,Bronx,17
+2016,Brooklyn,42
+2016,Manhattan,14
+2016,Queens,2
+2016,Staten Island,5
+2016,Bronx,6
+2016,Brooklyn,35
+2016,Manhattan,12
+2016,Queens,11
+2016,Staten Island,2
+2016,Brooklyn,14
+2016,Manhattan,2
+2016,Queens,10
+2016,Brooklyn,6
+2016,Manhattan,10
+2016,Bronx,28
+2016,Manhattan,4
+2016,Queens,12
+2016,Staten Island,10
+2016,Bronx,18
+2016,Brooklyn,24
+2016,Manhattan,2
+2016,Outside NYC,17
+2016,Queens,6
+2016,Brooklyn,27
+2016,Manhattan,5
+2016,Queens,20
+2016,Staten Island,12
+2016,Bronx,12
+2016,Brooklyn,40
+2016,Manhattan,18
+2016,Staten Island,9
+2016,Bronx,9
+2016,Bronx,4
+2016,Brooklyn,22
+2016,Manhattan,20
+2016,Bronx,2
+2016,Manhattan,20
+2016,Queens,10
+2016,Staten Island,14
+2016,Bronx,1
+2016,Brooklyn,34
+2016,Manhattan,1
+2016,Queens,24
+2016,Brooklyn,22
+2016,Manhattan,26
+2016,Bronx,5
+2016,Brooklyn,14
+2016,Manhattan,11
+2016,Queens,3
+2016,Staten Island,2
+2016,Bronx,10
+2016,Brooklyn,5
+2016,Queens,6
+2016,Bronx,25
+2016,Brooklyn,10
+2016,Manhattan,12
+2016,Queens,24
+2016,Staten Island,3
+2016,BRONX,1
+2016,Bronx,40
+2016,Brooklyn,59
+2016,Manhattan,10
+2016,Queens,13
+2016,Bronx,9
+2016,Brooklyn,34
+2016,Manhattan,13
+2016,Queens,36
+2016,Staten Island,2
+2016,Bronx,6
+2016,Brooklyn,75
+2016,Manhattan,21
+2016,Queens,2
+2016,Staten Island,2
+2016,Bronx,19
+2016,Brooklyn,28
+2016,Manhattan,25
+2016,Queens,41
+2016,Staten Island,3
+2016,Brooklyn,20
+2016,Manhattan,24
+2016,Queens,1
+2016,Staten Island,5
+2016,Brooklyn,7
+2016,Queens,4
+2016,Bronx,27
+2016,Manhattan,15
+2016,Queens,28
+2016,Staten Island,5
+2016,Bronx,24
+2016,Brooklyn,45
+2016,Manhattan,4
+2016,Outside NYC,3
+2016,Queens,22
+2016,Unknown,9
+2016,Brooklyn,37
+2016,Manhattan,25
+2016,Queens,13
+2016,Staten Island,4
+2016,Bronx,1
+2016,Brooklyn,6
+2016,Manhattan,9
+2016,Queens,8
+2016,Staten Island,1
+2016,Bronx,6
+2016,Brooklyn,10
+2016,Staten Island,7
+2016,Brooklyn,6
+2016,Queens,3
+2016,Bronx,9
+2016,Manhattan,15
+2016,Queens,20
+2016,Staten Island,4
+2016,Bronx,39
+2016,Brooklyn,46
+2016,Queens,18
+2016,Brooklyn,41
+2016,Manhattan,18
+2016,Queens,17
+2016,Bronx,7
+2016,Brooklyn,32
+2016,Manhattan,33
+2016,Queens,1
+2016,Bronx,11
+2016,Brooklyn,41
+2016,Manhattan,10
+2016,Queens,13
+2016,Staten Island,6
+2016,Brooklyn,6
+2016,Manhattan,8
+2016,Bronx,3
+2016,Brooklyn,15
+2016,Manhattan,7
+2016,Queens,1
+2016,Bronx,28
+2016,Manhattan,22
+2016,Queens,18
+2016,Staten Island,9
+2016,Bronx,37
+2016,Brooklyn,34
+2016,Manhattan,1
+2016,Queens,27
+2016,Brooklyn,31
+2016,Manhattan,13
+2016,Queens,23
+2016,Bronx,2
+2016,Brooklyn,14
+2016,Manhattan,17
+2016,Bronx,17
+2016,Brooklyn,36
+2016,Manhattan,43
+2016,Queens,14
+2016,Staten Island,2
+2016,Bronx,17
+2016,Brooklyn,10
+2016,Manhattan,24
+2016,Queens,2
+2016,Staten Island,7
+2016,Bronx,9
+2016,Brooklyn,17
+2016,Queens,5
+2016,Bronx,16
+2016,Brooklyn,1
+2016,Manhattan,3
+2016,Queens,15
+2016,Staten Island,6
+2016,Bronx,24
+2016,Brooklyn,32
+2016,Manhattan,7
+2016,Queens,19
+2016,Brooklyn,31
+2016,Manhattan,18
+2016,Queens,10
+2016,Staten Island,3
+2016,Bronx,2
+2016,Brooklyn,39
+2016,Manhattan,20
+2016,Queens,1
+2016,Staten Island,4
+2016,Bronx,12
+2016,Brooklyn,24
+2016,Manhattan,17
+2016,Queens,25
+2016,Staten Island,2
+2016,Brooklyn,10
+2016,Manhattan,19
+2016,Bronx,2
+2016,Brooklyn,5
+2016,Manhattan,8
+2016,Bronx,32
+2016,Brooklyn,2
+2016,Manhattan,8
+2016,Queens,15
+2016,Staten Island,2
+2016,Bronx,21
+2016,Brooklyn,60
+2016,Queens,21
+2016,Staten Island,19
+2016,Brooklyn,46
+2016,Manhattan,35
+2016,Queens,32
+2016,Staten Island,13
+2016,Bronx,1
+2016,Brooklyn,69
+2016,Manhattan,24
+2016,Outside NYC,18
+2016,Bronx,15
+2016,Brooklyn,43
+2016,Manhattan,16
+2016,Queens,14
+2016,Unknown,7
+2016,Brooklyn,2
+2016,Bronx,17
+2016,Brooklyn,1
+2016,Manhattan,1
+2016,Queens,11
+2016,Bronx,4
+2016,Brooklyn,35
+2016,Manhattan,35
+2016,Queens,16
+2016,Staten Island,5
+2016,Bronx,6
+2016,Brooklyn,45
+2016,Manhattan,9
+2016,Bronx,2
+2016,Brooklyn,40
+2016,Manhattan,7
+2016,Queens,13
+2016,Staten Island,1
+2017,Bronx,8
+2017,Brooklyn,12
+2017,Manhattan,17
+2017,Outside NYC,1
+2017,Queens,15
+2017,Bronx,6
+2017,Brooklyn,73
+2017,Manhattan,7
+2017,Queens,9
+2017,Bronx,7
+2017,Brooklyn,63
+2017,Manhattan,38
+2017,Queens,1
+2017,Staten Island,2
+2017,Brooklyn,6
+2017,Manhattan,6
+2017,Queens,10
+2017,Brooklyn,37
+2017,Manhattan,14
+2017,Bronx,2
+2017,Brooklyn,10
+2017,Queens,3
+2017,Bronx,12
+2017,Manhattan,30
+2017,Queens,24
+2017,Staten Island,5
+2017,Bronx,15
+2017,Brooklyn,36
+2017,Queens,21
+2017,Bronx,9
+2017,Brooklyn,59
+2017,Manhattan,34
+2017,Queens,37
+2017,Staten Island,8
+2017,Bronx,14
+2017,Brooklyn,71
+2017,Manhattan,19
+2017,Staten Island,6
+2017,Bronx,16
+2017,Brooklyn,55
+2017,Manhattan,35
+2017,Queens,16
+2017,Staten Island,2
+2017,Brooklyn,34
+2017,Manhattan,9
+2017,Queens,8
+2017,Bronx,23
+2017,Manhattan,6
+2017,Queens,7
+2017,Staten Island,1
+2017,Bronx,4
+2017,Brooklyn,79
+2017,Manhattan,39
+2017,Queens,19
+2017,Staten Island,3
+2017,Unknown,3
+2017,Bronx,6
+2017,Brooklyn,76
+2017,Manhattan,30
+2017,Outside NYC,1
+2017,Queens,8
+2017,Staten Island,7
+2017,Bronx,29
+2017,Brooklyn,43
+2017,Manhattan,27
+2017,Outside NYC,8
+2017,Queens,35
+2017,Staten Island,12
+2017,Bronx,9
+2017,Brooklyn,42
+2017,Manhattan,5
+2017,Staten Island,9
+2017,Brooklyn,3
+2017,Manhattan,8
+2017,Staten Island,12
+2017,Bronx,16
+2017,Brooklyn,4
+2017,Manhattan,28
+2017,Queens,20
+2017,Staten Island,3
+2017,Bronx,9
+2017,Brooklyn,48
+2017,Manhattan,3
+2017,Queens,31
+2017,Bronx,3
+2017,Brooklyn,57
+2017,Manhattan,29
+2017,Queens,20
+2017,Staten Island,3
+2017,Bronx,3
+2017,Brooklyn,66
+2017,Manhattan,37
+2017,Staten Island,5
+2017,Bronx,16
+2017,Brooklyn,37
+2017,Manhattan,38
+2017,Queens,8
+2017,Staten Island,5
+2017,Unknown,2
+2017,Brooklyn,24
+2017,Manhattan,5
+2017,Queens,14
+2017,Staten Island,6
+2017,Bronx,6
+2017,Brooklyn,13
+2017,Queens,6
+2017,Staten Island,2
+2017,Bronx,20
+2017,Manhattan,51
+2017,Queens,20
+2017,Bronx,23
+2017,Brooklyn,54
+2017,Queens,24
+2017,BROOKLYN,1
+2017,Brooklyn,118
+2017,Manhattan,26
+2017,Queens,23
+2017,Staten Island,5
+2017,Bronx,2
+2017,Brooklyn,80
+2017,Manhattan,37
+2017,Staten Island,7
+2017,Bronx,12
+2017,Brooklyn,56
+2017,Manhattan,19
+2017,Outside NYC,10
+2017,Queens,10
+2017,Staten Island,5
+2017,Bronx,4
+2017,Brooklyn,27
+2017,Manhattan,4
+2017,Bronx,6
+2017,Queens,5
+2017,Staten Island,4
+2017,Bronx,21
+2017,Manhattan,17
+2017,Outside NYC,10
+2017,Queens,22
+2017,Staten Island,8
+2017,Bronx,18
+2017,Brooklyn,42
+2017,Manhattan,26
+2017,Queens,35
+2017,Bronx,4
+2017,Brooklyn,91
+2017,Manhattan,24
+2017,Outside NYC,4
+2017,Queens,25
+2017,Brooklyn,13
+2017,Manhattan,3
+2017,Bronx,9
+2017,Brooklyn,55
+2017,Manhattan,23
+2017,Queens,2
+2017,Staten Island,6
+2017,Bronx,16
+2017,Brooklyn,33
+2017,Manhattan,6
+2017,Brooklyn,5
+2017,Queens,6
+2017,Bronx,43
+2017,Manhattan,35
+2017,Outside NYC,8
+2017,Queens,34
+2017,Bronx,9
+2017,Brooklyn,45
+2017,Manhattan,10
+2017,Queens,42
+2017,Brooklyn,73
+2017,Manhattan,10
+2017,Outside NYC,5
+2017,Queens,37
+2017,Staten Island,5
+2017,Brooklyn,65
+2017,Manhattan,38
+2017,Queens,1
+2017,Staten Island,1
+2017,Bronx,19
+2017,Brooklyn,18
+2017,Manhattan,23
+2017,Queens,20
+2017,Staten Island,4
+2017,Brooklyn,35
+2017,Manhattan,2
+2017,Queens,43
+2017,Staten Island,4
+2017,Bronx,42
+2017,Brooklyn,7
+2017,Manhattan,7
+2017,Queens,20
+2017,Bronx,18
+2017,Brooklyn,51
+2017,Manhattan,47
+2017,Queens,30
+2017,Staten Island,13
+2017,Bronx,13
+2017,Brooklyn,83
+2017,Manhattan,54
+2017,Queens,5
+2017,Staten Island,7
+2017,Bronx,14
+2017,Brooklyn,51
+2017,Manhattan,23
+2017,Queens,10
+2017,Staten Island,4
+2017,Brooklyn,24
+2017,Manhattan,1
+2017,Queens,24
+2017,Brooklyn,9
+2017,Manhattan,2
+2017,Queens,2
+2017,Bronx,28
+2017,Brooklyn,11
+2017,Manhattan,27
+2017,Queens,35
+2017,Staten Island,1
+2017,Unknown,6
+2017,Bronx,16
+2017,Brooklyn,84
+2017,Manhattan,3
+2017,Queens,25
+2017,Staten Island,1
+2017,Bronx,6
+2017,Brooklyn,64
+2017,Manhattan,39
+2017,Queens,28
+2017,Staten Island,7
+2017,Bronx,2
+2017,Brooklyn,35
+2017,Manhattan,36
+2017,Queens,5
+2017,Staten Island,3
+2017,Bronx,23
+2017,Brooklyn,46
+2017,Manhattan,33
+2017,Queens,8
+2017,Staten Island,3
+2017,Bronx,4
+2017,Brooklyn,11
+2017,Manhattan,15
+2017,Queens,9
+2017,Staten Island,10
+2017,Brooklyn,2
+2017,Queens,8
+2017,Bronx,16
+2017,Brooklyn,9
+2017,Manhattan,27
+2017,Queens,13
+2017,Bronx,25
+2017,Brooklyn,45
+2017,Manhattan,9
+2017,Queens,12
+2017,Brooklyn,56
+2017,Manhattan,29
+2017,Queens,40
+2017,Staten Island,2
+2017,Bronx,3
+2017,Brooklyn,67
+2017,Manhattan,49
+2017,Queens,1
+2017,Staten Island,3
+2017,Bronx,14
+2017,Brooklyn,41
+2017,Manhattan,51
+2017,Queens,15
+2017,Staten Island,1
+2017,Bronx,10
+2017,Brooklyn,45
+2017,Queens,9
+2017,Staten Island,9
+2017,Brooklyn,1
+2017,Manhattan,6
+2017,Queens,2
+2017,Bronx,23
+2017,Manhattan,35
+2017,Queens,9
+2017,Staten Island,9
+2017,Bronx,3
+2017,Brooklyn,73
+2017,Manhattan,24
+2017,Queens,3
+2017,Staten Island,3
+2017,Bronx,10
+2017,Brooklyn,24
+2017,Manhattan,38
+2017,Staten Island,6
+2017,Bronx,18
+2017,Brooklyn,55
+2017,Manhattan,27
+2017,Outside NYC,27
+2017,Queens,20
+2017,Staten Island,6
+2017,Unknown,1
+2017,Bronx,11
+2017,Brooklyn,11
+2017,Manhattan,2
+2017,Bronx,14
+2017,Manhattan,5
+2017,Bronx,26
+2017,Manhattan,36
+2017,Queens,19
+2017,Staten Island,9
+2017,Bronx,7
+2017,Brooklyn,60
+2017,Manhattan,5
+2017,Queens,12
+2017,Staten Island,11
+2017,Bronx,1
+2017,Brooklyn,78
+2017,Manhattan,39
+2017,Outside NYC,9
+2017,Queens,9
+2017,Staten Island,5
+2017,Bronx,11
+2017,Brooklyn,84
+2017,Manhattan,23
+2017,Queens,9
+2017,Staten Island,3
+2017,Bronx,24
+2017,Brooklyn,47
+2017,Manhattan,40
+2017,Queens,22
+2017,Staten Island,6
+2017,Bronx,2
+2017,Manhattan,1
+2017,Queens,11
+2017,Staten Island,7
+2017,Bronx,3
+2017,Brooklyn,1
+2017,Queens,13
+2017,Bronx,13
+2017,Brooklyn,9
+2017,Manhattan,50
+2017,Queens,17
+2017,Bronx,23
+2017,Brooklyn,49
+2017,Manhattan,4
+2017,Queens,13
+2017,Bronx,8
+2017,Brooklyn,83
+2017,Manhattan,27
+2017,Staten Island,8
+2017,Unknown,9
+2017,Bronx,19
+2017,Brooklyn,47
+2017,Manhattan,19
+2017,Queens,32
+2017,Staten Island,3
+2017,Brooklyn,7
+2017,Queens,4
+2017,Bronx,1
+2017,Brooklyn,15
+2017,Bronx,29
+2017,Manhattan,44
+2017,Outside NYC,2
+2017,Queens,17
+2017,Bronx,26
+2017,Brooklyn,54
+2017,Manhattan,9
+2017,Queens,31
+2017,Brooklyn,50
+2017,Manhattan,20
+2017,Queens,26
+2017,Staten Island,3
+2017,Bronx,2
+2017,Brooklyn,49
+2017,Manhattan,28
+2017,Staten Island,1
+2017,Bronx,22
+2017,Brooklyn,51
+2017,Manhattan,24
+2017,Queens,7
+2017,Staten Island,7
+2017,Bronx,6
+2017,Queens,8
+2017,Staten Island,9
+2017,Bronx,14
+2017,Brooklyn,11
+2017,Manhattan,34
+2017,Queens,12
+2017,Staten Island,9
+2017,Bronx,20
+2017,Brooklyn,50
+2017,Manhattan,21
+2017,Queens,22
+2017,Brooklyn,24
+2017,Manhattan,26
+2017,Queens,27
+2017,Staten Island,5
+2017,Bronx,13
+2017,Brooklyn,32
+2017,Manhattan,50
+2017,Outside NYC,7
+2017,Staten Island,9
+2017,Bronx,26
+2017,Brooklyn,19
+2017,Manhattan,38
+2017,Queens,14
+2017,Staten Island,7
+2017,Queens,1
+2017,Bronx,20
+2017,Brooklyn,12
+2017,Manhattan,33
+2017,Queens,17
+2017,Staten Island,1
+2017,Bronx,29
+2017,Brooklyn,57
+2017,Outside NYC,19
+2017,Queens,14
+2017,Bronx,1
+2017,Brooklyn,55
+2017,Manhattan,44
+2017,Queens,15
+2017,Staten Island,13
+2017,Bronx,6
+2017,Brooklyn,46
+2017,Manhattan,46
+2017,Queens,4
+2017,Staten Island,11
+2017,Bronx,32
+2017,Brooklyn,55
+2017,Manhattan,42
+2017,Queens,12
+2017,Staten Island,8
+2017,Bronx,4
+2017,Brooklyn,5
+2017,Queens,7
+2017,Staten Island,2
+2017,Bronx,21
+2017,Brooklyn,7
+2017,Manhattan,39
+2017,Outside NYC,6
+2017,Queens,32
+2017,Staten Island,21
+2017,Bronx,14
+2017,Brooklyn,63
+2017,Queens,12
+2017,Bronx,19
+2017,Brooklyn,63
+2017,Manhattan,16
+2017,Queens,18
+2017,Staten Island,6
+2017,Bronx,14
+2017,Brooklyn,62
+2017,Manhattan,69
+2017,Queens,2
+2017,Staten Island,2
+2017,Bronx,6
+2017,Brooklyn,76
+2017,Manhattan,28
+2017,Queens,17
+2017,Staten Island,5
+2017,Unknown,9
+2017,Brooklyn,1
+2017,Manhattan,20
+2017,Staten Island,8
+2017,Brooklyn,6
+2017,Queens,5
+2017,Bronx,27
+2017,Manhattan,68
+2017,Queens,20
+2017,Staten Island,5
+2017,Bronx,8
+2017,Brooklyn,47
+2017,Manhattan,1
+2017,Queens,14
+2017,Staten Island,12
+2017,Bronx,3
+2017,Brooklyn,50
+2017,Manhattan,44
+2017,Outside NYC,1
+2017,Queens,12
+2017,Staten Island,11
+2017,Bronx,21
+2017,Brooklyn,53
+2017,Manhattan,57
+2017,Outside NYC,13
+2017,Queens,4
+2017,Staten Island,9
+2017,Bronx,28
+2017,Brooklyn,40
+2017,Manhattan,18
+2017,Queens,13
+2017,Staten Island,8
+2017,Bronx,12
+2017,Brooklyn,21
+2017,Manhattan,13
+2017,Queens,32
+2017,Staten Island,5
+2017,Bronx,2
+2017,Brooklyn,12
+2017,Bronx,33
+2017,Manhattan,54
+2017,Queens,16
+2017,Staten Island,12
+2017,Bronx,34
+2017,Brooklyn,30
+2017,Manhattan,1
+2017,Queens,28
+2017,Bronx,8
+2017,Brooklyn,80
+2017,Manhattan,22
+2017,Queens,29
+2017,Staten Island,14
+2017,Bronx,17
+2017,Brooklyn,72
+2017,Manhattan,69
+2017,Queens,12
+2017,Staten Island,2
+2017,Bronx,46
+2017,Brooklyn,62
+2017,Manhattan,20
+2017,Queens,29
+2017,Staten Island,19
+2017,Unknown,2
+2017,Bronx,4
+2017,Brooklyn,8
+2017,Manhattan,35
+2017,Staten Island,14
+2017,Bronx,4
+2017,Brooklyn,13
+2017,Manhattan,7
+2017,Queens,8
+2017,Bronx,22
+2017,Manhattan,37
+2017,Queens,13
+2017,Staten Island,6
+2017,Bronx,11
+2017,Brooklyn,58
+2017,Manhattan,4
+2017,Queens,37
+2017,Bronx,10
+2017,Brooklyn,69
+2017,Manhattan,28
+2017,Queens,20
+2017,Staten Island,16
+2017,Bronx,9
+2017,Brooklyn,70
+2017,Manhattan,41
+2017,Queens,2
+2017,Staten Island,1
+2017,Bronx,25
+2017,Brooklyn,46
+2017,Manhattan,29
+2017,Outside NYC,4
+2017,Queens,17
+2017,Staten Island,9
+2017,Bronx,10
+2017,Brooklyn,20
+2017,Manhattan,26
+2017,Queens,2
+2017,Bronx,24
+2017,Brooklyn,7
+2017,Manhattan,54
+2017,Queens,31
+2017,Staten Island,8
+2017,Manhattan,3
+2017,Bronx,2
+2017,Brooklyn,60
+2017,Manhattan,8
+2017,Queens,30
+2017,Staten Island,6
+2017,Bronx,15
+2017,Brooklyn,77
+2017,Manhattan,35
+2017,Queens,10
+2017,Staten Island,17
+2017,Bronx,25
+2017,Brooklyn,46
+2017,Manhattan,22
+2017,Queens,16
+2017,Staten Island,20
+2017,Manhattan,20
+2017,Queens,15
+2017,Staten Island,2
+2017,Manhattan,4
+2017,Bronx,43
+2017,Outside NYC,10
+2017,Queens,30
+2017,Bronx,5
+2017,Brooklyn,57
+2017,Manhattan,39
+2017,Queens,31
+2017,Staten Island,19
+2017,Bronx,25
+2017,Brooklyn,54
+2017,Manhattan,40
+2017,Queens,5
+2017,Staten Island,5
+2017,Bronx,40
+2017,Brooklyn,65
+2017,Manhattan,65
+2017,Outside NYC,4
+2017,Queens,22
+2017,Staten Island,8
+2017,Brooklyn,12
+2017,Manhattan,8
+2017,Queens,12
+2017,Staten Island,1
+2017,Bronx,9
+2017,Brooklyn,2
+2017,Manhattan,14
+2017,Bronx,39
+2017,Brooklyn,3
+2017,Manhattan,39
+2017,Queens,40
+2017,Staten Island,12
+2017,Bronx,22
+2017,Brooklyn,41
+2017,Manhattan,2
+2017,Queens,33
+2017,Bronx,1
+2017,Brooklyn,57
+2017,Manhattan,28
+2017,Queens,21
+2017,Bronx,25
+2017,Brooklyn,57
+2017,Manhattan,38
+2017,Staten Island,10
+2017,Bronx,38
+2017,Brooklyn,66
+2017,Manhattan,62
+2017,Queens,28
+2017,Staten Island,8
+2017,Brooklyn,28
+2017,Manhattan,23
+2017,Queens,3
+2017,Staten Island,7
+2017,Bronx,3
+2017,Brooklyn,5
+2017,Manhattan,2
+2017,Queens,1
+2017,Bronx,27
+2017,Brooklyn,16
+2017,Manhattan,55
+2017,Queens,26
+2017,Staten Island,2
+2017,Bronx,17
+2017,Brooklyn,39
+2017,Manhattan,1
+2017,Queens,22
+2017,Brooklyn,54
+2017,Manhattan,21
+2017,Queens,38
+2017,Staten Island,6
+2017,Bronx,13
+2017,Brooklyn,70
+2017,Manhattan,32
+2017,Staten Island,3
+2017,Bronx,22
+2017,Brooklyn,28
+2017,Manhattan,39
+2017,Queens,30
+2017,Staten Island,2
+2017,Bronx,9
+2017,Brooklyn,19
+2017,Manhattan,11
+2017,Queens,12
+2017,Staten Island,6
+2017,Bronx,23
+2017,Brooklyn,11
+2017,Manhattan,35
+2017,Queens,35
+2017,Staten Island,3
+2017,Bronx,16
+2017,Brooklyn,69
+2017,Manhattan,9
+2017,Queens,44
+2017,Bronx,1
+2017,Brooklyn,61
+2017,Manhattan,9
+2017,Queens,24
+2017,BRONX,1
+2017,Bronx,16
+2017,Brooklyn,70
+2017,Manhattan,78
+2017,Queens,1
+2017,Staten Island,1
+2017,Bronx,12
+2017,Brooklyn,43
+2017,Manhattan,44
+2017,Queens,16
+2017,Brooklyn,3
+2017,Bronx,6
+2017,Brooklyn,10
+2017,Manhattan,23
+2017,Queens,44
+2017,Staten Island,6
+2017,Bronx,36
+2017,Brooklyn,48
+2017,Manhattan,2
+2017,Queens,22
+2017,Brooklyn,77
+2017,Manhattan,47
+2017,Outside NYC,13
+2017,Queens,39
+2017,Staten Island,14
+2017,Bronx,15
+2017,Brooklyn,55
+2017,Manhattan,49
+2017,Queens,1
+2017,BROOKLYN,1
+2017,Bronx,22
+2017,Brooklyn,51
+2017,Manhattan,45
+2017,Queens,14
+2017,Staten Island,3
+2017,Manhattan,1
+2017,Bronx,41
+2017,Brooklyn,3
+2017,Manhattan,8
+2017,Queens,24
+2017,Bronx,11
+2017,Brooklyn,30
+2017,Manhattan,7
+2017,Queens,22
+2017,Staten Island,1
+2017,Bronx,21
+2017,Brooklyn,37
+2017,Manhattan,31
+2017,Queens,8
+2017,Staten Island,1
+2017,Bronx,24
+2017,Brooklyn,44
+2017,Manhattan,7
+2017,Queens,25
+2017,Staten Island,2
+2017,Bronx,25
+2017,Manhattan,16
+2017,Queens,20
+2017,Bronx,7
+2017,Brooklyn,33
+2017,Manhattan,8
+2017,Queens,22
+2017,Bronx,1
+2017,Brooklyn,62
+2017,Manhattan,16
+2017,Queens,16
+2017,Bronx,10
+2017,Brooklyn,50
+2017,Manhattan,26
+2017,Outside NYC,10
+2017,Queens,8
+2017,Staten Island,7
+2017,Bronx,15
+2017,Brooklyn,69
+2017,Manhattan,41
+2017,Outside NYC,9
+2017,Queens,25
+2017,Staten Island,18
+2017,Manhattan,1
+2017,Bronx,10
+2017,Brooklyn,36
+2017,Manhattan,35
+2017,Queens,23
+2017,Staten Island,6
+2017,Bronx,24
+2017,Brooklyn,52
+2017,Manhattan,13
+2017,Queens,18
+2017,Bronx,1
+2017,Brooklyn,5
+2017,Manhattan,7
+2017,Queens,21
+2017,Staten Island,5
+2017,Bronx,14
+2017,Brooklyn,59
+2017,Manhattan,15
+2017,Staten Island,9
+2017,Queens,1
+2017,Bronx,1
+2017,Queens,3
+2017,Bronx,3
+2017,Manhattan,2
+2017,Bronx,36
+2017,Brooklyn,14
+2017,Manhattan,37
+2017,Queens,22
+2017,Staten Island,8
+2017,Bronx,24
+2017,Brooklyn,37
+2017,Manhattan,2
+2017,Queens,22
+2017,Bronx,21
+2017,Brooklyn,42
+2017,Manhattan,15
+2017,Queens,16
+2017,Staten Island,1
+2017,Bronx,9
+2017,Brooklyn,43
+2017,Manhattan,28
+2017,Staten Island,1
+2017,Bronx,21
+2017,Brooklyn,30
+2017,Manhattan,37
+2017,Queens,18
+2017,Staten Island,2
+2017,Manhattan,3
+2017,Bronx,43
+2017,Brooklyn,1
+2017,Manhattan,47
+2017,Queens,30
+2017,Staten Island,9
+2017,Bronx,27
+2017,Brooklyn,37
+2017,Manhattan,29
+2017,Queens,21
+2017,Bronx,2
+2017,Brooklyn,50
+2017,Manhattan,31
+2017,Queens,29
+2017,Staten Island,4
+2017,Bronx,20
+2017,Brooklyn,59
+2017,Manhattan,31
+2017,Outside NYC,11
+2017,Queens,10
+2017,Staten Island,10
+2017,Bronx,39
+2017,Brooklyn,25
+2017,Manhattan,25
+2017,Queens,13
+2017,Manhattan,5
+2017,Manhattan,2
+2017,Bronx,27
+2017,Brooklyn,6
+2017,Manhattan,29
+2017,Queens,15
+2017,Bronx,32
+2017,Brooklyn,47
+2017,Queens,26
+2017,Bronx,1
+2017,Brooklyn,60
+2017,Manhattan,7
+2017,Queens,39
+2017,Staten Island,2
+2017,Bronx,22
+2017,Brooklyn,57
+2017,Manhattan,27
+2017,Staten Island,4
+2017,Bronx,23
+2017,Brooklyn,46
+2017,Manhattan,23
+2017,Queens,34
+2017,Manhattan,2
+2017,Bronx,43
+2017,Brooklyn,12
+2017,Manhattan,17
+2017,Queens,36
+2017,Staten Island,2
+2017,Bronx,49
+2017,Brooklyn,37
+2017,Manhattan,2
+2017,Queens,30
+2017,Bronx,2
+2017,Brooklyn,38
+2017,Manhattan,49
+2017,Queens,27
+2017,Staten Island,1
+2017,Bronx,22
+2017,Brooklyn,65
+2017,Manhattan,18
+2017,Queens,2
+2017,Staten Island,8
+2017,Bronx,17
+2017,Brooklyn,22
+2017,Manhattan,17
+2017,Outside NYC,3
+2017,Queens,18
+2017,Manhattan,1
+2017,Bronx,41
+2017,Brooklyn,1
+2017,Manhattan,38
+2017,Outside NYC,9
+2017,Queens,32
+2017,Staten Island,9
+2017,Bronx,18
+2017,Brooklyn,26
+2017,Manhattan,19
+2017,Queens,20
+2017,Bronx,6
+2017,Brooklyn,52
+2017,Manhattan,14
+2017,Queens,28
+2017,Staten Island,3
+2017,Bronx,8
+2017,Brooklyn,42
+2017,Manhattan,27
+2017,Staten Island,6
+2017,Bronx,11
+2017,Brooklyn,44
+2017,Manhattan,10
+2017,Queens,13
+2017,Bronx,1
+2017,Bronx,22
+2017,Brooklyn,13
+2017,Manhattan,37
+2017,Queens,36
+2017,Staten Island,5
+2017,Bronx,23
+2017,Brooklyn,47
+2017,Manhattan,14
+2017,Queens,21
+2017,Staten Island,5
+2017,Bronx,2
+2017,Brooklyn,59
+2017,Manhattan,25
+2017,Queens,43
+2017,Staten Island,4
+2017,Bronx,14
+2017,Brooklyn,53
+2017,Manhattan,42
+2017,Queens,3
+2017,Bronx,13
+2017,Brooklyn,25
+2017,Manhattan,7
+2017,Queens,19
+2017,Bronx,58
+2017,Brooklyn,14
+2017,Queens,27
+2017,Bronx,9
+2017,Brooklyn,41
+2017,Manhattan,25
+2017,Queens,48
+2017,Staten Island,3
+2017,Bronx,15
+2017,Brooklyn,19
+2017,Manhattan,28
+2017,Staten Island,8
+2017,Bronx,27
+2017,Brooklyn,21
+2017,Manhattan,18
+2017,Queens,26
+2017,Staten Island,7
+2017,Bronx,5
+2017,Brooklyn,5
+2017,Manhattan,5
+2017,Queens,3
+2017,Bronx,7
+2017,Queens,10
+2017,Bronx,31
+2017,Manhattan,22
+2017,Outside NYC,1
+2017,Queens,42
+2017,Staten Island,6
+2017,Bronx,26
+2017,Brooklyn,21
+2017,Queens,23
+2017,Brooklyn,50
+2017,Manhattan,26
+2017,Queens,32
+2017,Staten Island,3
+2017,Bronx,4
+2017,Brooklyn,73
+2017,Manhattan,26
+2017,Queens,8
+2017,Staten Island,3
+2017,BROOKLYN,1
+2017,Bronx,24
+2017,Brooklyn,50
+2017,Manhattan,32
+2017,Queens,38
+2017,Staten Island,3
+2017,Bronx,22
+2017,Brooklyn,26
+2017,Staten Island,5
+2017,Brooklyn,52
+2017,Manhattan,3
+2017,Queens,2
+2017,Bronx,15
+2017,Brooklyn,3
+2017,Manhattan,29
+2017,Queens,22
+2017,Bronx,28
+2017,Brooklyn,65
+2017,Queens,37
+2017,Bronx,2
+2017,Brooklyn,28
+2017,Manhattan,14
+2017,Queens,30
+2017,Staten Island,3
+2017,Bronx,18
+2017,Brooklyn,44
+2017,Manhattan,26
+2017,Queens,7
+2017,Bronx,16
+2017,Brooklyn,42
+2017,Manhattan,30
+2017,Queens,20
+2017,Brooklyn,14
+2017,Manhattan,26
+2017,Bronx,10
+2017,Brooklyn,28
+2017,Queens,2
+2017,Bronx,27
+2017,Brooklyn,12
+2017,Manhattan,32
+2017,Outside NYC,2
+2017,Queens,17
+2017,Bronx,22
+2017,Brooklyn,28
+2017,Manhattan,11
+2017,Queens,10
+2017,Brooklyn,74
+2017,Manhattan,41
+2017,Queens,21
+2017,Bronx,6
+2017,Brooklyn,64
+2017,Manhattan,40
+2017,Queens,1
+2017,Staten Island,2
+2017,Bronx,22
+2017,Brooklyn,49
+2017,Manhattan,40
+2017,Queens,21
+2017,Bronx,12
+2017,Brooklyn,15
+2017,Bronx,6
+2017,Brooklyn,6
+2017,Queens,6
+2017,Staten Island,7
+2017,Bronx,12
+2017,Brooklyn,9
+2017,Manhattan,26
+2017,Queens,41
+2017,Staten Island,4
+2017,Bronx,15
+2017,Brooklyn,51
+2017,Manhattan,1
+2017,Queens,28
+2017,Bronx,1
+2017,Brooklyn,47
+2017,Manhattan,31
+2017,Queens,37
+2017,Staten Island,3
+2017,Bronx,14
+2017,Brooklyn,67
+2017,Manhattan,18
+2017,Queens,2
+2017,Bronx,6
+2017,Brooklyn,36
+2017,Manhattan,10
+2017,Queens,18
+2017,Bronx,9
+2017,Manhattan,8
+2017,Queens,12
+2017,Bronx,1
+2017,Bronx,3
+2017,Brooklyn,1
+2017,Outside NYC,1
+2017,Queens,34
+2017,Staten Island,1
+2017,Bronx,1
+2017,Brooklyn,40
+2017,Manhattan,25
+2017,Queens,17
+2017,Staten Island,7
+2017,Bronx,23
+2017,Brooklyn,77
+2017,Manhattan,38
+2017,BRONX,2
+2017,Bronx,2
+2017,Brooklyn,6
+2017,Manhattan,1
+2017,Queens,13
+2017,Bronx,23
+2017,Brooklyn,6
+2017,Queens,17
+2017,Bronx,38
+2017,Manhattan,24
+2017,Queens,24
+2017,Bronx,14
+2017,Brooklyn,43
+2017,Queens,30
+2017,Brooklyn,73
+2017,Manhattan,36
+2017,Queens,21
+2017,Staten Island,2
+2017,Bronx,11
+2017,Brooklyn,61
+2017,Manhattan,27
+2017,Queens,1
+2017,Staten Island,4
+2017,Bronx,5
+2017,Brooklyn,54
+2017,Manhattan,22
+2017,Queens,23
+2017,Staten Island,12
+2017,Bronx,9
+2017,Manhattan,3
+2017,Queens,3
+2017,Staten Island,13
+2017,Bronx,15
+2017,Brooklyn,4
+2017,Queens,7
+2017,Bronx,21
+2017,Brooklyn,1
+2017,Manhattan,22
+2017,Queens,32
+2017,Staten Island,3
+2017,Bronx,21
+2017,Brooklyn,44
+2017,Manhattan,5
+2017,Queens,25
+2017,Bronx,5
+2017,Brooklyn,78
+2017,Manhattan,14
+2017,Queens,27
+2017,Staten Island,2
+2017,Bronx,21
+2017,Brooklyn,73
+2017,Manhattan,26
+2017,Queens,2
+2017,Staten Island,1
+2017,Bronx,4
+2017,Brooklyn,31
+2017,Manhattan,31
+2017,Outside NYC,1
+2017,Queens,31
+2017,Staten Island,3
+2017,Bronx,21
+2017,Staten Island,14
+2017,Brooklyn,27
+2017,Queens,7
+2017,Staten Island,7
+2017,Bronx,24
+2017,Brooklyn,5
+2017,Manhattan,29
+2017,Queens,19
+2017,Staten Island,5
+2017,Bronx,25
+2017,Brooklyn,50
+2017,Manhattan,1
+2017,Queens,22
+2017,Bronx,2
+2017,Brooklyn,65
+2017,Manhattan,26
+2017,Queens,23
+2017,Staten Island,1
+2017,BRONX,3
+2017,Bronx,19
+2017,Brooklyn,61
+2017,Manhattan,26
+2017,Queens,1
+2017,Staten Island,6
+2017,Bronx,15
+2017,Brooklyn,48
+2017,Manhattan,23
+2017,Queens,15
+2017,Unknown,1
+2017,Bronx,3
+2017,Brooklyn,3
+2017,Manhattan,8
+2017,Queens,13
+2017,Staten Island,4
+2017,Bronx,1
+2017,Bronx,18
+2017,Manhattan,9
+2017,Queens,22
+2017,Staten Island,1
+2017,BROOKLYN,1
+2017,Bronx,1
+2017,Brooklyn,30
+2017,Manhattan,2
+2017,Queens,20
+2017,Bronx,26
+2017,Brooklyn,45
+2017,Manhattan,37
+2017,Queens,1
+2017,Staten Island,5
+2017,Bronx,7
+2017,Queens,24
+2017,Bronx,4
+2017,Queens,11
+2017,Bronx,20
+2017,Manhattan,29
+2017,Queens,17
+2017,Staten Island,4
+2017,Bronx,28
+2017,Brooklyn,35
+2017,Queens,37
+2017,Brooklyn,36
+2017,Manhattan,23
+2017,Queens,35
+2017,Bronx,13
+2017,Brooklyn,75
+2017,Manhattan,12
+2017,Staten Island,1
+2017,Bronx,27
+2017,Brooklyn,42
+2017,Manhattan,18
+2017,Queens,26
+2017,Brooklyn,9
+2017,Manhattan,9
+2017,Queens,12
+2017,Bronx,2
+2017,Brooklyn,14
+2017,Queens,9
+2017,Bronx,21
+2017,Manhattan,18
+2017,Outside NYC,1
+2017,Queens,21
+2017,Staten Island,4
+2017,Bronx,26
+2017,Brooklyn,30
+2017,Manhattan,3
+2017,Outside NYC,1
+2017,Queens,16
+2017,Unknown,10
+2017,Bronx,9
+2017,Brooklyn,34
+2017,Manhattan,7
+2017,Queens,19
+2017,Staten Island,3
+2017,Brooklyn,23
+2017,Manhattan,7
+2017,Bronx,7
+2017,Manhattan,4
+2017,Queens,22
+2017,Brooklyn,12
+2017,Queens,10
+2017,Bronx,16
+2017,Manhattan,21
+2017,Queens,30
+2017,BROOKLYN,2
+2017,Bronx,6
+2017,Brooklyn,47
+2017,Queens,19
+2017,Bronx,8
+2017,Brooklyn,55
+2017,Manhattan,26
+2017,Queens,25
+2017,Staten Island,11
+2017,Bronx,20
+2017,Brooklyn,55
+2017,Manhattan,58
+2017,Queens,7
+2017,Staten Island,8
+2017,Bronx,17
+2017,Brooklyn,55
+2017,Manhattan,17
+2017,Outside NYC,12
+2017,Queens,8
+2017,Staten Island,10
+2017,Bronx,5
+2017,Brooklyn,15
+2017,Queens,13
+2017,Staten Island,10
+2017,Brooklyn,37
+2017,Manhattan,3
+2017,Queens,6
+2017,Bronx,22
+2017,Brooklyn,3
+2017,Manhattan,28
+2017,Queens,18
+2017,Staten Island,5
+2017,Bronx,20
+2017,Brooklyn,27
+2017,Queens,25
+2017,Brooklyn,64
+2017,Manhattan,15
+2017,Queens,39
+2017,Staten Island,7
+2017,Bronx,18
+2017,Brooklyn,53
+2017,Manhattan,30
+2017,Queens,10
+2017,Staten Island,8
+2017,Bronx,13
+2017,Brooklyn,43
+2017,Manhattan,25
+2017,Queens,8
+2017,Bronx,13
+2017,Brooklyn,26
+2017,Queens,5
+2017,Staten Island,5
+2017,Brooklyn,20
+2017,Manhattan,15
+2017,Queens,4
+2017,Staten Island,13
+2017,Bronx,18
+2017,Brooklyn,10
+2017,Manhattan,29
+2017,Outside NYC,12
+2017,Queens,15
+2017,Staten Island,16
+2017,Bronx,18
+2017,Brooklyn,28
+2017,Queens,24
+2017,Bronx,5
+2017,Brooklyn,50
+2017,Manhattan,17
+2017,Outside NYC,6
+2017,Queens,20
+2017,Bronx,16
+2017,Brooklyn,52
+2017,Manhattan,28
+2017,Staten Island,10
+2017,Bronx,21
+2017,Brooklyn,46
+2017,Manhattan,24
+2017,Queens,26
+2017,Staten Island,3
+2017,Bronx,14
+2017,Brooklyn,31
+2017,Queens,2
+2017,Bronx,1
+2017,Manhattan,3
+2017,Queens,20
+2017,Staten Island,6
+2017,Bronx,18
+2017,Brooklyn,2
+2017,Manhattan,16
+2017,Queens,15
+2017,Staten Island,11
+2017,Bronx,31
+2017,Brooklyn,48
+2017,Manhattan,1
+2017,Queens,36
+2017,Brooklyn,22
+2017,Manhattan,34
+2017,Queens,21
+2017,Staten Island,1
+2017,Bronx,13
+2017,Brooklyn,67
+2017,Manhattan,19
+2017,Staten Island,11
+2017,Bronx,18
+2017,Brooklyn,46
+2017,Manhattan,14
+2017,Queens,15
+2017,Brooklyn,30
+2017,Bronx,37
+2017,Brooklyn,34
+2017,Manhattan,8
+2017,Queens,17
+2017,Staten Island,3
+2017,Bronx,4
+2017,Brooklyn,59
+2017,Manhattan,16
+2017,Queens,26
+2017,Staten Island,1
+2017,Bronx,11
+2017,Brooklyn,31
+2017,Manhattan,22
+2017,Queens,1
+2017,Staten Island,4
+2017,Bronx,5
+2017,Brooklyn,33
+2017,Manhattan,9
+2017,Queens,26
+2017,Staten Island,12
+2018,Bronx,21
+2018,Brooklyn,1
+2018,Queens,34
+2018,Bronx,7
+2018,Brooklyn,67
+2018,Manhattan,21
+2018,Queens,7
+2018,Staten Island,3
+2018,Bronx,4
+2018,Brooklyn,8
+2018,Outside NYC,11
+2018,Bronx,7
+2018,Brooklyn,34
+2018,Queens,3
+2018,Bronx,16
+2018,Brooklyn,28
+2018,Queens,11
+2018,Bronx,10
+2018,Brooklyn,5
+2018,Manhattan,30
+2018,Queens,22
+2018,Staten Island,10
+2018,Bronx,35
+2018,Brooklyn,59
+2018,Queens,38
+2018,Bronx,5
+2018,Brooklyn,35
+2018,Manhattan,38
+2018,Queens,33
+2018,Staten Island,3
+2018,BROOKLYN,1
+2018,Bronx,7
+2018,Brooklyn,59
+2018,Manhattan,33
+2018,Bronx,30
+2018,Brooklyn,58
+2018,Manhattan,21
+2018,Outside NYC,7
+2018,Queens,12
+2018,Staten Island,10
+2018,Brooklyn,35
+2018,Manhattan,5
+2018,Manhattan,2
+2018,Bronx,18
+2018,Queens,29
+2018,Bronx,1
+2018,Brooklyn,45
+2018,Manhattan,24
+2018,Queens,23
+2018,Staten Island,7
+2018,Bronx,5
+2018,Brooklyn,71
+2018,Manhattan,24
+2018,Staten Island,1
+2018,Bronx,24
+2018,Brooklyn,49
+2018,Manhattan,27
+2018,Queens,14
+2018,Staten Island,9
+2018,Brooklyn,15
+2018,Manhattan,10
+2018,Queens,22
+2018,Staten Island,11
+2018,Brooklyn,21
+2018,Queens,10
+2018,Staten Island,2
+2018,Bronx,13
+2018,Brooklyn,9
+2018,Manhattan,18
+2018,Queens,28
+2018,Staten Island,6
+2018,Bronx,34
+2018,Brooklyn,64
+2018,Outside NYC,11
+2018,Queens,20
+2018,Staten Island,11
+2018,Brooklyn,50
+2018,Manhattan,42
+2018,Queens,16
+2018,Staten Island,22
+2018,Bronx,3
+2018,Brooklyn,43
+2018,Manhattan,47
+2018,Staten Island,2
+2018,Bronx,14
+2018,Brooklyn,46
+2018,Manhattan,20
+2018,Queens,13
+2018,Staten Island,2
+2018,Bronx,4
+2018,Brooklyn,15
+2018,Queens,16
+2018,Staten Island,11
+2018,Bronx,3
+2018,Brooklyn,24
+2018,Manhattan,3
+2018,Bronx,38
+2018,Manhattan,25
+2018,Outside NYC,1
+2018,Queens,18
+2018,Staten Island,2
+2018,BRONX,2
+2018,Bronx,16
+2018,Brooklyn,58
+2018,Queens,33
+2018,Bronx,6
+2018,Brooklyn,66
+2018,Manhattan,31
+2018,Outside NYC,8
+2018,Queens,33
+2018,Staten Island,1
+2018,Unknown,10
+2018,Bronx,7
+2018,Brooklyn,57
+2018,Manhattan,30
+2018,Staten Island,10
+2018,Bronx,8
+2018,Brooklyn,43
+2018,Manhattan,16
+2018,Queens,33
+2018,Staten Island,3
+2018,Bronx,8
+2018,Brooklyn,10
+2018,Manhattan,11
+2018,Queens,7
+2018,Staten Island,2
+2018,Brooklyn,14
+2018,Queens,6
+2018,Staten Island,7
+2018,Bronx,18
+2018,Manhattan,34
+2018,Queens,13
+2018,Bronx,20
+2018,Brooklyn,32
+2018,Queens,30
+2018,Brooklyn,49
+2018,Manhattan,24
+2018,Queens,10
+2018,Staten Island,10
+2018,BRONX,1
+2018,Bronx,26
+2018,Brooklyn,49
+2018,Manhattan,47
+2018,Staten Island,11
+2018,Bronx,4
+2018,Brooklyn,52
+2018,Manhattan,19
+2018,Queens,14
+2018,Bronx,8
+2018,Brooklyn,8
+2018,Manhattan,21
+2018,Queens,3
+2018,Staten Island,11
+2018,Bronx,6
+2018,Brooklyn,9
+2018,Manhattan,4
+2018,Queens,24
+2018,Bronx,13
+2018,Manhattan,54
+2018,Queens,13
+2018,Staten Island,11
+2018,Bronx,17
+2018,Brooklyn,60
+2018,Manhattan,1
+2018,Queens,32
+2018,Bronx,9
+2018,Brooklyn,51
+2018,Manhattan,49
+2018,Queens,22
+2018,Staten Island,5
+2018,Bronx,5
+2018,Brooklyn,60
+2018,Manhattan,42
+2018,Queens,1
+2018,Staten Island,2
+2018,Bronx,3
+2018,Brooklyn,49
+2018,Manhattan,26
+2018,Queens,13
+2018,Staten Island,3
+2018,Bronx,5
+2018,Brooklyn,9
+2018,Manhattan,4
+2018,Queens,15
+2018,Bronx,11
+2018,Brooklyn,1
+2018,Outside NYC,2
+2018,Queens,24
+2018,Brooklyn,76
+2018,Manhattan,32
+2018,Queens,30
+2018,Staten Island,3
+2018,Bronx,5
+2018,Brooklyn,41
+2018,Manhattan,35
+2018,Queens,15
+2018,Staten Island,4
+2018,Bronx,7
+2018,Brooklyn,37
+2018,Manhattan,21
+2018,Queens,26
+2018,Staten Island,3
+2018,Bronx,12
+2018,Brooklyn,15
+2018,Queens,6
+2018,Bronx,14
+2018,Brooklyn,28
+2018,Queens,1
+2018,Bronx,11
+2018,Brooklyn,5
+2018,Manhattan,24
+2018,Queens,26
+2018,Staten Island,1
+2018,Bronx,19
+2018,Brooklyn,65
+2018,Queens,27
+2018,Bronx,8
+2018,Brooklyn,56
+2018,Manhattan,37
+2018,Queens,32
+2018,Staten Island,1
+2018,Bronx,22
+2018,Brooklyn,57
+2018,Manhattan,51
+2018,Outside NYC,9
+2018,Queens,3
+2018,Staten Island,5
+2018,Bronx,19
+2018,Brooklyn,36
+2018,Manhattan,10
+2018,Queens,27
+2018,Staten Island,2
+2018,Bronx,12
+2018,Brooklyn,28
+2018,Queens,14
+2018,Bronx,17
+2018,Brooklyn,12
+2018,Manhattan,4
+2018,Queens,1
+2018,Staten Island,5
+2018,BRONX,4
+2018,Bronx,22
+2018,Brooklyn,7
+2018,Manhattan,38
+2018,Queens,53
+2018,Staten Island,2
+2018,Bronx,18
+2018,Brooklyn,37
+2018,Queens,26
+2018,BRONX,1
+2018,Brooklyn,3
+2018,Bronx,5
+2018,Brooklyn,45
+2018,Manhattan,40
+2018,Staten Island,1
+2018,Bronx,27
+2018,Brooklyn,47
+2018,Manhattan,36
+2018,Queens,59
+2018,Staten Island,4
+2018,Bronx,11
+2018,Brooklyn,5
+2018,Manhattan,4
+2018,Queens,14
+2018,Staten Island,20
+2018,Bronx,11
+2018,Brooklyn,6
+2018,Queens,18
+2018,Staten Island,6
+2018,Bronx,9
+2018,Manhattan,36
+2018,Queens,49
+2018,Staten Island,2
+2018,Bronx,21
+2018,Brooklyn,36
+2018,Manhattan,1
+2018,Outside NYC,2
+2018,Queens,22
+2018,Bronx,2
+2018,Brooklyn,71
+2018,Manhattan,53
+2018,Queens,38
+2018,Staten Island,2
+2018,Bronx,4
+2018,Brooklyn,55
+2018,Manhattan,47
+2018,Queens,4
+2018,Staten Island,6
+2018,Bronx,9
+2018,Brooklyn,47
+2018,Manhattan,29
+2018,Queens,16
+2018,Staten Island,9
+2018,Brooklyn,6
+2018,Manhattan,1
+2018,Queens,10
+2018,Staten Island,13
+2018,Bronx,10
+2018,Brooklyn,5
+2018,Manhattan,1
+2018,Queens,15
+2018,Staten Island,3
+2018,Bronx,18
+2018,Manhattan,15
+2018,Queens,41
+2018,Staten Island,1
+2018,Bronx,16
+2018,Brooklyn,30
+2018,Queens,50
+2018,Bronx,3
+2018,Brooklyn,20
+2018,Manhattan,10
+2018,Outside NYC,10
+2018,Queens,26
+2018,Staten Island,3
+2018,Bronx,9
+2018,Brooklyn,35
+2018,Manhattan,39
+2018,Queens,5
+2018,Staten Island,7
+2018,Bronx,1
+2018,Brooklyn,35
+2018,Manhattan,24
+2018,Outside NYC,10
+2018,Queens,12
+2018,Staten Island,5
+2018,Brooklyn,41
+2018,Manhattan,4
+2018,Queens,18
+2018,Bronx,7
+2018,Brooklyn,2
+2018,Manhattan,28
+2018,Staten Island,1
+2018,Bronx,9
+2018,Brooklyn,4
+2018,Manhattan,31
+2018,Queens,58
+2018,Staten Island,6
+2018,Bronx,8
+2018,Brooklyn,20
+2018,Manhattan,1
+2018,Queens,64
+2018,Bronx,1
+2018,Brooklyn,38
+2018,Manhattan,16
+2018,Outside NYC,10
+2018,Queens,44
+2018,Staten Island,11
+2018,BRONX,1
+2018,Bronx,15
+2018,Brooklyn,55
+2018,Manhattan,17
+2018,Bronx,22
+2018,Brooklyn,44
+2018,Manhattan,12
+2018,Queens,43
+2018,Staten Island,9
+2018,Bronx,6
+2018,Brooklyn,7
+2018,Manhattan,8
+2018,Queens,6
+2018,Bronx,11
+2018,Brooklyn,14
+2018,Manhattan,6
+2018,Queens,40
+2018,Bronx,12
+2018,Brooklyn,37
+2018,Manhattan,2
+2018,Queens,20
+2018,Staten Island,4
+2018,Brooklyn,55
+2018,Manhattan,15
+2018,Queens,40
+2018,Staten Island,15
+2018,Brooklyn,46
+2018,Manhattan,31
+2018,Staten Island,3
+2018,Bronx,10
+2018,Brooklyn,33
+2018,Manhattan,7
+2018,Outside NYC,1
+2018,Queens,22
+2018,Staten Island,6
+2018,Brooklyn,15
+2018,Queens,2
+2018,Staten Island,8
+2018,Bronx,2
+2018,Brooklyn,11
+2018,Bronx,18
+2018,Manhattan,24
+2018,Queens,43
+2018,Staten Island,3
+2018,Bronx,8
+2018,Brooklyn,28
+2018,Queens,35
+2018,Bronx,1
+2018,Brooklyn,65
+2018,Manhattan,36
+2018,Outside NYC,1
+2018,Queens,22
+2018,Staten Island,1
+2018,Bronx,13
+2018,Brooklyn,37
+2018,Manhattan,27
+2018,Bronx,12
+2018,Brooklyn,43
+2018,Manhattan,20
+2018,Queens,23
+2018,Staten Island,18
+2018,Bronx,10
+2018,Brooklyn,10
+2018,Queens,18
+2018,Brooklyn,16
+2018,Manhattan,4
+2018,Queens,1
+2018,Bronx,24
+2018,Brooklyn,5
+2018,Manhattan,8
+2018,Queens,26
+2018,Staten Island,7
+2018,Bronx,13
+2018,Brooklyn,29
+2018,Manhattan,1
+2018,Queens,17
+2018,Brooklyn,28
+2018,Manhattan,26
+2018,Queens,17
+2018,Staten Island,10
+2018,Bronx,7
+2018,Brooklyn,45
+2018,Manhattan,33
+2018,Staten Island,7
+2018,Bronx,9
+2018,Brooklyn,43
+2018,Manhattan,22
+2018,Queens,12
+2018,Brooklyn,10
+2018,Queens,3
+2018,Brooklyn,13
+2018,Manhattan,1
+2018,Bronx,24
+2018,Brooklyn,1
+2018,Manhattan,14
+2018,Queens,25
+2018,Staten Island,2
+2018,Bronx,21
+2018,Brooklyn,24
+2018,Manhattan,1
+2018,Queens,18
+2018,Bronx,6
+2018,Brooklyn,45
+2018,Manhattan,25
+2018,Queens,60
+2018,Staten Island,2
+2018,Bronx,15
+2018,Brooklyn,48
+2018,Manhattan,33
+2018,Bronx,14
+2018,Brooklyn,8
+2018,Manhattan,12
+2018,Outside NYC,15
+2018,Queens,4
+2018,Staten Island,2
+2018,Bronx,21
+2018,Manhattan,3
+2018,Queens,2
+2018,Bronx,14
+2018,Brooklyn,4
+2018,Queens,1
+2018,Bronx,4
+2018,Manhattan,47
+2018,Queens,12
+2018,Bronx,4
+2018,Brooklyn,33
+2018,Manhattan,3
+2018,Queens,31
+2018,Bronx,13
+2018,Brooklyn,36
+2018,Manhattan,31
+2018,Queens,27
+2018,Staten Island,6
+2018,Bronx,8
+2018,Brooklyn,24
+2018,Manhattan,44
+2018,Staten Island,4
+2018,Bronx,13
+2018,Manhattan,31
+2018,Queens,10
+2018,Brooklyn,4
+2018,Queens,9
+2018,Brooklyn,2
+2018,Queens,6
+2018,Bronx,11
+2018,Brooklyn,21
+2018,Manhattan,27
+2018,Queens,19
+2018,Bronx,15
+2018,Brooklyn,7
+2018,Manhattan,2
+2018,Queens,26
+2018,Staten Island,1
+2018,Bronx,10
+2018,Brooklyn,7
+2018,Manhattan,20
+2018,Queens,22
+2018,Staten Island,1
+2018,Bronx,13
+2018,Brooklyn,22
+2018,Manhattan,35
+2018,Outside NYC,4
+2018,Bronx,12
+2018,Brooklyn,10
+2018,Manhattan,28
+2018,Outside NYC,13
+2018,Queens,12
+2018,Staten Island,9
+2018,Brooklyn,15
+2018,Queens,4
+2018,Staten Island,3
+2018,Queens,10
+2018,Staten Island,2
+2018,Bronx,10
+2018,Brooklyn,6
+2018,Manhattan,47
+2018,Outside NYC,9
+2018,Queens,36
+2018,Staten Island,4
+2018,Bronx,18
+2018,Brooklyn,44
+2018,Manhattan,5
+2018,Outside NYC,4
+2018,Queens,26
+2018,Bronx,2
+2018,Brooklyn,31
+2018,Manhattan,16
+2018,Outside NYC,7
+2018,Queens,17
+2018,Staten Island,3
+2018,Bronx,10
+2018,Brooklyn,34
+2018,Manhattan,43
+2018,Outside NYC,4
+2018,Queens,2
+2018,Staten Island,3
+2018,Bronx,16
+2018,Brooklyn,4
+2018,Manhattan,14
+2018,Queens,10
+2018,Staten Island,2
+2018,Bronx,4
+2018,Manhattan,12
+2018,Queens,1
+2018,Staten Island,7
+2018,Brooklyn,7
+2018,Queens,10
+2018,Staten Island,4
+2018,Bronx,11
+2018,Brooklyn,8
+2018,Manhattan,12
+2018,Queens,12
+2018,Staten Island,7
+2018,Bronx,12
+2018,Brooklyn,27
+2018,Queens,26
+2018,BROOKLYN,3
+2018,Brooklyn,41
+2018,Manhattan,36
+2018,Queens,23
+2018,Staten Island,4
+2018,Bronx,2
+2018,Brooklyn,49
+2018,Manhattan,46
+2018,Staten Island,8
+2018,Bronx,20
+2018,Manhattan,32
+2018,Queens,13
+2018,Staten Island,3
+2018,Bronx,7
+2018,Brooklyn,27
+2018,Queens,3
+2018,Staten Island,4
+2018,Bronx,18
+2018,Brooklyn,24
+2018,Manhattan,4
+2018,Queens,30
+2018,Bronx,10
+2018,Brooklyn,22
+2018,Manhattan,11
+2018,Queens,36
+2018,Staten Island,8
+2018,Bronx,15
+2018,Brooklyn,25
+2018,Manhattan,58
+2018,Queens,4
+2018,Staten Island,6
+2018,Bronx,9
+2018,Brooklyn,1
+2018,Manhattan,34
+2018,Queens,22
+2018,Staten Island,7
+2018,Bronx,1
+2018,Brooklyn,5
+2018,Queens,10
+2018,Bronx,1
+2018,Manhattan,5
+2018,Queens,1
+2018,Bronx,13
+2018,Brooklyn,26
+2018,Manhattan,1
+2018,Outside NYC,1
+2018,Queens,21
+2018,Bronx,6
+2018,Brooklyn,57
+2018,Manhattan,25
+2018,Queens,23
+2018,Staten Island,2
+2018,Bronx,17
+2018,Brooklyn,26
+2018,Manhattan,22
+2018,Queens,13
+2018,Staten Island,12
+2018,Bronx,15
+2018,Manhattan,30
+2018,Outside NYC,12
+2018,Queens,26
+2018,Staten Island,3
+2018,Brooklyn,5
+2018,Bronx,28
+2018,Brooklyn,37
+2018,Manhattan,31
+2018,Queens,31
+2018,Staten Island,4
+2018,Bronx,20
+2018,Brooklyn,39
+2018,Manhattan,8
+2018,Outside NYC,1
+2018,Queens,39
+2018,Brooklyn,54
+2018,Manhattan,23
+2018,Queens,18
+2018,Staten Island,11
+2018,Bronx,2
+2018,Brooklyn,1
+2018,Manhattan,13
+2018,Staten Island,18
+2018,Bronx,14
+2018,Brooklyn,22
+2018,Manhattan,26
+2018,Queens,12
+2018,Bronx,25
+2018,Brooklyn,29
+2018,Queens,17
+2018,Bronx,1
+2018,Brooklyn,23
+2018,Manhattan,36
+2018,Queens,18
+2018,Bronx,11
+2018,Brooklyn,47
+2018,Manhattan,18
+2018,Bronx,4
+2018,Manhattan,31
+2018,Queens,1
+2018,Staten Island,12
+2018,Bronx,13
+2018,Brooklyn,45
+2018,Manhattan,17
+2018,Queens,3
+2018,Staten Island,2
+2018,Bronx,44
+2018,Brooklyn,35
+2018,Manhattan,1
+2018,Queens,17
+2018,Staten Island,20
+2018,Bronx,4
+2018,Brooklyn,58
+2018,Manhattan,16
+2018,Outside NYC,4
+2018,Queens,23
+2018,Staten Island,4
+2018,Bronx,14
+2018,Brooklyn,44
+2018,Manhattan,15
+2018,Outside NYC,13
+2018,Staten Island,16
+2018,Bronx,13
+2018,Brooklyn,2
+2018,Manhattan,30
+2018,Staten Island,2
+2018,Bronx,17
+2018,Brooklyn,29
+2018,Manhattan,17
+2018,Queens,18
+2018,Bronx,33
+2018,Brooklyn,56
+2018,Manhattan,2
+2018,Queens,17
+2018,Bronx,2
+2018,Brooklyn,24
+2018,Manhattan,18
+2018,Bronx,10
+2018,Manhattan,31
+2018,Queens,23
+2018,Staten Island,1
+2018,Bronx,8
+2018,Brooklyn,16
+2018,Manhattan,59
+2018,Outside NYC,1
+2018,Queens,36
+2018,Staten Island,2
+2018,Bronx,7
+2018,Brooklyn,34
+2018,Manhattan,8
+2018,Queens,20
+2018,BRONX,1
+2018,Bronx,1
+2018,Brooklyn,51
+2018,Manhattan,26
+2018,Queens,47
+2018,Staten Island,1
+2018,Bronx,7
+2018,Brooklyn,38
+2018,Manhattan,55
+2018,Outside NYC,1
+2018,Queens,5
+2018,Bronx,16
+2018,Manhattan,19
+2018,Queens,38
+2018,Staten Island,3
+2018,Queens,2
+2018,Staten Island,1
+2018,Bronx,18
+2018,Brooklyn,17
+2018,Manhattan,30
+2018,Queens,25
+2018,Staten Island,8
+2018,Bronx,26
+2018,Brooklyn,44
+2018,Queens,26
+2018,Staten Island,9
+2018,Brooklyn,70
+2018,Manhattan,32
+2018,Queens,19
+2018,Staten Island,2
+2018,BROOKLYN,1
+2018,Bronx,6
+2018,Brooklyn,50
+2018,Manhattan,36
+2018,Bronx,11
+2018,Brooklyn,1
+2018,Manhattan,23
+2018,Queens,5
+2018,Staten Island,8
+2018,Bronx,13
+2018,Brooklyn,21
+2018,Manhattan,21
+2018,Queens,28
+2018,Staten Island,3
+2018,Bronx,20
+2018,Brooklyn,50
+2018,Manhattan,5
+2018,Queens,15
+2018,Unknown,2
+2018,Brooklyn,29
+2018,Manhattan,28
+2018,Queens,42
+2018,Staten Island,4
+2018,Bronx,6
+2018,Brooklyn,40
+2018,Manhattan,48
+2018,Queens,2
+2018,Bronx,10
+2018,Brooklyn,2
+2018,Manhattan,24
+2018,Outside NYC,1
+2018,Queens,11
+2018,Staten Island,4
+2018,Bronx,11
+2018,Brooklyn,16
+2018,Manhattan,35
+2018,Queens,22
+2018,Bronx,23
+2018,Brooklyn,55
+2018,Queens,36
+2018,Bronx,11
+2018,Brooklyn,59
+2018,Manhattan,34
+2018,Queens,40
+2018,Bronx,9
+2018,Brooklyn,71
+2018,Manhattan,21
+2018,Bronx,13
+2018,Brooklyn,3
+2018,Manhattan,18
+2018,Outside NYC,6
+2018,Queens,9
+2018,Staten Island,5
+2018,Bronx,19
+2018,Brooklyn,9
+2018,Manhattan,23
+2018,Outside NYC,1
+2018,Queens,18
+2018,Staten Island,1
+2018,Bronx,20
+2018,Brooklyn,59
+2018,Queens,32
+2018,Bronx,15
+2018,Brooklyn,54
+2018,Manhattan,27
+2018,Queens,29
+2018,Staten Island,3
+2018,Bronx,27
+2018,Brooklyn,62
+2018,Manhattan,21
+2018,Queens,1
+2018,Staten Island,2
+2018,Bronx,16
+2018,Brooklyn,1
+2018,Manhattan,9
+2018,Queens,1
+2018,Staten Island,11
+2018,Bronx,18
+2018,Brooklyn,10
+2018,Manhattan,29
+2018,Queens,20
+2018,Staten Island,3
+2018,Bronx,11
+2018,Brooklyn,31
+2018,Manhattan,3
+2018,Outside NYC,8
+2018,Queens,18
+2018,Bronx,4
+2018,Brooklyn,28
+2018,Manhattan,26
+2018,Queens,14
+2018,Staten Island,20
+2018,Bronx,14
+2018,Brooklyn,54
+2018,Manhattan,26
+2018,Queens,9
+2018,Bronx,10
+2018,Brooklyn,2
+2018,Manhattan,19
+2018,Outside NYC,1
+2018,Queens,22
+2018,Staten Island,5
+2018,Brooklyn,6
+2018,Staten Island,3
+2018,Bronx,2
+2018,Bronx,22
+2018,Brooklyn,19
+2018,Manhattan,24
+2018,Queens,22
+2018,Bronx,12
+2018,Brooklyn,39
+2018,Manhattan,1
+2018,Outside NYC,1
+2018,Queens,11
+2018,Staten Island,2
+2018,Bronx,17
+2018,Brooklyn,71
+2018,Manhattan,25
+2018,Queens,22
+2018,Staten Island,4
+2018,Bronx,9
+2018,Brooklyn,51
+2018,Manhattan,24
+2018,Outside NYC,1
+2018,Queens,3
+2018,Staten Island,1
+2018,Bronx,10
+2018,Brooklyn,5
+2018,Manhattan,16
+2018,Queens,11
+2018,Staten Island,1
+2018,Bronx,27
+2018,Brooklyn,18
+2018,Manhattan,26
+2018,Queens,27
+2018,Staten Island,15
+2018,Bronx,25
+2018,Brooklyn,48
+2018,Manhattan,1
+2018,Queens,12
+2018,Bronx,7
+2018,Brooklyn,34
+2018,Manhattan,29
+2018,Outside NYC,2
+2018,Queens,16
+2018,Staten Island,2
+2018,Bronx,28
+2018,Brooklyn,34
+2018,Manhattan,22
+2018,Bronx,15
+2018,Brooklyn,2
+2018,Manhattan,17
+2018,Queens,11
+2018,Staten Island,2
+2018,Bronx,12
+2018,Brooklyn,26
+2018,Manhattan,1
+2018,Queens,27
+2018,Bronx,4
+2018,Brooklyn,23
+2018,Manhattan,32
+2018,Queens,22
+2018,Staten Island,1
+2018,BRONX,3
+2018,Bronx,6
+2018,Brooklyn,32
+2018,Manhattan,21
+2018,Staten Island,4
+2018,Bronx,9
+2018,Brooklyn,4
+2018,Manhattan,21
+2018,Queens,22
+2018,Staten Island,4
+2018,Bronx,23
+2018,Brooklyn,3
+2018,Queens,2
+2018,Bronx,23
+2018,Brooklyn,51
+2018,Manhattan,18
+2018,Queens,23
+2018,Staten Island,12
+2018,Bronx,17
+2018,Brooklyn,36
+2018,Manhattan,8
+2018,Queens,37
+2018,Staten Island,2
+2018,Bronx,7
+2018,Brooklyn,62
+2018,Manhattan,33
+2018,Queens,28
+2018,Bronx,14
+2018,Brooklyn,31
+2018,Manhattan,41
+2018,Queens,1
+2018,Bronx,11
+2018,Manhattan,28
+2018,Queens,15
+2018,Staten Island,3
+2018,Bronx,6
+2018,Brooklyn,12
+2018,Queens,2
+2018,Bronx,6
+2018,Brooklyn,36
+2018,Manhattan,15
+2018,Queens,23
+2018,Staten Island,1
+2018,Bronx,22
+2018,Brooklyn,23
+2018,Queens,23
+2018,Bronx,9
+2018,Brooklyn,25
+2018,Manhattan,40
+2018,Queens,35
+2018,Bronx,11
+2018,Brooklyn,40
+2018,Manhattan,42
+2018,Bronx,9
+2018,Brooklyn,1
+2018,Manhattan,19
+2018,Outside NYC,12
+2018,Queens,22
+2018,Bronx,8
+2018,Brooklyn,13
+2018,Manhattan,13
+2018,Queens,4
+2018,Bronx,10
+2018,Brooklyn,2
+2018,Manhattan,13
+2018,Queens,6
+2018,Staten Island,2
+2018,Bronx,15
+2018,Brooklyn,61
+2018,Manhattan,20
+2018,Queens,22
+2018,Staten Island,2
+2018,Bronx,19
+2018,Brooklyn,43
+2018,Queens,40
+2018,Bronx,5
+2018,Brooklyn,47
+2018,Manhattan,25
+2018,Outside NYC,1
+2018,Queens,25
+2018,Staten Island,4
+2018,Bronx,20
+2018,Brooklyn,73
+2018,Manhattan,26
+2018,Outside NYC,1
+2018,Queens,4
+2018,Bronx,14
+2018,Brooklyn,4
+2018,Manhattan,13
+2018,Queens,18
+2018,Staten Island,3
+2018,Bronx,44
+2018,Brooklyn,3
+2018,Queens,5
+2018,Staten Island,2
+2018,Brooklyn,1
+2018,Manhattan,1
+2018,Bronx,23
+2018,Brooklyn,13
+2018,Manhattan,4
+2018,Queens,10
+2018,Bronx,1
+2018,Brooklyn,71
+2018,Manhattan,32
+2018,Queens,18
+2018,Bronx,12
+2018,Brooklyn,64
+2018,Manhattan,32
+2018,Queens,3
+2018,Bronx,10
+2018,Manhattan,13
+2018,Queens,8
+2018,BRONX,3
+2018,Bronx,9
+2018,Brooklyn,4
+2018,Queens,4
+2018,Queens,3
+2018,Bronx,11
+2018,Brooklyn,37
+2018,Queens,33
+2018,Bronx,8
+2018,Brooklyn,36
+2018,Manhattan,44
+2018,Outside NYC,1
+2018,Queens,39
+2018,Bronx,7
+2018,Brooklyn,55
+2018,Manhattan,38
+2018,Outside NYC,2
+2018,Queens,19
+2018,Staten Island,1
+2018,Bronx,5
+2018,Brooklyn,1
+2018,Manhattan,30
+2018,Queens,17
+2018,Bronx,14
+2018,Brooklyn,8
+2018,Queens,4
+2018,Staten Island,6
+2018,Brooklyn,26
+2018,Queens,3
+2018,Staten Island,11
+2018,Bronx,16
+2018,Brooklyn,24
+2018,Manhattan,24
+2018,Queens,35
+2018,Staten Island,6
+2018,Bronx,13
+2018,Brooklyn,69
+2018,Manhattan,1
+2018,Queens,38
+2018,Brooklyn,48
+2018,Manhattan,17
+2018,Outside NYC,11
+2018,Queens,50
+2018,Bronx,5
+2018,Brooklyn,37
+2018,Manhattan,22
+2018,Queens,1
+2018,Staten Island,1
+2018,Bronx,12
+2018,Brooklyn,1
+2018,Manhattan,40
+2018,Queens,22
+2018,Staten Island,1
+2018,BRONX,5
+2018,Bronx,28
+2018,Brooklyn,6
+2018,Queens,4
+2018,Bronx,22
+2018,Brooklyn,29
+2018,Bronx,14
+2018,Brooklyn,23
+2018,Manhattan,19
+2018,Queens,30
+2018,Staten Island,3
+2018,BRONX,1
+2018,Bronx,14
+2018,Brooklyn,45
+2018,Queens,50
+2018,Brooklyn,44
+2018,Manhattan,45
+2018,Queens,34
+2018,Bronx,3
+2018,Brooklyn,38
+2018,Manhattan,45
+2018,Bronx,11
+2018,Brooklyn,20
+2018,Manhattan,34
+2018,Queens,27
+2018,Bronx,7
+2018,Outside NYC,1
+2018,Queens,5
+2018,Staten Island,3
+2018,Bronx,34
+2018,Brooklyn,10
+2018,Queens,4
+2018,Staten Island,2
+2018,Bronx,21
+2018,Brooklyn,30
+2018,Manhattan,39
+2018,Queens,45
+2018,Staten Island,2
+2018,Bronx,17
+2018,Brooklyn,38
+2018,Queens,48
+2018,Brooklyn,32
+2018,Manhattan,28
+2018,Queens,58
+2018,Staten Island,4
+2018,Bronx,8
+2018,Brooklyn,37
+2018,Manhattan,57
+2018,Bronx,12
+2018,Brooklyn,7
+2018,Manhattan,33
+2018,Outside NYC,1
+2018,Queens,33
+2018,Staten Island,7
+2018,Unknown,1
+2018,Bronx,9
+2018,Brooklyn,6
+2018,Manhattan,10
+2018,Bronx,17
+2018,Brooklyn,20
+2018,Queens,33
+2018,Manhattan,1
+2018,Brooklyn,30
+2018,Manhattan,58
+2018,Queens,26
+2018,BRONX,2
+2018,Bronx,7
+2018,Brooklyn,28
+2018,Manhattan,40
+2018,Outside NYC,1
+2018,Staten Island,8
+2018,Bronx,11
+2018,Brooklyn,11
+2018,Manhattan,33
+2018,Outside NYC,1
+2018,Queens,20
+2018,Staten Island,6
+2018,Bronx,34
+2018,Brooklyn,5
+2018,Queens,31
+2018,Bronx,19
+2018,Brooklyn,5
+2018,Queens,6
+2018,Bronx,3
+2018,BRONX,2
+2018,Bronx,20
+2018,Brooklyn,26
+2018,Outside NYC,1
+2018,Queens,37
+2018,Brooklyn,43
+2018,Manhattan,32
+2018,Queens,40
+2018,Bronx,1
+2018,Brooklyn,36
+2018,Manhattan,47
+2018,Staten Island,9
+2018,Bronx,8
+2018,Brooklyn,2
+2018,Manhattan,35
+2018,Queens,46
+2018,Staten Island,1
+2018,Brooklyn,21
+2018,Manhattan,5
+2018,Queens,9
+2018,Bronx,34
+2018,Brooklyn,1
+2018,Manhattan,9
+2018,Queens,5
+2018,Bronx,28
+2018,Brooklyn,38
+2018,Manhattan,39
+2018,Outside NYC,1
+2018,Queens,26
+2018,Bronx,8
+2018,Brooklyn,35
+2018,Manhattan,3
+2018,Queens,38
+2018,Staten Island,1
+2018,Bronx,1
+2018,Brooklyn,37
+2018,Manhattan,20
+2018,Queens,36
+2018,Staten Island,12
+2018,Brooklyn,11
+2018,Manhattan,18
+2018,Bronx,23
+2018,Brooklyn,29
+2018,Queens,2
+2018,Staten Island,1
+2018,Bronx,14
+2018,Brooklyn,3
+2018,Queens,1
+2018,Bronx,7
+2018,Brooklyn,18
+2018,Manhattan,51
+2018,Queens,26
+2018,Staten Island,3
+2018,Bronx,10
+2018,Brooklyn,26
+2018,Manhattan,1
+2018,Queens,51
+2018,Bronx,8
+2018,Brooklyn,53
+2018,Manhattan,46
+2018,Queens,72
+2018,BRONX,2
+2018,Bronx,17
+2018,Brooklyn,42
+2018,Manhattan,38
+2018,Outside NYC,1
+2018,Staten Island,2
+2018,Bronx,5
+2018,Brooklyn,14
+2018,Manhattan,24
+2018,Outside NYC,2
+2018,Queens,16
+2018,Bronx,26
+2018,Brooklyn,22
+2018,Manhattan,2
+2018,Queens,3
+2018,Bronx,32
+2018,Brooklyn,17
+2018,Manhattan,1
+2018,Queens,18
+2018,Bronx,14
+2018,Brooklyn,28
+2018,Manhattan,36
+2018,Outside NYC,1
+2018,Queens,18
+2018,Staten Island,5
+2018,Bronx,8
+2018,Brooklyn,34
+2018,Queens,53
+2018,Unknown,6
+2018,Bronx,18
+2018,Brooklyn,51
+2018,Manhattan,52
+2018,Outside NYC,5
+2018,Queens,35
+2018,BRONX,3
+2018,Bronx,18
+2018,Brooklyn,80
+2018,Manhattan,30
+2018,Staten Island,3
+2018,Bronx,27
+2018,Brooklyn,7
+2018,Manhattan,32
+2018,Queens,26
+2018,Staten Island,10
+2018,Bronx,26
+2018,Manhattan,9
+2018,Queens,3
+2018,Bronx,16
+2018,Brooklyn,1
+2018,Queens,5
+2018,Bronx,7
+2018,Brooklyn,5
+2018,Manhattan,35
+2018,Queens,31
+2018,Staten Island,6
+2018,Bronx,18
+2018,Brooklyn,11
+2018,Queens,45
+2018,Bronx,5
+2018,Brooklyn,23
+2018,Manhattan,52
+2018,Queens,41
+2018,Bronx,23
+2018,Brooklyn,24
+2018,Manhattan,36
+2018,Staten Island,4
+2018,Bronx,14
+2018,Manhattan,23
+2018,Queens,8
+2018,Staten Island,3
+2018,Bronx,25
+2018,Brooklyn,4
+2018,Bronx,7
+2018,Brooklyn,2
+2018,Manhattan,6
+2018,Queens,2
+2018,Bronx,7
+2018,Brooklyn,24
+2018,Manhattan,41
+2018,Queens,36
+2018,Bronx,19
+2018,Brooklyn,62
+2018,Queens,56
+2018,Bronx,7
+2018,Brooklyn,34
+2018,Manhattan,43
+2018,Queens,32
+2018,Bronx,14
+2018,Brooklyn,41
+2018,Manhattan,58
+2018,Staten Island,8
+2018,Bronx,7
+2018,Brooklyn,6
+2018,Manhattan,51
+2018,Outside NYC,1
+2018,Queens,11
+2018,Bronx,25
+2018,Brooklyn,15
+2018,Queens,10
+2018,Staten Island,7
+2018,Bronx,2
+2018,Brooklyn,3
+2018,Manhattan,1
+2018,Queens,29
+2018,Bronx,18
+2018,Brooklyn,26
+2018,Manhattan,38
+2018,Outside NYC,2
+2018,Queens,39
+2018,Staten Island,2
+2018,Bronx,25
+2018,Brooklyn,27
+2018,Manhattan,13
+2018,Staten Island,12
+2018,BRONX,2
+2018,Bronx,7
+2018,Manhattan,19
+2018,Queens,11
+2018,Staten Island,6
+2018,Bronx,30
+2018,Brooklyn,8
+2018,Queens,1
+2018,Bronx,3
+2018,Brooklyn,24
+2018,Queens,9
+2018,Unknown,1
+2019,Bronx,1
+2019,Brooklyn,26
+2019,Manhattan,27
+2019,Queens,46
+2019,Bronx,26
+2019,Brooklyn,41
+2019,Manhattan,36
+2019,Bronx,12
+2019,Brooklyn,7
+2019,Manhattan,29
+2019,Queens,10
+2019,Staten Island,4
+2019,Bronx,7
+2019,Manhattan,2
+2019,Manhattan,1
+2019,Bronx,1
+2019,Brooklyn,1
+2019,Outside NYC,9
+2019,Queens,3
+2019,Staten Island,1
+2019,Bronx,15
+2019,Brooklyn,43
+2019,Manhattan,12
+2019,Queens,26
+2019,Staten Island,1
+2019,Bronx,4
+2019,Brooklyn,40
+2019,Manhattan,18
+2019,Queens,24
+2019,Staten Island,5
+2019,Bronx,13
+2019,Brooklyn,44
+2019,Manhattan,25
+2019,Staten Island,3
+2019,Bronx,18
+2019,Brooklyn,6
+2019,Manhattan,18
+2019,Queens,11
+2019,Staten Island,16
+2019,Bronx,19
+2019,Brooklyn,15
+2019,Manhattan,11
+2019,Queens,15
+2019,Bronx,4
+2019,Brooklyn,6
+2019,Manhattan,24
+2019,Queens,7
+2019,Bronx,20
+2019,Brooklyn,34
+2019,Manhattan,20
+2019,Queens,34
+2019,Staten Island,5
+2019,Bronx,19
+2019,Brooklyn,26
+2019,Manhattan,10
+2019,Queens,52
+2019,Staten Island,22
+2019,Bronx,22
+2019,Brooklyn,38
+2019,Manhattan,21
+2019,Queens,34
+2019,Staten Island,13
+2019,Bronx,30
+2019,Brooklyn,56
+2019,Manhattan,26
+2019,Staten Island,4
+2019,Bronx,32
+2019,Manhattan,27
+2019,Queens,2
+2019,Staten Island,5
+2019,Brooklyn,16
+2019,Queens,20
+2019,Bronx,17
+2019,Brooklyn,29
+2019,Manhattan,7
+2019,Queens,28
+2019,Staten Island,7
+2019,Bronx,1
+2019,Brooklyn,31
+2019,Manhattan,49
+2019,Queens,33
+2019,Staten Island,5
+2019,Bronx,21
+2019,Brooklyn,26
+2019,Manhattan,17
+2019,Queens,4
+2019,Staten Island,7
+2019,Bronx,6
+2019,Brooklyn,7
+2019,Manhattan,41
+2019,Queens,7
+2019,Staten Island,6
+2019,Brooklyn,13
+2019,Queens,18
+2019,Staten Island,4
+2019,Bronx,10
+2019,Brooklyn,5
+2019,Queens,20
+2019,BRONX,1
+2019,Bronx,34
+2019,Brooklyn,45
+2019,Manhattan,38
+2019,Queens,23
+2019,Staten Island,1
+2019,Bronx,17
+2019,Brooklyn,33
+2019,Queens,37
+2019,Bronx,18
+2019,Brooklyn,50
+2019,Manhattan,34
+2019,Queens,50
+2019,Staten Island,12
+2019,Bronx,12
+2019,Brooklyn,41
+2019,Manhattan,28
+2019,Staten Island,8
+2019,Bronx,22
+2019,Manhattan,59
+2019,Queens,56
+2019,Staten Island,12
+2019,Bronx,29
+2019,Brooklyn,7
+2019,Queens,17
+2019,Staten Island,4
+2019,Manhattan,30
+2019,Queens,5
+2019,Bronx,36
+2019,Brooklyn,41
+2019,Manhattan,46
+2019,Outside NYC,1
+2019,Queens,87
+2019,Staten Island,5
+2019,Bronx,14
+2019,Brooklyn,58
+2019,Outside NYC,1
+2019,Queens,26
+2019,Staten Island,1
+2019,Bronx,12
+2019,Brooklyn,106
+2019,Manhattan,56
+2019,Outside NYC,2
+2019,Queens,62
+2019,Staten Island,13
+2019,Bronx,20
+2019,Brooklyn,99
+2019,Manhattan,31
+2019,Queens,4
+2019,Staten Island,1
+2019,Bronx,28
+2019,Brooklyn,7
+2019,Manhattan,54
+2019,Queens,16
+2019,Staten Island,8
+2019,Bronx,27
+2019,Brooklyn,17
+2019,Queens,8
+2019,Staten Island,8
+2019,Brooklyn,45
+2019,Manhattan,43
+2019,Bronx,30
+2019,Brooklyn,30
+2019,Manhattan,32
+2019,Queens,39
+2019,Staten Island,8
+2019,Bronx,13
+2019,Brooklyn,63
+2019,Queens,18
+2019,Bronx,12
+2019,Brooklyn,68
+2019,Manhattan,35
+2019,Queens,34
+2019,Staten Island,4
+2019,Bronx,27
+2019,Brooklyn,42
+2019,Manhattan,52
+2019,Staten Island,11
+2019,Bronx,22
+2019,Brooklyn,4
+2019,Manhattan,50
+2019,Queens,12
+2019,Staten Island,7
+2019,Bronx,16
+2019,Brooklyn,2
+2019,Queens,24
+2019,Bronx,6
+2019,Bronx,15
+2019,Brooklyn,20
+2019,Queens,40
+2019,Bronx,1
+2019,Brooklyn,34
+2019,Manhattan,23
+2019,Queens,28
+2019,Staten Island,4
+2019,Bronx,22
+2019,Brooklyn,59
+2019,Manhattan,20
+2019,Outside NYC,1
+2019,Queens,16
+2019,Staten Island,7
+2019,Bronx,18
+2019,Brooklyn,4
+2019,Manhattan,9
+2019,Queens,20
+2019,Staten Island,12
+2019,Bronx,7
+2019,Queens,17
+2019,Staten Island,5
+2019,Brooklyn,18
+2019,Manhattan,27
+2019,Bronx,21
+2019,Brooklyn,45
+2019,Manhattan,26
+2019,Queens,24
+2019,Staten Island,19
+2019,Bronx,37
+2019,Brooklyn,46
+2019,Queens,44
+2019,Brooklyn,67
+2019,Manhattan,24
+2019,Queens,38
+2019,Staten Island,2
+2019,Bronx,36
+2019,Brooklyn,50
+2019,Manhattan,47
+2019,Staten Island,6
+2019,Bronx,4
+2019,Brooklyn,23
+2019,Manhattan,45
+2019,Queens,15
+2019,Staten Island,16
+2019,Bronx,38
+2019,Brooklyn,7
+2019,Queens,7
+2019,Staten Island,9
+2019,Bronx,6
+2019,Brooklyn,42
+2019,Manhattan,16
+2019,Queens,8
+2019,Bronx,18
+2019,Brooklyn,23
+2019,Manhattan,38
+2019,Queens,18
+2019,Staten Island,7
+2019,Bronx,9
+2019,Brooklyn,62
+2019,Queens,22
+2019,Bronx,4
+2019,Brooklyn,64
+2019,Manhattan,28
+2019,Queens,29
+2019,Bronx,46
+2019,Brooklyn,49
+2019,Manhattan,43
+2019,Outside NYC,3
+2019,Staten Island,17
+2019,Bronx,19
+2019,Brooklyn,7
+2019,Manhattan,35
+2019,Queens,26
+2019,Staten Island,13
+2019,Brooklyn,23
+2019,Queens,15
+2019,Staten Island,11
+2019,Brooklyn,33
+2019,Queens,18
+2019,Bronx,37
+2019,Brooklyn,19
+2019,Manhattan,29
+2019,Queens,34
+2019,Staten Island,10
+2019,Bronx,17
+2019,Brooklyn,57
+2019,Manhattan,9
+2019,Queens,39
+2019,Brooklyn,79
+2019,Manhattan,57
+2019,Queens,43
+2019,Staten Island,9
+2019,Bronx,35
+2019,Brooklyn,46
+2019,Manhattan,43
+2019,Outside NYC,1
+2019,Queens,12
+2019,Staten Island,13
+2019,Bronx,25
+2019,Brooklyn,2
+2019,Manhattan,44
+2019,Queens,19
+2019,Staten Island,1
+2019,Bronx,7
+2019,Brooklyn,41
+2019,Manhattan,8
+2019,Queens,13
+2019,Bronx,13
+2019,Brooklyn,35
+2019,Manhattan,5
+2019,Queens,13
+2019,Bronx,25
+2019,Brooklyn,19
+2019,Manhattan,51
+2019,Queens,35
+2019,Staten Island,1
+2019,Bronx,33
+2019,Brooklyn,26
+2019,Queens,28
+2019,BROOKLYN,2
+2019,Brooklyn,56
+2019,Manhattan,57
+2019,Queens,26
+2019,Bronx,43
+2019,Brooklyn,26
+2019,Manhattan,40
+2019,Queens,6
+2019,Staten Island,3
+2019,Bronx,16
+2019,Brooklyn,4
+2019,Manhattan,49
+2019,Queens,16
+2019,Bronx,7
+2019,Brooklyn,2
+2019,Queens,11
+2019,Staten Island,25
+2019,Bronx,18
+2019,Brooklyn,16
+2019,Manhattan,9
+2019,Queens,19
+2019,Bronx,22
+2019,Brooklyn,9
+2019,Manhattan,42
+2019,Queens,31
+2019,Bronx,18
+2019,Brooklyn,27
+2019,Queens,68
+2019,Brooklyn,61
+2019,Manhattan,18
+2019,Queens,50
+2019,Staten Island,5
+2019,Bronx,20
+2019,Brooklyn,29
+2019,Manhattan,45
+2019,Staten Island,14
+2019,Bronx,13
+2019,Brooklyn,10
+2019,Manhattan,30
+2019,Queens,26
+2019,Staten Island,4
+2019,Bronx,13
+2019,Queens,22
+2019,Bronx,8
+2019,Brooklyn,21
+2019,Manhattan,4
+2019,Queens,5
+2019,Bronx,8
+2019,Brooklyn,9
+2019,Manhattan,37
+2019,Queens,53
+2019,Staten Island,6
+2019,Bronx,5
+2019,Brooklyn,29
+2019,Manhattan,9
+2019,Queens,51
+2019,Bronx,24
+2019,Brooklyn,33
+2019,Manhattan,45
+2019,Queens,39
+2019,Staten Island,2
+2019,Bronx,16
+2019,Brooklyn,38
+2019,Manhattan,38
+2019,Staten Island,2
+2019,Bronx,15
+2019,Brooklyn,7
+2019,Manhattan,46
+2019,Queens,18
+2019,Staten Island,9
+2019,Brooklyn,15
+2019,Manhattan,9
+2019,Queens,7
+2019,Bronx,15
+2019,Brooklyn,12
+2019,Manhattan,2
+2019,Bronx,14
+2019,Brooklyn,18
+2019,Manhattan,49
+2019,Queens,22
+2019,Staten Island,7
+2019,Bronx,17
+2019,Brooklyn,38
+2019,Manhattan,12
+2019,Queens,42
+2019,Brooklyn,71
+2019,Manhattan,46
+2019,Queens,20
+2019,Staten Island,9
+2019,Bronx,27
+2019,Brooklyn,47
+2019,Manhattan,34
+2019,Queens,2
+2019,Staten Island,3
+2019,Bronx,4
+2019,Brooklyn,3
+2019,Manhattan,43
+2019,Queens,25
+2019,Staten Island,10
+2019,Bronx,6
+2019,Brooklyn,32
+2019,Queens,18
+2019,Staten Island,3
+2019,Brooklyn,35
+2019,Queens,12
+2019,Bronx,12
+2019,Brooklyn,12
+2019,Manhattan,37
+2019,Queens,25
+2019,Staten Island,1
+2019,Bronx,15
+2019,Brooklyn,45
+2019,Queens,50
+2019,Bronx,2
+2019,Brooklyn,37
+2019,Manhattan,41
+2019,Queens,31
+2019,Staten Island,14
+2019,Bronx,36
+2019,Brooklyn,35
+2019,Manhattan,58
+2019,Bronx,14
+2019,Brooklyn,1
+2019,Manhattan,49
+2019,Queens,19
+2019,Staten Island,3
+2019,Brooklyn,33
+2019,Manhattan,2
+2019,Bronx,29
+2019,Brooklyn,17
+2019,Manhattan,59
+2019,Outside NYC,3
+2019,Queens,39
+2019,Staten Island,7
+2019,Bronx,13
+2019,Brooklyn,25
+2019,Manhattan,8
+2019,Queens,45
+2019,BRONX,4
+2019,Brooklyn,44
+2019,Manhattan,40
+2019,Queens,41
+2019,Bronx,8
+2019,Brooklyn,33
+2019,Manhattan,33
+2019,Queens,8
+2019,Staten Island,4
+2019,Bronx,3
+2019,Manhattan,14
+2019,Queens,7
+2019,Bronx,5
+2019,Brooklyn,26
+2019,Manhattan,8
+2019,Queens,7
+2019,Bronx,18
+2019,Brooklyn,37
+2019,Manhattan,41
+2019,Queens,34
+2019,Staten Island,15
+2019,Bronx,28
+2019,Brooklyn,46
+2019,Manhattan,52
+2019,Staten Island,8
+2019,Bronx,15
+2019,Manhattan,60
+2019,Queens,18
+2019,Staten Island,9
+2019,Bronx,13
+2019,Brooklyn,14
+2019,Manhattan,11
+2019,Bronx,13
+2019,Brooklyn,14
+2019,Queens,11
+2019,Bronx,14
+2019,Brooklyn,41
+2019,Manhattan,34
+2019,Queens,35
+2019,Staten Island,14
+2019,BRONX,2
+2019,Bronx,20
+2019,Brooklyn,42
+2019,Manhattan,5
+2019,Queens,38
+2019,Staten Island,12
+2019,Brooklyn,55
+2019,Manhattan,73
+2019,Queens,35
+2019,Staten Island,6
+2019,Bronx,31
+2019,Brooklyn,43
+2019,Manhattan,39
+2019,Queens,10
+2019,Staten Island,6
+2019,Bronx,4
+2019,Manhattan,43
+2019,Queens,36
+2019,Staten Island,5
+2019,Brooklyn,19
+2019,Manhattan,4
+2019,Brooklyn,19
+2019,Manhattan,4
+2019,Queens,6
+2019,BROOKLYN,1
+2019,Bronx,19
+2019,Brooklyn,38
+2019,Manhattan,42
+2019,Queens,40
+2019,Staten Island,2
+2019,Bronx,20
+2019,Brooklyn,42
+2019,Queens,20
+2019,Brooklyn,55
+2019,Manhattan,36
+2019,Queens,24
+2019,Staten Island,9
+2019,BRONX,1
+2019,Bronx,30
+2019,Brooklyn,43
+2019,Manhattan,58
+2019,Staten Island,18
+2019,Bronx,13
+2019,Brooklyn,1
+2019,Manhattan,35
+2019,Queens,17
+2019,Staten Island,2
+2019,Bronx,6
+2019,Brooklyn,27
+2019,Queens,13
+2019,Bronx,17
+2019,Brooklyn,14
+2019,Manhattan,1
+2019,Queens,8
+2019,Bronx,1
+2019,Brooklyn,39
+2019,Manhattan,46
+2019,Queens,25
+2019,Staten Island,3
+2019,Bronx,12
+2019,Brooklyn,48
+2019,Manhattan,2
+2019,Outside NYC,1
+2019,Queens,31
+2019,Brooklyn,43
+2019,Manhattan,38
+2019,Outside NYC,1
+2019,Queens,30
+2019,Staten Island,8
+2019,Bronx,17
+2019,Brooklyn,53
+2019,Manhattan,51
+2019,Outside NYC,2
+2019,Staten Island,9
+2019,Bronx,6
+2019,Manhattan,44
+2019,Outside NYC,2
+2019,Queens,23
+2019,Staten Island,14
+2019,Queens,22
+2019,Bronx,18
+2019,Brooklyn,50
+2019,Queens,41
+2019,Unknown,1
+2019,Brooklyn,51
+2019,Manhattan,51
+2019,Queens,37
+2019,Staten Island,12
+2019,Bronx,17
+2019,Brooklyn,46
+2019,Manhattan,49
+2019,Queens,1
+2019,Staten Island,10
+2019,Bronx,8
+2019,Manhattan,35
+2019,Queens,22
+2019,Staten Island,8
+2019,Brooklyn,26
+2019,Manhattan,4
+2019,Queens,11
+2019,Staten Island,1
+2019,Bronx,21
+2019,Brooklyn,25
+2019,Staten Island,9
+2019,Bronx,11
+2019,Brooklyn,45
+2019,Manhattan,46
+2019,Queens,39
+2019,Staten Island,10
+2019,Bronx,22
+2019,Brooklyn,30
+2019,Queens,51
+2019,Bronx,10
+2019,Brooklyn,58
+2019,Manhattan,44
+2019,Queens,24
+2019,Staten Island,9
+2019,Bronx,24
+2019,Brooklyn,49
+2019,Manhattan,54
+2019,Queens,21
+2019,Staten Island,6
+2019,Bronx,9
+2019,Manhattan,64
+2019,Queens,6
+2019,Staten Island,9
+2019,Manhattan,9
+2019,Queens,31
+2019,Brooklyn,44
+2019,Manhattan,9
+2019,Queens,5
+2019,Bronx,10
+2019,Brooklyn,40
+2019,Manhattan,46
+2019,Queens,29
+2019,Staten Island,14
+2019,Bronx,23
+2019,Brooklyn,47
+2019,Queens,37
+2019,Bronx,16
+2019,Brooklyn,95
+2019,Manhattan,25
+2019,Queens,34
+2019,Staten Island,9
+2019,Bronx,23
+2019,Brooklyn,42
+2019,Manhattan,39
+2019,Staten Island,10
+2019,Bronx,8
+2019,Brooklyn,4
+2019,Manhattan,49
+2019,Queens,21
+2019,Staten Island,9
+2019,Brooklyn,20
+2019,Manhattan,1
+2019,Queens,4
+2019,Staten Island,24
+2019,Bronx,42
+2019,Brooklyn,26
+2019,Manhattan,55
+2019,Queens,24
+2019,Staten Island,13
+2019,Bronx,35
+2019,Brooklyn,63
+2019,Manhattan,2
+2019,Queens,31
+2019,Staten Island,1
+2019,Brooklyn,94
+2019,Manhattan,58
+2019,Queens,42
+2019,Staten Island,13
+2019,Bronx,4
+2019,Brooklyn,67
+2019,Manhattan,55
+2019,Queens,2
+2019,Bronx,2
+2019,Brooklyn,15
+2019,Manhattan,54
+2019,Queens,13
+2019,Staten Island,9
+2019,Bronx,32
+2019,Brooklyn,57
+2019,Manhattan,22
+2019,Queens,33
+2019,Staten Island,10
+2019,Bronx,43
+2019,Brooklyn,41
+2019,Manhattan,9
+2019,Queens,47
+2019,Bronx,16
+2019,Brooklyn,33
+2019,Manhattan,48
+2019,Queens,25
+2019,Staten Island,11
+2019,Bronx,2
+2019,Brooklyn,38
+2019,Manhattan,47
+2019,Queens,22
+2019,Staten Island,9
+2019,Bronx,1
+2019,Brooklyn,2
+2019,Manhattan,36
+2019,Queens,12
+2019,Staten Island,9
+2019,Bronx,27
+2019,Brooklyn,48
+2019,Manhattan,57
+2019,Queens,58
+2019,Staten Island,10
+2019,Bronx,12
+2019,Brooklyn,61
+2019,Manhattan,14
+2019,Queens,51
+2019,Brooklyn,62
+2019,Manhattan,39
+2019,Queens,37
+2019,Staten Island,7
+2019,Bronx,4
+2019,Manhattan,29
+2019,Bronx,5
+2019,Brooklyn,75
+2019,Manhattan,57
+2019,Queens,45
+2019,Bronx,8
+2019,Brooklyn,51
+2019,Manhattan,13
+2019,Queens,42
+2019,Staten Island,6
+2019,Bronx,17
+2019,Brooklyn,43
+2019,Manhattan,47
+2019,Queens,16
+2019,Staten Island,20
+2019,Brooklyn,44
+2019,Manhattan,51
+2019,Queens,3
+2019,Staten Island,12
+2019,Bronx,5
+2019,Manhattan,30
+2019,Queens,3
+2019,Staten Island,12
+2019,Bronx,9
+2019,Brooklyn,52
+2019,Manhattan,57
+2019,Queens,39
+2019,Staten Island,9
+2019,Bronx,24
+2019,Brooklyn,72
+2019,Queens,36
+2019,Staten Island,4
+2019,Bronx,14
+2019,Brooklyn,44
+2019,Manhattan,35
+2019,Outside NYC,2
+2019,Queens,12
+2019,Staten Island,8
+2019,Bronx,9
+2019,Brooklyn,53
+2019,Manhattan,52
+2019,Queens,9
+2019,Staten Island,5
+2019,Bronx,18
+2019,Brooklyn,1
+2019,Manhattan,48
+2019,Outside NYC,2
+2019,Queens,14
+2019,Staten Island,7
+2019,Bronx,29
+2019,Brooklyn,51
+2019,Manhattan,48
+2019,Queens,48
+2019,Bronx,31
+2019,Brooklyn,48
+2019,Manhattan,17
+2019,Queens,27
+2019,Brooklyn,19
+2019,Manhattan,23
+2019,Queens,36
+2019,Staten Island,6
+2019,Bronx,19
+2019,Brooklyn,65
+2019,Manhattan,37
+2019,Queens,2
+2019,Staten Island,11
+2019,Bronx,6
+2019,Brooklyn,3
+2019,Manhattan,24
+2019,Queens,40
+2019,Staten Island,2
+2019,Bronx,11
+2019,Brooklyn,70
+2019,Manhattan,29
+2019,Queens,37
+2019,Bronx,36
+2019,Brooklyn,40
+2019,Queens,32
+2019,Staten Island,1
+2019,Bronx,20
+2019,Brooklyn,58
+2019,Manhattan,38
+2019,Queens,46
+2019,Staten Island,3
+2019,Bronx,9
+2019,Brooklyn,30
+2019,Manhattan,45
+2019,Queens,25
+2019,Staten Island,5
+2019,Bronx,14
+2019,Brooklyn,9
+2019,Manhattan,42
+2019,Queens,11
+2019,Staten Island,12
+2019,Bronx,15
+2019,Brooklyn,55
+2019,Manhattan,52
+2019,Queens,35
+2019,Staten Island,7
+2019,Bronx,9
+2019,Brooklyn,55
+2019,Manhattan,2
+2019,Queens,62
+2019,Brooklyn,67
+2019,Manhattan,51
+2019,Queens,31
+2019,Staten Island,5
+2019,Bronx,13
+2019,Brooklyn,40
+2019,Manhattan,28
+2019,Outside NYC,12
+2019,Queens,9
+2019,Staten Island,7
+2019,Bronx,11
+2019,Brooklyn,4
+2019,Manhattan,17
+2019,Queens,14
+2019,Staten Island,6
+2019,BRONX,2
+2019,Bronx,1
+2019,BRONX,1
+2019,Bronx,8
+2019,Brooklyn,49
+2019,Manhattan,31
+2019,Queens,42
+2019,Staten Island,6
+2019,Bronx,18
+2019,Brooklyn,36
+2019,Manhattan,1
+2019,Queens,40
+2019,Bronx,17
+2019,Brooklyn,46
+2019,Manhattan,31
+2019,Outside NYC,4
+2019,Queens,40
+2019,Staten Island,8
+2019,BROOKLYN,4
+2019,Bronx,1
+2019,Brooklyn,49
+2019,Manhattan,46
+2019,Outside NYC,8
+2019,Queens,1
+2019,Staten Island,5
+2019,Bronx,6
+2019,Manhattan,15
+2019,Queens,12
+2019,Bronx,5
+2019,Brooklyn,13
+2019,Manhattan,12
+2019,Queens,25
+2019,Bronx,43
+2019,Brooklyn,25
+2019,Manhattan,18
+2019,Queens,26
+2019,Bronx,17
+2019,Brooklyn,45
+2019,Manhattan,25
+2019,Outside NYC,2
+2019,Queens,25
+2019,Bronx,10
+2019,Brooklyn,23
+2019,Manhattan,31
+2019,Queens,7
+2019,Bronx,14
+2019,Brooklyn,1
+2019,Manhattan,48
+2019,Queens,24
+2019,Bronx,33
+2019,Brooklyn,47
+2019,Manhattan,57
+2019,Queens,28
+2019,Staten Island,3
+2019,Bronx,46
+2019,Brooklyn,26
+2019,Manhattan,2
+2019,Queens,21
+2019,Staten Island,4
+2019,Brooklyn,47
+2019,Manhattan,59
+2019,Queens,28
+2019,Staten Island,5
+2019,Bronx,17
+2019,Brooklyn,51
+2019,Manhattan,51
+2019,Queens,11
+2019,Staten Island,8
+2019,Bronx,11
+2019,Manhattan,34
+2019,Queens,16
+2019,Staten Island,2
+2019,Bronx,20
+2019,Brooklyn,17
+2019,Manhattan,2
+2019,Queens,21
+2019,Bronx,15
+2019,Brooklyn,71
+2019,Manhattan,59
+2019,Queens,38
+2019,Staten Island,7
+2019,BRONX,3
+2019,Bronx,8
+2019,Brooklyn,43
+2019,Manhattan,53
+2019,Queens,8
+2019,Staten Island,4
+2019,Bronx,17
+2019,Brooklyn,2
+2019,Manhattan,41
+2019,Queens,15
+2019,Staten Island,5
+2019,Brooklyn,23
+2019,Queens,11
+2019,Brooklyn,5
+2019,Manhattan,7
+2019,Bronx,12
+2019,Brooklyn,24
+2019,Manhattan,37
+2019,Outside NYC,2
+2019,Queens,28
+2019,Staten Island,8
+2019,Bronx,23
+2019,Brooklyn,15
+2019,Queens,31
+2019,Bronx,13
+2019,Brooklyn,27
+2019,Manhattan,35
+2019,Queens,24
+2019,Staten Island,1
+2019,Bronx,7
+2019,Brooklyn,48
+2019,Manhattan,47
+2019,Queens,6
+2019,Staten Island,21
+2019,Bronx,7
+2019,Brooklyn,1
+2019,Manhattan,29
+2019,Outside NYC,2
+2019,Queens,10
+2019,Staten Island,8
+2019,Brooklyn,26
+2019,Manhattan,7
+2019,Staten Island,5
+2019,Bronx,9
+2019,Brooklyn,34
+2019,Manhattan,15
+2019,Queens,6
+2019,Queens,9
+2019,Bronx,13
+2019,Brooklyn,27
+2019,Queens,29
+2019,Bronx,13
+2019,Brooklyn,43
+2019,Manhattan,28
+2019,Queens,46
+2019,Staten Island,7
+2019,BROOKLYN,7
+2019,Bronx,5
+2019,Brooklyn,40
+2019,Manhattan,50
+2019,Queens,3
+2019,Staten Island,4
+2019,Bronx,8
+2019,Brooklyn,1
+2019,Manhattan,39
+2019,Queens,23
+2019,Staten Island,6
+2019,Bronx,10
+2019,Brooklyn,44
+2019,Bronx,8
+2019,Brooklyn,5
+2019,Manhattan,31
+2019,Queens,1
+2019,Bronx,5
+2019,Brooklyn,34
+2019,Manhattan,37
+2019,Queens,61
+2019,Staten Island,1
+2019,Bronx,11
+2019,Brooklyn,26
+2019,Queens,70
+2019,Bronx,7
+2019,Brooklyn,37
+2019,Manhattan,38
+2019,Queens,53
+2019,Staten Island,10
+2019,Bronx,10
+2019,Brooklyn,27
+2019,Manhattan,54
+2019,Queens,4
+2019,Staten Island,10
+2019,Unknown,1
+2019,Bronx,4
+2019,Manhattan,52
+2019,Queens,24
+2019,Staten Island,5
+2019,Unknown,1
+2019,Bronx,2
+2019,Brooklyn,9
+2019,Brooklyn,14
+2019,Manhattan,4
+2019,Bronx,13
+2019,Brooklyn,51
+2019,Manhattan,32
+2019,Queens,30
+2019,Staten Island,17
+2019,BROOKLYN,1
+2019,Bronx,7
+2019,Brooklyn,39
+2019,Manhattan,2
+2019,Queens,52
+2019,Bronx,9
+2019,Brooklyn,25
+2019,Manhattan,30
+2019,Queens,38
+2019,Staten Island,6
+2019,Bronx,6
+2019,Brooklyn,38
+2019,Manhattan,35
+2019,Queens,7
+2019,Staten Island,6
+2019,Bronx,8
+2019,Manhattan,32
+2019,Queens,46
+2019,Staten Island,3
+2019,Bronx,37
+2019,Manhattan,9
+2019,Queens,6
+2019,Staten Island,4
+2019,Bronx,24
+2019,Brooklyn,11
+2019,Manhattan,3
+2019,Queens,2
+2019,BROOKLYN,3
+2019,Bronx,9
+2019,Brooklyn,35
+2019,Manhattan,32
+2019,Queens,65
+2019,Staten Island,4
+2019,Bronx,9
+2019,Brooklyn,30
+2019,Manhattan,4
+2019,Queens,38
+2019,Bronx,8
+2019,Brooklyn,47
+2019,Manhattan,20
+2019,Queens,48
+2019,Staten Island,6
+2019,Bronx,8
+2019,Brooklyn,53
+2019,Manhattan,31
+2019,Queens,7
+2019,Staten Island,7
+2019,Bronx,9
+2019,Brooklyn,2
+2019,Manhattan,30
+2019,Queens,36
+2019,Staten Island,8
+2019,Bronx,1
+2019,Brooklyn,7
+2019,Queens,13
+2019,Bronx,22
+2019,Brooklyn,14
+2019,Manhattan,7
+2019,Queens,29
+2019,Bronx,3
+2019,Brooklyn,21
+2019,Manhattan,17
+2019,Queens,32
+2019,Staten Island,6
+2019,Bronx,6
+2019,Brooklyn,26
+2019,Manhattan,41
+2019,Queens,2
+2019,Staten Island,5
+2019,Bronx,13
+2019,Brooklyn,1
+2019,Manhattan,16
+2019,Queens,36
+2019,Staten Island,5
+2019,Brooklyn,23
+2019,Queens,12
+2019,Bronx,2
+2019,Brooklyn,23
+2019,Manhattan,3
+2019,Bronx,17
+2019,Brooklyn,33
+2019,Manhattan,9
+2019,Outside NYC,1
+2019,Queens,37
+2019,Staten Island,5
+2019,Bronx,14
+2019,Brooklyn,28
+2019,Manhattan,6
+2019,Outside NYC,1
+2019,Queens,41
+2019,Staten Island,2
+2019,Bronx,6
+2019,Brooklyn,36
+2019,Manhattan,32
+2019,Queens,29
+2019,Staten Island,5
+2019,BROOKLYN,1
+2019,Bronx,14
+2019,Brooklyn,49
+2019,Manhattan,15
+2019,Staten Island,8
+2019,Bronx,12
+2019,Manhattan,26
+2019,Queens,29
+2019,Staten Island,6
+2019,Bronx,27
+2019,Brooklyn,33
+2019,Staten Island,5
+2019,Brooklyn,8
+2019,Manhattan,23
+2019,Queens,1
+2019,Staten Island,11
+2019,Bronx,9
+2019,Brooklyn,51
+2019,Manhattan,30
+2019,Queens,49
+2019,Staten Island,8
+2019,Bronx,14
+2019,Brooklyn,51
+2019,Queens,44
+2019,Brooklyn,44
+2019,Manhattan,58
+2019,Queens,68
+2019,Bronx,7
+2019,Brooklyn,31
+2019,Manhattan,40
+2019,Queens,2
+2019,Staten Island,7
+2019,Bronx,6
+2019,Brooklyn,5
+2019,Manhattan,34
+2019,Queens,7
+2019,Staten Island,2
+2019,Bronx,19
+2019,Brooklyn,4
+2019,Manhattan,11
+2019,Queens,4
+2019,Bronx,7
+2019,Brooklyn,38
+2019,Manhattan,3
+2019,Queens,45
+2019,Bronx,2
+2019,Brooklyn,40
+2019,Manhattan,53
+2019,Queens,43
+2019,Bronx,17
+2019,Brooklyn,30
+2019,Manhattan,57
+2019,Staten Island,5
+2019,Bronx,9
+2019,Brooklyn,14
+2019,Manhattan,31
+2019,Queens,15
+2019,Staten Island,14
+2019,Unknown,1
+2019,Brooklyn,40
+2019,Queens,15
+2019,Bronx,9
+2019,Brooklyn,36
+2019,Manhattan,2
+2019,Queens,32
+2019,Bronx,7
+2019,Brooklyn,26
+2019,Manhattan,50
+2019,Queens,32
+2019,Staten Island,3
+2019,Bronx,25
+2019,Brooklyn,23
+2019,Manhattan,71
+2019,Queens,2
+2019,Staten Island,5
+2019,Bronx,13
+2019,Brooklyn,3
+2019,Manhattan,33
+2019,Queens,18
+2019,Staten Island,6
+2019,Bronx,2
+2019,Brooklyn,4
+2019,Manhattan,18
+2019,Queens,2
+2019,Outside NYC,16
+2019,Bronx,8
+2019,Brooklyn,39
+2019,Queens,47
+2019,Bronx,10
+2019,Brooklyn,29
+2019,Manhattan,37
+2019,Queens,63
+2019,Staten Island,7
+2019,Bronx,30
+2019,Brooklyn,62
+2019,Manhattan,21
+2019,Outside NYC,4
+2019,Queens,4
+2019,Staten Island,6
+2019,Bronx,9
+2019,Brooklyn,11
+2019,Manhattan,38
+2019,Queens,28
+2019,Staten Island,8
+2019,Bronx,4
+2019,Brooklyn,22
+2019,Manhattan,18
+2019,Queens,1
+2019,Staten Island,3
+2019,Brooklyn,51
+2019,Manhattan,4
+2019,Bronx,8
+2019,Brooklyn,12
+2019,Manhattan,53
+2019,Queens,42
+2019,Staten Island,12
+2019,Bronx,4
+2019,Brooklyn,40
+2019,Manhattan,1
+2019,Outside NYC,1
+2019,Queens,34
+2019,Bronx,2
+2019,Brooklyn,27
+2019,Manhattan,28
+2019,Queens,50
+2019,Staten Island,3
+2019,Bronx,1
+2019,Brooklyn,5
+2019,Manhattan,24
+2019,Bronx,22
+2019,Brooklyn,4
+2019,Manhattan,3
+2019,Queens,3
+2019,Bronx,5
+2019,Brooklyn,5
+2019,Manhattan,9
+2019,Queens,12
+2019,Bronx,9
+2019,Brooklyn,16
+2019,Manhattan,16
+2019,Queens,22
+2019,Staten Island,2
+2019,Bronx,7
+2019,Brooklyn,45
+2019,Manhattan,4
+2019,Queens,25
+2019,Bronx,15
+2019,Brooklyn,40
+2019,Manhattan,7
+2019,Queens,38
+2019,Staten Island,10
+2019,Bronx,15
+2019,Brooklyn,53
+2019,Manhattan,46
+2019,Queens,12
+2019,Staten Island,4
+2019,Bronx,13
+2019,Brooklyn,7
+2019,Manhattan,31
+2019,Queens,5
+2019,Staten Island,9
+2019,Bronx,6
+2019,Brooklyn,6
+2019,Manhattan,7
+2019,Queens,17
+2019,Brooklyn,18
+2019,Manhattan,2
+2019,Bronx,15
+2019,Brooklyn,38
+2019,Manhattan,35
+2019,Queens,20
+2019,Staten Island,10
+2019,Bronx,14
+2019,Brooklyn,45
+2019,Manhattan,2
+2019,Queens,33
+2019,Bronx,2
+2019,Brooklyn,42
+2019,Manhattan,46
+2019,Queens,37
+2019,Staten Island,11
+2019,Bronx,19
+2019,Brooklyn,29
+2019,Manhattan,45
+2019,Staten Island,12
+2019,Bronx,7
+2019,Manhattan,47
+2019,Queens,9
+2019,Staten Island,16
+2019,Bronx,22
+2019,Brooklyn,14
+2019,Brooklyn,33
+2019,Manhattan,4
+2019,Queens,4
+2019,Bronx,16
+2019,Brooklyn,24
+2019,Manhattan,39
+2019,Queens,23
+2019,Staten Island,7
+2019,Bronx,12
+2019,Brooklyn,28
+2019,Queens,27
+2019,Bronx,4
+2019,Brooklyn,47
+2019,Manhattan,49
+2019,Queens,34
+2019,Staten Island,8
+2019,Bronx,14
+2019,Brooklyn,36
+2019,Manhattan,35
+2019,Queens,13
+2019,Staten Island,6
+2019,Bronx,4
+2019,Manhattan,11
+2019,Queens,2
+2019,Staten Island,13
+2019,Bronx,24
+2019,Brooklyn,14
+2019,Manhattan,27
+2019,Manhattan,15
+2019,Queens,12
+2019,Bronx,6
+2019,Brooklyn,29
+2019,Manhattan,28
+2019,Queens,23
+2019,Staten Island,4
+2019,Bronx,10
+2019,Brooklyn,15
+2019,Queens,19
+2019,Staten Island,10
+2019,Brooklyn,31
+2019,Manhattan,57
+2019,Staten Island,6
+2019,Bronx,13
+2019,Manhattan,19
+2019,Queens,12
+2019,Staten Island,2
+2019,Brooklyn,6
+2019,Manhattan,6
+2019,Queens,13
+2019,Manhattan,20
+2019,Queens,42
+2019,Bronx,10
+2019,Brooklyn,28
+2019,Manhattan,14
+2019,Queens,18
+2019,Staten Island,3
+2019,Unknown,1
+2019,BROOKLYN,1
+2019,Bronx,11
+2019,Brooklyn,24
+2019,Queens,16
+2020,Bronx,21
+2020,Brooklyn,37
+2020,Manhattan,45
+2020,Queens,8
+2020,Staten Island,8
+2020,Bronx,31
+2020,Brooklyn,2
+2020,Manhattan,34
+2020,Queens,4
+2020,Staten Island,5
+2020,BRONX,5
+2020,Bronx,12
+2020,Manhattan,30
+2020,Queens,4
+2020,Bronx,18
+2020,Brooklyn,14
+2020,Manhattan,6
+2020,Bronx,19
+2020,Brooklyn,20
+2020,Manhattan,1
+2020,Outside NYC,2
+2020,Queens,14
+2020,Staten Island,2
+2020,Brooklyn,36
+2020,Manhattan,1
+2020,Queens,36
+2020,Bronx,24
+2020,Brooklyn,24
+2020,Manhattan,55
+2020,Queens,6
+2020,Bronx,12
+2020,Brooklyn,42
+2020,Manhattan,51
+2020,Staten Island,2
+2020,Bronx,40
+2020,Brooklyn,16
+2020,Manhattan,21
+2020,Staten Island,7
+2020,Bronx,8
+2020,Brooklyn,24
+2020,Manhattan,5
+2020,Bronx,30
+2020,Brooklyn,32
+2020,Manhattan,10
+2020,Bronx,15
+2020,Brooklyn,38
+2020,Manhattan,27
+2020,Queens,26
+2020,Bronx,15
+2020,Brooklyn,41
+2020,Queens,24
+2020,Bronx,5
+2020,Brooklyn,40
+2020,Manhattan,51
+2020,Queens,23
+2020,Bronx,2
+2020,Brooklyn,31
+2020,Manhattan,67
+2020,Queens,5
+2020,Staten Island,7
+2020,Bronx,11
+2020,Brooklyn,8
+2020,Manhattan,45
+2020,Outside NYC,1
+2020,Queens,6
+2020,Staten Island,5
+2020,Manhattan,4
+2020,Queens,13
+2020,Bronx,14
+2020,Brooklyn,37
+2020,Queens,14
+2020,Staten Island,1
+2020,Bronx,33
+2020,Brooklyn,37
+2020,Manhattan,40
+2020,Queens,28
+2020,Staten Island,6
+2020,Bronx,25
+2020,Brooklyn,32
+2020,Manhattan,63
+2020,Queens,1
+2020,Bronx,13
+2020,Brooklyn,4
+2020,Manhattan,40
+2020,Queens,10
+2020,Bronx,16
+2020,Brooklyn,6
+2020,Manhattan,15
+2020,Bronx,27
+2020,Brooklyn,18
+2020,Bronx,30
+2020,Brooklyn,40
+2020,Manhattan,36
+2020,Queens,27
+2020,Staten Island,9
+2020,Bronx,14
+2020,Brooklyn,60
+2020,Queens,24
+2020,Bronx,15
+2020,Brooklyn,58
+2020,Manhattan,35
+2020,Queens,26
+2020,Staten Island,3
+2020,Bronx,13
+2020,Brooklyn,54
+2020,Manhattan,50
+2020,Queens,1
+2020,Staten Island,2
+2020,Bronx,12
+2020,Manhattan,50
+2020,Queens,18
+2020,Staten Island,4
+2020,Brooklyn,20
+2020,Manhattan,4
+2020,Queens,4
+2020,Bronx,14
+2020,Brooklyn,11
+2020,Queens,12
+2020,Staten Island,13
+2020,Bronx,17
+2020,Brooklyn,44
+2020,Manhattan,62
+2020,Queens,13
+2020,Staten Island,7
+2020,Bronx,19
+2020,Brooklyn,44
+2020,Queens,17
+2020,Bronx,12
+2020,Brooklyn,55
+2020,Manhattan,61
+2020,Queens,33
+2020,Staten Island,4
+2020,Bronx,36
+2020,Brooklyn,64
+2020,Manhattan,84
+2020,Queens,4
+2020,Staten Island,3
+2020,Bronx,21
+2020,Brooklyn,32
+2020,Manhattan,64
+2020,Queens,7
+2020,Staten Island,4
+2020,Brooklyn,13
+2020,Manhattan,21
+2020,Queens,18
+2020,Bronx,11
+2020,Manhattan,9
+2020,Queens,5
+2020,Bronx,18
+2020,Brooklyn,43
+2020,Manhattan,28
+2020,Queens,13
+2020,Staten Island,1
+2020,Bronx,16
+2020,Brooklyn,53
+2020,Outside NYC,1
+2020,Queens,15
+2020,Bronx,7
+2020,Brooklyn,56
+2020,Manhattan,54
+2020,Queens,32
+2020,Staten Island,3
+2020,Bronx,37
+2020,Brooklyn,67
+2020,Manhattan,116
+2020,Queens,2
+2020,Staten Island,7
+2020,Bronx,40
+2020,Brooklyn,1
+2020,Manhattan,27
+2020,Queens,20
+2020,Staten Island,6
+2020,Bronx,22
+2020,Brooklyn,6
+2020,Manhattan,18
+2020,Queens,2
+2020,Bronx,16
+2020,Brooklyn,38
+2020,Manhattan,5
+2020,Queens,25
+2020,Bronx,16
+2020,Brooklyn,54
+2020,Manhattan,65
+2020,Queens,39
+2020,Staten Island,1
+2020,Bronx,21
+2020,Brooklyn,30
+2020,Manhattan,63
+2020,Queens,3
+2020,Staten Island,2
+2020,Bronx,26
+2020,Brooklyn,20
+2020,Manhattan,35
+2020,Queens,15
+2020,Staten Island,4
+2020,BRONX,3
+2020,Bronx,34
+2020,Brooklyn,27
+2020,Manhattan,39
+2020,Queens,36
+2020,Staten Island,19
+2020,Bronx,39
+2020,Brooklyn,48
+2020,Manhattan,4
+2020,Queens,39
+2020,Bronx,12
+2020,Brooklyn,55
+2020,Manhattan,36
+2020,Queens,13
+2020,Staten Island,7
+2020,Bronx,19
+2020,Brooklyn,27
+2020,Manhattan,36
+2020,Queens,7
+2020,Staten Island,13
+2020,BRONX,1
+2020,Bronx,8
+2020,Brooklyn,13
+2020,Manhattan,40
+2020,Queens,8
+2020,Staten Island,10
+2020,BRONX,6
+2020,Bronx,25
+2020,Brooklyn,8
+2020,Bronx,28
+2020,Brooklyn,23
+2020,Manhattan,27
+2020,Queens,19
+2020,Staten Island,2
+2020,BROOKLYN,1
+2020,Bronx,15
+2020,Brooklyn,42
+2020,Manhattan,14
+2020,Queens,27
+2020,Bronx,3
+2020,Brooklyn,60
+2020,Manhattan,50
+2020,Queens,30
+2020,Staten Island,3
+2020,Bronx,26
+2020,Brooklyn,43
+2020,Manhattan,46
+2020,Queens,3
+2020,Staten Island,5
+2020,Bronx,21
+2020,Brooklyn,32
+2020,Manhattan,17
+2020,Queens,14
+2020,Bronx,17
+2020,Brooklyn,4
+2020,Manhattan,1
+2020,Staten Island,2
+2020,Bronx,20
+2020,Brooklyn,22
+2020,Manhattan,20
+2020,Queens,10
+2020,Bronx,37
+2020,Brooklyn,50
+2020,Manhattan,2
+2020,Queens,23
+2020,Staten Island,9
+2020,Bronx,13
+2020,Brooklyn,59
+2020,Manhattan,51
+2020,Outside NYC,1
+2020,Queens,19
+2020,Staten Island,4
+2020,Bronx,14
+2020,Brooklyn,42
+2020,Manhattan,55
+2020,Queens,8
+2020,Bronx,26
+2020,Brooklyn,10
+2020,Manhattan,24
+2020,Queens,4
+2020,Staten Island,6
+2020,Bronx,2
+2020,Brooklyn,10
+2020,Manhattan,2
+2020,Queens,3
+2020,Brooklyn,8
+2020,Queens,2
+2020,Bronx,1
+2020,Manhattan,1
+2020,Queens,3
+2020,Bronx,1
+2020,Manhattan,1
+2020,Queens,3
+2020,Bronx,1
+2020,Manhattan,3
+2020,Staten Island,2
+2020,Manhattan,3
+2020,Queens,3
+2020,Manhattan,3
+2020,Brooklyn,2
+2020,Manhattan,1
+2020,Brooklyn,3
+2020,Queens,4
+2020,Bronx,3
+2020,Brooklyn,1
+2020,Manhattan,4
+2020,Queens,5
+2020,Bronx,1
+2020,Manhattan,8
+2020,Queens,1
+2020,Brooklyn,1
+2020,Manhattan,2
+2020,Queens,5
+2020,Bronx,1
+2020,Brooklyn,4
+2020,Manhattan,5
+2020,Outside NYC,1
+2020,Queens,5
+2020,Brooklyn,5
+2020,Outside NYC,2
+2020,Queens,5
+2020,Bronx,1
+2020,Brooklyn,4
+2020,Manhattan,5
+2020,Outside NYC,1
+2020,Staten Island,1
+2020,Brooklyn,3
+2020,Manhattan,1
+2020,Queens,4
+2020,Brooklyn,2
+2020,Manhattan,3
+2020,Queens,6
+2020,Manhattan,4
+2020,Queens,2
+2020,Bronx,1
+2020,Brooklyn,5
+2020,Manhattan,3
+2020,Queens,2
+2020,Brooklyn,3
+2020,Bronx,1
+2020,Queens,3
+2020,Manhattan,2
+2020,Queens,2
+2020,Brooklyn,1
+2020,Bronx,7
+2020,Queens,3
+2020,Bronx,6
+2020,Brooklyn,5
+2020,Queens,11
+2020,Bronx,2
+2020,Brooklyn,4
+2020,Manhattan,4
+2020,Queens,2
+2020,Bronx,1
+2020,Brooklyn,7
+2020,Manhattan,7
+2020,Bronx,2
+2020,Queens,2
+2020,Staten Island,2
+2020,Bronx,9
+2020,Brooklyn,2
+2020,Manhattan,5
+2020,Brooklyn,5
+2020,Queens,1
+2020,Bronx,2
+2020,Brooklyn,1
+2020,Manhattan,1
+2020,Queens,1
+2020,Bronx,1
+2020,Brooklyn,5
+2020,Manhattan,2
+2020,Queens,4
+2020,Brooklyn,1
+2020,Manhattan,8
+2020,Brooklyn,4
+2020,Outside NYC,2
+2020,Queens,2
+2020,Bronx,6
+2020,Brooklyn,10
+2020,Outside NYC,1
+2020,Staten Island,1
+2020,Brooklyn,2
+2020,Queens,3
+2020,Bronx,1
+2020,Brooklyn,3
+2020,Queens,5
+2020,Brooklyn,1
+2020,Manhattan,3
+2020,Queens,1
+2020,Bronx,11
+2020,Brooklyn,4
+2020,Manhattan,8
+2020,Brooklyn,5
+2020,Bronx,1
+2020,Brooklyn,1
+2020,Queens,4
+2020,Bronx,2
+2020,Brooklyn,3
+2020,Queens,1
+2020,Brooklyn,8
+2020,Manhattan,8
+2020,Queens,4
+2020,Staten Island,3
+2020,Bronx,8
+2020,Brooklyn,9
+2020,Manhattan,9
+2020,Queens,2
+2020,Brooklyn,2
+2020,Manhattan,6
+2020,Queens,1
+2020,Brooklyn,2
+2020,Queens,5
+2020,Brooklyn,4
+2020,Manhattan,10
+2020,Queens,1
+2020,Bronx,3
+2020,Brooklyn,4
+2020,Queens,5
+2020,Bronx,1
+2020,Manhattan,5
+2020,Staten Island,1
+2020,Bronx,12
+2020,Brooklyn,14
+2020,Manhattan,7
+2020,Queens,2
+2020,Bronx,3
+2020,Brooklyn,4
+2020,Manhattan,5
+2020,Queens,2
+2020,Brooklyn,4
+2020,Manhattan,7
+2020,Queens,5
+2020,Bronx,2
+2020,Brooklyn,6
+2020,Manhattan,2
+2020,Queens,2
+2020,Bronx,6
+2020,Manhattan,9
+2020,Queens,6
+2020,Staten Island,1
+2020,Bronx,11
+2020,Brooklyn,9
+2020,Manhattan,7
+2020,Queens,10
+2020,Brooklyn,4
+2020,Manhattan,5
+2020,Queens,6
+2020,Bronx,9
+2020,Brooklyn,5
+2020,Manhattan,2
+2020,Queens,4
+2020,Bronx,6
+2020,Brooklyn,1
+2020,Manhattan,4
+2020,Queens,2
+2020,Bronx,1
+2020,Brooklyn,21
+2020,Manhattan,8
+2020,Outside NYC,1
+2020,Queens,1
+2020,Bronx,1
+2020,Brooklyn,1
+2020,Manhattan,3
+2020,Queens,1
+2020,Brooklyn,7
+2020,Manhattan,1
+2020,Outside NYC,1
+2020,Queens,2
+2020,Bronx,1
+2020,Brooklyn,1
+2020,Manhattan,2
+2020,Queens,3
+2020,Bronx,5
+2020,Manhattan,5
+2020,Brooklyn,5
+2020,Manhattan,4
+2020,Queens,3
+2020,Bronx,4
+2020,Brooklyn,2
+2020,Manhattan,5
+2020,Bronx,3
+2020,Brooklyn,2
+2020,Manhattan,4
+2020,Queens,1
+2020,Bronx,7
+2020,Brooklyn,3
+2020,Manhattan,3
+2020,Bronx,4
+2020,Manhattan,1
+2020,Bronx,4
+2020,Brooklyn,6
+2020,Manhattan,3
+2020,Queens,2
+2020,Bronx,5
+2020,Brooklyn,2
+2020,Brooklyn,2
+2020,Manhattan,1
+2020,Queens,3
+2020,Bronx,3
+2020,Brooklyn,8
+2020,Manhattan,1
+2020,Staten Island,2
+2020,Bronx,4
+2020,Manhattan,1
+2020,Queens,2
+2020,Bronx,3
+2020,Brooklyn,5
+2020,Manhattan,2
+2020,Bronx,2
+2020,Brooklyn,3
+2020,Manhattan,3
+2020,Outside NYC,1
+2020,Queens,3
+2020,Staten Island,2
+2020,Brooklyn,5
+2020,Manhattan,5
+2020,Queens,4
+2020,Bronx,1
+2020,Brooklyn,3
+2020,Manhattan,3
+2020,Staten Island,1
+2020,Bronx,7
+2020,Queens,4
+2020,Manhattan,4
+2020,Queens,1
+2020,Bronx,1
+2020,Manhattan,12
+2020,Outside NYC,1
+2020,Queens,2
+2020,Bronx,4
+2020,Brooklyn,5
+2020,Manhattan,1
+2020,Outside NYC,3
+2020,Bronx,2
+2020,Brooklyn,1
+2020,Manhattan,1
+2020,Bronx,6
+2020,Brooklyn,3
+2020,Manhattan,2
+2020,Queens,4
+2020,Brooklyn,3
+2020,Bronx,3
+2020,Manhattan,2
+2020,Queens,1
+2020,Bronx,3
+2020,Manhattan,5
+2020,Queens,2
+2020,Bronx,3
+2020,Brooklyn,1
+2020,Manhattan,5
+2020,Queens,7
+2020,BRONX,1
+2020,Bronx,3
+2020,Brooklyn,5
+2020,Outside NYC,1
+2020,Queens,1
+2020,Brooklyn,4
+2020,Manhattan,1
+2020,Unknown,1
+2020,Bronx,6
+2020,Brooklyn,5
+2020,Manhattan,1
+2020,Queens,3
+2020,Bronx,1
+2020,Queens,1
+2020,Bronx,2
+2020,Brooklyn,16
+2020,Queens,5
+2020,Staten Island,1
+2020,Bronx,10
+2020,Brooklyn,11
+2020,Manhattan,4
+2020,Outside NYC,1
+2020,Queens,24
+2020,Staten Island,2
+2020,Bronx,3
+2020,Brooklyn,9
+2020,Manhattan,24
+2020,Queens,17
+2020,Staten Island,2
+2020,Bronx,6
+2020,Brooklyn,4
+2020,Queens,21
+2020,Staten Island,2
+2020,Bronx,6
+2020,Brooklyn,3
+2020,Manhattan,1
+2020,Queens,1
+2020,Staten Island,9
+2020,Bronx,11
+2020,Brooklyn,16
+2020,Manhattan,1
+2020,Queens,13
+2020,Brooklyn,35
+2020,Manhattan,32
+2020,Queens,17
+2020,Unknown,2
+2020,Bronx,9
+2020,Brooklyn,16
+2020,Manhattan,8
+2020,Queens,7
+2020,Bronx,7
+2020,Manhattan,10
+2020,Queens,22
+2020,Manhattan,27
+2020,Outside NYC,1
+2020,Queens,9
+2020,Bronx,6
+2020,Brooklyn,24
+2020,Queens,8
+2020,Unknown,6
+2020,Brooklyn,27
+2020,Manhattan,6
+2020,Queens,33
+2020,Bronx,5
+2020,Brooklyn,5
+2020,Manhattan,8
+2020,Outside NYC,1
+2020,Queens,15
+2020,Staten Island,4
+2020,Unknown,4
+2020,Bronx,7
+2020,Manhattan,3
+2020,Queens,16
+2020,Brooklyn,9
+2020,Manhattan,7
+2020,Queens,10
+2020,Staten Island,5
+2020,Bronx,2
+2020,Brooklyn,24
+2020,Queens,18
+2020,Staten Island,1
+2020,Unknown,2
+2020,Brooklyn,25
+2020,Queens,25
+2020,Unknown,4
+2020,Bronx,7
+2020,Brooklyn,3
+2020,Manhattan,8
+2020,Queens,16
+2020,Unknown,4
+2020,Bronx,4
+2020,Manhattan,4
+2020,Unknown,1
+2020,Bronx,5
+2020,Brooklyn,11
+2020,Manhattan,30
+2020,Queens,30
+2020,Staten Island,5
+2020,Unknown,3
+2020,Bronx,13
+2020,Brooklyn,10
+2020,Queens,21
+2020,Staten Island,4
+2020,Unknown,4
+2020,Brooklyn,18
+2020,Manhattan,14
+2020,Queens,29
+2020,Staten Island,4
+2020,Unknown,1
+2020,Bronx,12
+2020,Brooklyn,13
+2020,Manhattan,20
+2020,Queens,31
+2020,Unknown,3
+2020,Bronx,9
+2020,Manhattan,7
+2020,Queens,26
+2020,Bronx,10
+2020,Brooklyn,7
+2020,Manhattan,7
+2020,Queens,34
+2020,Staten Island,1
+2020,Bronx,14
+2020,Brooklyn,21
+2020,Queens,30
+2020,Unknown,8
+2020,Bronx,3
+2020,Brooklyn,20
+2020,Manhattan,18
+2020,Queens,32
+2020,Bronx,13
+2020,Manhattan,5
+2020,Queens,34
+2020,Bronx,31
+2020,Brooklyn,15
+2020,Manhattan,5
+2020,Outside NYC,1
+2020,Queens,32
+2020,Staten Island,9
+2020,Unknown,6
+2020,Bronx,9
+2020,Brooklyn,8
+2020,Queens,14
+2020,Bronx,1
+2020,Brooklyn,7
+2020,Manhattan,19
+2020,Queens,44
+2020,Bronx,27
+2020,Brooklyn,26
+2020,Manhattan,16
+2020,Queens,7
+2020,Staten Island,1
+2020,Bronx,10
+2020,Manhattan,11
+2020,Queens,28
+2020,Bronx,22
+2020,Brooklyn,5
+2020,Manhattan,5
+2020,Queens,12
+2020,Brooklyn,20
+2020,Manhattan,26
+2020,Queens,24
+2020,Staten Island,1
+2020,Unknown,3
+2020,Bronx,11
+2020,Brooklyn,18
+2020,Manhattan,22
+2020,Queens,11
+2020,Bronx,4
+2020,Manhattan,20
+2020,Queens,22
+2020,Unknown,2
+2020,Bronx,11
+2020,Brooklyn,10
+2020,Manhattan,10
+2020,Queens,34
+2020,Staten Island,9
+2020,Bronx,11
+2020,Brooklyn,36
+2020,Manhattan,22
+2020,Outside NYC,2
+2020,Queens,44
+2020,Staten Island,7
+2020,Bronx,10
+2020,Brooklyn,35
+2020,Manhattan,20
+2020,Queens,56
+2020,Staten Island,4
+2020,Bronx,19
+2020,Brooklyn,17
+2020,Manhattan,16
+2020,Outside NYC,2
+2020,Queens,22
+2020,Staten Island,2
+2020,Unknown,1
+2020,Bronx,15
+2020,Manhattan,12
+2020,Outside NYC,1
+2020,Queens,27
+2020,Staten Island,2
+2020,Unknown,3
+2020,Bronx,12
+2020,Brooklyn,25
+2020,Manhattan,32
+2020,Queens,41
+2020,Staten Island,1
+2020,Bronx,10
+2020,Brooklyn,39
+2020,Queens,50
+2020,Bronx,1
+2020,Brooklyn,45
+2020,Manhattan,35
+2020,Queens,56
+2020,Staten Island,3
+2020,Bronx,20
+2020,Brooklyn,46
+2020,Queens,11
+2020,Staten Island,14
+2020,Bronx,8
+2020,Brooklyn,11
+2020,Manhattan,2
+2020,Outside NYC,1
+2020,Queens,26
+2020,Unknown,3
+2020,Bronx,66
+2020,Brooklyn,8
+2020,Manhattan,26
+2020,Queens,35
+2020,Staten Island,9
+2020,Bronx,11
+2020,Brooklyn,11
+2020,Manhattan,15
+2020,Queens,45
+2020,Staten Island,7
+2020,Unknown,1
+2020,Brooklyn,40
+2020,Manhattan,34
+2020,Queens,42
+2020,Unknown,3
+2020,Bronx,12
+2020,Brooklyn,19
+2020,Manhattan,15
+2020,Queens,18
+2020,Staten Island,3
+2020,Bronx,7
+2020,Manhattan,5
+2020,Queens,66
+2020,Bronx,6
+2020,Brooklyn,10
+2020,Manhattan,8
+2020,Queens,17
+2020,Bronx,21
+2020,Brooklyn,23
+2020,Queens,14
+2020,Brooklyn,14
+2020,Manhattan,8
+2020,Queens,11
+2020,Staten Island,4
+2020,Bronx,20
+2020,Brooklyn,10
+2020,Outside NYC,1
+2020,Unknown,1
+2020,Bronx,15
+2020,Brooklyn,3
+2020,Manhattan,2
+2020,Queens,7
+2020,Queens,20
+2020,Bronx,11
+2020,Brooklyn,6
+2020,Queens,16
+2020,Brooklyn,16
+2020,Manhattan,20
+2020,Bronx,18
+2020,Brooklyn,2
+2020,Manhattan,9
+2020,Bronx,21
+2020,Brooklyn,1
+2020,Manhattan,9
+2020,Queens,17
+2020,Brooklyn,2
+2020,Bronx,13
+2020,Brooklyn,4
+2020,Queens,29
+2020,Bronx,7
+2020,Brooklyn,7
+2020,Outside NYC,1
+2020,Queens,41
+2020,Bronx,9
+2020,Brooklyn,15
+2020,Manhattan,4
+2020,Queens,37
+2020,Unknown,1
+2020,Bronx,5
+2020,Brooklyn,18
+2020,Manhattan,5
+2020,Unknown,4
+2020,Bronx,17
+2020,Manhattan,9
+2020,Queens,41
+2020,Bronx,11
+2020,Brooklyn,43
+2020,Manhattan,9
+2020,Queens,30
+2020,Staten Island,2
+2020,Bronx,10
+2020,Brooklyn,19
+2020,Manhattan,1
+2020,Queens,35
+2020,Bronx,20
+2020,Brooklyn,15
+2020,Manhattan,29
+2020,Queens,34
+2020,Staten Island,5
+2020,Bronx,20
+2020,Brooklyn,7
+2020,Manhattan,23
+2020,Queens,3
+2020,Unknown,3
+2020,Bronx,15
+2020,Brooklyn,1
+2020,Manhattan,15
+2020,Queens,16
+2020,Bronx,12
+2020,Brooklyn,8
+2020,Manhattan,26
+2020,Queens,43
+2020,Unknown,2
+2020,Bronx,9
+2020,Brooklyn,6
+2020,Queens,33
+2020,Bronx,6
+2020,Brooklyn,11
+2020,Manhattan,23
+2020,Queens,5
+2020,Bronx,12
+2020,Manhattan,9
+2020,Queens,39
+2020,Bronx,6
+2020,Brooklyn,14
+2020,Manhattan,13
+2020,Queens,32
+2020,Brooklyn,14
+2020,Manhattan,2
+2020,Queens,28
+2020,Staten Island,1
+2020,Bronx,3
+2020,Brooklyn,15
+2020,Manhattan,11
+2020,Bronx,14
+2020,Brooklyn,3
+2020,Manhattan,12
+2020,Queens,31
+2020,Bronx,8
+2020,Brooklyn,11
+2020,Manhattan,1
+2020,Queens,15
+2020,Staten Island,4
+2020,Bronx,9
+2020,Brooklyn,8
+2020,Queens,24
+2020,Staten Island,1
+2020,Brooklyn,16
+2020,Queens,15
+2020,Staten Island,6
+2020,Bronx,6
+2020,Brooklyn,8
+2020,Manhattan,19
+2020,Bronx,5
+2020,Brooklyn,1
+2020,Manhattan,15
+2020,Queens,16
+2020,Staten Island,5
+2020,Bronx,6
+2020,Brooklyn,5
+2020,Manhattan,7
+2020,Queens,7
+2020,Bronx,19
+2020,Brooklyn,11
+2020,Queens,10
+2020,Brooklyn,13
+2020,Manhattan,8
+2020,Queens,21
+2020,Queens,22
+2020,Manhattan,13
+2020,Bronx,11
+2020,Brooklyn,3
+2020,Manhattan,11
+2020,Queens,22
+2020,Bronx,9
+2020,Brooklyn,16
+2020,Manhattan,2
+2020,Queens,15
+2020,Bronx,28
+2020,Brooklyn,4
+2020,Manhattan,7
+2020,Queens,11
+2020,Staten Island,2
+2020,Bronx,5
+2020,Brooklyn,22
+2020,Manhattan,30
+2020,Bronx,15
+2020,Manhattan,16
+2020,Queens,9
+2020,Queens,9
+2020,Bronx,18
+2020,Brooklyn,3
+2020,Manhattan,11
+2020,Outside NYC,1
+2020,Queens,22
+2020,Staten Island,4
+2020,Bronx,32
+2020,Brooklyn,12
+2020,Manhattan,1
+2020,Outside NYC,1
+2020,Queens,27
+2020,Staten Island,2
+2020,Brooklyn,7
+2020,Manhattan,39
+2020,Outside NYC,2
+2020,Queens,23
+2020,Bronx,7
+2020,Brooklyn,14
+2020,Manhattan,1
+2020,Staten Island,2
+2020,Bronx,4
+2020,Manhattan,5
+2020,Queens,12
+2020,Brooklyn,11
+2020,Bronx,6
+2020,Brooklyn,2
+2020,Manhattan,2
+2020,Outside NYC,2
+2020,Queens,16
+2020,Bronx,22
+2020,Brooklyn,9
+2020,Queens,21
+2020,Staten Island,24
+2020,Unknown,3
+2020,Bronx,2
+2020,Brooklyn,2
+2020,Manhattan,18
+2020,Outside NYC,1
+2020,Queens,9
+2020,Bronx,5
+2020,Manhattan,10
+2020,Queens,10
+2020,Queens,24
+2020,Bronx,9
+2020,Brooklyn,6
+2020,Manhattan,22
+2020,Queens,13
+2020,Bronx,20
+2020,Brooklyn,8
+2020,Manhattan,8
+2020,Queens,19
+2020,Bronx,5
+2020,Brooklyn,10
+2020,Manhattan,8
+2020,Queens,15
+2020,Staten Island,1
+2020,Brooklyn,2
+2020,Manhattan,13
+2020,Queens,13
+2020,Bronx,11
+2020,Brooklyn,5
+2020,Manhattan,12
+2020,Queens,9
+2020,Staten Island,6
+2020,Bronx,16
+2020,Brooklyn,12
+2020,Manhattan,1
+2020,Queens,17
+2020,Staten Island,8
+2020,Bronx,1
+2020,Brooklyn,17
+2020,Manhattan,4
+2020,Queens,22
+2020,Bronx,3
+2020,Brooklyn,12
+2020,Manhattan,5
+2020,Queens,4
+2021,Bronx,4
+2021,Brooklyn,7
+2021,Manhattan,4
+2021,Queens,8
+2021,Staten Island,1
+2021,Bronx,8
+2021,Brooklyn,3
+2021,Queens,4
+2021,Bronx,17
+2021,Brooklyn,7
+2021,Manhattan,16
+2021,Queens,12
+2021,Staten Island,10
+2021,Bronx,10
+2021,Brooklyn,8
+2021,Manhattan,5
+2021,Staten Island,1
+2021,Bronx,7
+2021,Manhattan,8
+2021,Queens,11
+2021,Brooklyn,34
+2021,Bronx,2
+2021,Outside NYC,14
+2021,Bronx,9
+2021,Brooklyn,6
+2021,Queens,22
+2021,Brooklyn,22
+2021,Manhattan,11
+2021,Queens,10
+2021,Staten Island,9
+2021,Bronx,2
+2021,Brooklyn,28
+2021,Manhattan,28
+2021,Queens,5
+2021,Staten Island,7
+2021,Bronx,6
+2021,Brooklyn,2
+2021,Manhattan,8
+2021,Queens,10
+2021,Bronx,24
+2021,Bronx,4
+2021,Brooklyn,6
+2021,Queens,21
+2021,Bronx,11
+2021,Brooklyn,3
+2021,Manhattan,5
+2021,Queens,6
+2021,Bronx,12
+2021,Brooklyn,20
+2021,Manhattan,11
+2021,Queens,13
+2021,Staten Island,4
+2021,Bronx,10
+2021,Manhattan,18
+2021,Queens,8
+2021,Bronx,12
+2021,Brooklyn,11
+2021,Manhattan,19
+2021,Queens,13
+2021,Staten Island,1
+2021,Bronx,11
+2021,Brooklyn,11
+2021,Queens,25
