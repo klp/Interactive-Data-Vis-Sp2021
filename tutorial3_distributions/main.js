@@ -33,9 +33,11 @@ function init() {
     .domain(d3.extent(state.data, d => d.comments))
     .range([margin.left, width - margin.right])
 
+
   yScale = d3.scaleLog()
     .domain(d3.extent(state.data, d => d.score))
     .range([height - margin.bottom, margin.bottom])
+
 
   colorScale = d3.scaleOrdinal()
     .domain(["investing", "stocks", "wallstreetbets"])
