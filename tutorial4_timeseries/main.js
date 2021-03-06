@@ -23,7 +23,7 @@ let state = {
 // + SET YOUR DATA PATH
 d3.csv('../data/nyc_dca_charges_cleaned_processed.csv', d => {
   return {
-  date: new Date(+d.violation_year, 0, 1),
+  year: new Date(+d.violation_year, 0, 1),
   borough: d.borough,
   count_charges: +d.count_violation_by_date_borough
   }
@@ -40,7 +40,7 @@ d3.csv('../data/nyc_dca_charges_cleaned_processed.csv', d => {
 function init() {
   // + SCALES
   xScale = d3.scaleLinear()
-    .domain(d3.extent(state.data, d => d.date))
+    .domain(d3.extent(state.data, d => d.year))
     .range([margin.left, width - margin.right])
   
   yScale = d3.scaleLinear()
@@ -121,16 +121,16 @@ function draw() {
   // + DRAW CIRCLES/LABEL GROUPS, if you decide to
   const dots = svg 
     .selectAll(".dot")
-    .data(filteredByBorough, d => d.violation_date)
+    .data(filteredByBorough, d => d.year)
     .join(
       enter => enter.append("g")
         .attr("class", "dot")
-        .attr("transform", d => `translate(${xScale(d.violation_date)}, ${yScale(d.count_charges)})`)
+        .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`)
       ,
       update => update.transition()
         .call(update => update.transition()
           .duration(900)
-          .attr("transform", d => `translate(${xScale(d.violation_date)}, ${yScale(d.count_charges)})`)
+          .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`)
       ),
       exit => exit.remove()
     );
@@ -142,7 +142,7 @@ function draw() {
 
   // + DEFINE AREA GENERATOR FUNCTION
   const area = d3.area()
-    .x(d => x(d.violation_date))
+    .x(d => x(d.year))
     .y1(d => y(d.count_charges))
     .y0(y(0));
 

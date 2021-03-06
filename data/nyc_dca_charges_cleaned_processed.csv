@@ -197,7 +197,7 @@ violation_year,borough,count_violation_by_date_borough
 2014,Queens,12
 2014,Bronx,9
 2014,Brooklyn,13
-2014,BRONX,1
+2014,Bronx,1
 2014,Bronx,7
 2014,Brooklyn,29
 2014,Manhattan,16
@@ -263,7 +263,7 @@ violation_year,borough,count_violation_by_date_borough
 2014,Outside NYC,1
 2014,Queens,13
 2014,Staten Island,5
-2014,BRONX,1
+2014,Bronx,1
 2014,Bronx,19
 2014,Brooklyn,30
 2014,Manhattan,3
@@ -416,7 +416,7 @@ violation_year,borough,count_violation_by_date_borough
 2014,Queens,21
 2014,Staten Island,26
 2014,Unknown,18
-2014,BRONX,2
+2014,Bronx,2
 2014,Bronx,36
 2014,Brooklyn,27
 2014,Manhattan,41
@@ -605,7 +605,7 @@ violation_year,borough,count_violation_by_date_borough
 2014,Manhattan,5
 2014,Queens,38
 2014,Staten Island,6
-2014,BROOKLYN,2
+2014,Brooklyn,2
 2014,Bronx,8
 2014,Brooklyn,5
 2014,Manhattan,25
@@ -922,7 +922,7 @@ violation_year,borough,count_violation_by_date_borough
 2014,Queens,5
 2014,Staten Island,1
 2014,Unknown,6
-2014,BROOKLYN,1
+2014,Brooklyn,1
 2014,Bronx,4
 2014,Brooklyn,4
 2014,Manhattan,22
@@ -1673,7 +1673,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,11
 2015,Queens,10
 2015,Staten Island,14
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,2
 2015,Brooklyn,51
 2015,Manhattan,23
@@ -1703,7 +1703,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Outside NYC,9
 2015,Queens,5
 2015,Staten Island,3
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,12
 2015,Brooklyn,30
 2015,Manhattan,12
@@ -1880,7 +1880,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,13
 2015,Queens,15
 2015,Staten Island,10
-2015,BROOKLYN,2
+2015,Brooklyn,2
 2015,Bronx,10
 2015,Brooklyn,39
 2015,Manhattan,7
@@ -1891,7 +1891,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,39
 2015,Queens,13
 2015,Staten Island,3
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,2
 2015,Brooklyn,24
 2015,Manhattan,24
@@ -1997,14 +1997,14 @@ violation_year,borough,count_violation_by_date_borough
 2015,Bronx,15
 2015,Brooklyn,43
 2015,Queens,21
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,1
 2015,Brooklyn,31
 2015,Manhattan,36
 2015,Queens,20
 2015,Staten Island,3
 2015,Unknown,5
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,12
 2015,Brooklyn,29
 2015,Manhattan,30
@@ -2036,7 +2036,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,11
 2015,Queens,25
 2015,Staten Island,2
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,12
 2015,Brooklyn,41
 2015,Manhattan,39
@@ -2112,7 +2112,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Bronx,26
 2015,Brooklyn,38
 2015,Queens,34
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,13
 2015,Brooklyn,33
 2015,Manhattan,27
@@ -2155,7 +2155,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,1
 2015,Manhattan,1
 2015,Queens,17
-2015,BROOKLYN,2
+2015,Brooklyn,2
 2015,Bronx,8
 2015,Brooklyn,22
 2015,Manhattan,15
@@ -2189,7 +2189,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,30
 2015,Manhattan,19
 2015,Staten Island,7
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,4
 2015,Brooklyn,17
 2015,Manhattan,36
@@ -2201,7 +2201,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Bronx,18
 2015,Manhattan,3
 2015,Queens,9
-2015,BRONX,5
+2015,Bronx,5
 2015,Bronx,24
 2015,Brooklyn,1
 2015,Manhattan,23
@@ -2211,21 +2211,21 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,20
 2015,Manhattan,6
 2015,Queens,16
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Bronx,7
 2015,Brooklyn,35
 2015,Manhattan,23
 2015,Queens,18
 2015,Staten Island,11
-2015,BRONX,2
-2015,BROOKLYN,1
+2015,Bronx,2
+2015,Brooklyn,1
 2015,Bronx,11
 2015,Brooklyn,20
 2015,Manhattan,19
 2015,Queens,2
 2015,Staten Island,1
-2015,BRONX,6
-2015,BROOKLYN,3
+2015,Bronx,6
+2015,Brooklyn,3
 2015,Bronx,8
 2015,Brooklyn,5
 2015,Manhattan,30
@@ -2246,19 +2246,19 @@ violation_year,borough,count_violation_by_date_borough
 2015,Bronx,3
 2015,Brooklyn,21
 2015,Queens,21
-2015,BROOKLYN,2
+2015,Brooklyn,2
 2015,Bronx,15
 2015,Brooklyn,23
 2015,Manhattan,21
 2015,Queens,27
 2015,Staten Island,6
-2015,BRONX,1
-2015,BROOKLYN,5
+2015,Bronx,1
+2015,Brooklyn,5
 2015,Bronx,3
 2015,Brooklyn,30
 2015,Manhattan,25
 2015,Staten Island,4
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,11
 2015,Brooklyn,17
 2015,Manhattan,19
@@ -2273,7 +2273,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,18
 2015,Queens,20
 2015,Staten Island,9
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,26
 2015,Brooklyn,17
 2015,Manhattan,2
@@ -2283,7 +2283,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,20
 2015,Queens,28
 2015,Staten Island,8
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,1
 2015,Brooklyn,13
 2015,Manhattan,25
@@ -2360,7 +2360,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Staten Island,8
 2015,Brooklyn,3
 2015,Manhattan,2
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,8
 2015,Manhattan,24
 2015,Queens,16
@@ -2373,7 +2373,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,12
 2015,Queens,19
 2015,Staten Island,11
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,33
 2015,Brooklyn,30
 2015,Manhattan,29
@@ -2420,7 +2420,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,16
 2015,Manhattan,2
 2015,Queens,14
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Brooklyn,44
 2015,Manhattan,23
 2015,Queens,16
@@ -2429,7 +2429,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,24
 2015,Manhattan,31
 2015,Queens,8
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,13
 2015,Brooklyn,21
 2015,Manhattan,11
@@ -2551,7 +2551,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Bronx,17
 2015,Manhattan,52
 2015,Queens,29
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,22
 2015,Brooklyn,16
 2015,Queens,38
@@ -2572,7 +2572,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,15
 2015,Manhattan,17
 2015,Staten Island,3
-2015,BROOKLYN,1
+2015,Brooklyn,1
 2015,Brooklyn,10
 2015,Manhattan,2
 2015,Bronx,12
@@ -2832,7 +2832,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,30
 2015,Queens,34
 2015,Staten Island,1
-2015,BRONX,2
+2015,Bronx,2
 2015,Bronx,7
 2015,Brooklyn,33
 2015,Manhattan,6
@@ -2854,7 +2854,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,8
 2015,Manhattan,10
 2015,Queens,4
-2015,BRONX,1
+2015,Bronx,1
 2015,Bronx,12
 2015,Brooklyn,4
 2015,Manhattan,17
@@ -2874,7 +2874,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Manhattan,17
 2015,Outside NYC,1
 2015,Queens,3
-2015,BROOKLYN,2
+2015,Brooklyn,2
 2015,Bronx,11
 2015,Brooklyn,19
 2015,Manhattan,29
@@ -2918,7 +2918,7 @@ violation_year,borough,count_violation_by_date_borough
 2015,Brooklyn,22
 2015,Manhattan,4
 2015,Queens,38
-2015,BRONX,5
+2015,Bronx,5
 2015,Bronx,19
 2015,Brooklyn,32
 2015,Manhattan,39
@@ -3014,7 +3014,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Bronx,17
 2016,Brooklyn,38
 2016,Manhattan,31
-2016,BRONX,1
+2016,Bronx,1
 2016,Bronx,10
 2016,Brooklyn,21
 2016,Manhattan,45
@@ -3124,7 +3124,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Brooklyn,4
 2016,Manhattan,5
 2016,Queens,6
-2016,BRONX,1
+2016,Bronx,1
 2016,Bronx,19
 2016,Manhattan,34
 2016,Queens,50
@@ -3278,7 +3278,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,38
 2016,Queens,15
 2016,Staten Island,2
-2016,BRONX,2
+2016,Bronx,2
 2016,Bronx,12
 2016,Brooklyn,46
 2016,Manhattan,61
@@ -3335,7 +3335,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Brooklyn,44
 2016,Manhattan,44
 2016,Queens,25
-2016,BRONX,1
+2016,Bronx,1
 2016,Bronx,17
 2016,Brooklyn,49
 2016,Manhattan,51
@@ -3562,7 +3562,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,37
 2016,Queens,1
 2016,Staten Island,23
-2016,BROOKLYN,3
+2016,Brooklyn,3
 2016,Bronx,14
 2016,Brooklyn,28
 2016,Manhattan,30
@@ -3589,7 +3589,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,30
 2016,Queens,18
 2016,Staten Island,2
-2016,BROOKLYN,1
+2016,Brooklyn,1
 2016,Bronx,11
 2016,Brooklyn,39
 2016,Manhattan,26
@@ -3713,7 +3713,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,20
 2016,Queens,35
 2016,Staten Island,17
-2016,BROOKLYN,2
+2016,Brooklyn,2
 2016,Bronx,31
 2016,Brooklyn,33
 2016,Manhattan,20
@@ -3778,7 +3778,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,17
 2016,Queens,10
 2016,Staten Island,6
-2016,BROOKLYN,1
+2016,Brooklyn,1
 2016,Bronx,34
 2016,Brooklyn,52
 2016,Manhattan,2
@@ -3807,7 +3807,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Bronx,34
 2016,Brooklyn,26
 2016,Queens,21
-2016,BROOKLYN,1
+2016,Brooklyn,1
 2016,Bronx,8
 2016,Brooklyn,29
 2016,Manhattan,26
@@ -3852,7 +3852,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Outside NYC,3
 2016,Queens,28
 2016,Staten Island,3
-2016,BROOKLYN,1
+2016,Brooklyn,1
 2016,Bronx,21
 2016,Brooklyn,30
 2016,Manhattan,11
@@ -3900,7 +3900,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Outside NYC,10
 2016,Queens,17
 2016,Staten Island,10
-2016,BROOKLYN,3
+2016,Brooklyn,3
 2016,Bronx,39
 2016,Brooklyn,40
 2016,Queens,31
@@ -3909,7 +3909,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,21
 2016,Queens,24
 2016,Staten Island,2
-2016,BROOKLYN,1
+2016,Brooklyn,1
 2016,Bronx,4
 2016,Brooklyn,41
 2016,Manhattan,29
@@ -3929,7 +3929,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Bronx,3
 2016,Manhattan,14
 2016,Queens,13
-2016,BROOKLYN,2
+2016,Brooklyn,2
 2016,Bronx,17
 2016,Brooklyn,26
 2016,Manhattan,8
@@ -4007,7 +4007,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,25
 2016,Queens,4
 2016,Staten Island,2
-2016,BRONX,1
+2016,Bronx,1
 2016,Bronx,12
 2016,Brooklyn,25
 2016,Manhattan,12
@@ -4139,7 +4139,7 @@ violation_year,borough,count_violation_by_date_borough
 2016,Manhattan,12
 2016,Queens,24
 2016,Staten Island,3
-2016,BRONX,1
+2016,Bronx,1
 2016,Bronx,40
 2016,Brooklyn,59
 2016,Manhattan,10
@@ -4422,7 +4422,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Bronx,23
 2017,Brooklyn,54
 2017,Queens,24
-2017,BROOKLYN,1
+2017,Brooklyn,1
 2017,Brooklyn,118
 2017,Manhattan,26
 2017,Queens,23
@@ -4981,7 +4981,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Brooklyn,61
 2017,Manhattan,9
 2017,Queens,24
-2017,BRONX,1
+2017,Bronx,1
 2017,Bronx,16
 2017,Brooklyn,70
 2017,Manhattan,78
@@ -5010,7 +5010,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Brooklyn,55
 2017,Manhattan,49
 2017,Queens,1
-2017,BROOKLYN,1
+2017,Brooklyn,1
 2017,Bronx,22
 2017,Brooklyn,51
 2017,Manhattan,45
@@ -5266,7 +5266,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Manhattan,26
 2017,Queens,8
 2017,Staten Island,3
-2017,BROOKLYN,1
+2017,Brooklyn,1
 2017,Bronx,24
 2017,Brooklyn,50
 2017,Manhattan,32
@@ -5369,7 +5369,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Bronx,23
 2017,Brooklyn,77
 2017,Manhattan,38
-2017,BRONX,2
+2017,Bronx,2
 2017,Bronx,2
 2017,Brooklyn,6
 2017,Manhattan,1
@@ -5448,7 +5448,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Manhattan,26
 2017,Queens,23
 2017,Staten Island,1
-2017,BRONX,3
+2017,Bronx,3
 2017,Bronx,19
 2017,Brooklyn,61
 2017,Manhattan,26
@@ -5469,7 +5469,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Manhattan,9
 2017,Queens,22
 2017,Staten Island,1
-2017,BROOKLYN,1
+2017,Brooklyn,1
 2017,Bronx,1
 2017,Brooklyn,30
 2017,Manhattan,2
@@ -5533,7 +5533,7 @@ violation_year,borough,count_violation_by_date_borough
 2017,Bronx,16
 2017,Manhattan,21
 2017,Queens,30
-2017,BROOKLYN,2
+2017,Brooklyn,2
 2017,Bronx,6
 2017,Brooklyn,47
 2017,Queens,19
@@ -5691,7 +5691,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,38
 2018,Queens,33
 2018,Staten Island,3
-2018,BROOKLYN,1
+2018,Brooklyn,1
 2018,Bronx,7
 2018,Brooklyn,59
 2018,Manhattan,33
@@ -5762,7 +5762,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Outside NYC,1
 2018,Queens,18
 2018,Staten Island,2
-2018,BRONX,2
+2018,Bronx,2
 2018,Bronx,16
 2018,Brooklyn,58
 2018,Queens,33
@@ -5800,7 +5800,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,24
 2018,Queens,10
 2018,Staten Island,10
-2018,BRONX,1
+2018,Bronx,1
 2018,Bronx,26
 2018,Brooklyn,49
 2018,Manhattan,47
@@ -5901,7 +5901,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,4
 2018,Queens,1
 2018,Staten Island,5
-2018,BRONX,4
+2018,Bronx,4
 2018,Bronx,22
 2018,Brooklyn,7
 2018,Manhattan,38
@@ -5910,7 +5910,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Bronx,18
 2018,Brooklyn,37
 2018,Queens,26
-2018,BRONX,1
+2018,Bronx,1
 2018,Brooklyn,3
 2018,Bronx,5
 2018,Brooklyn,45
@@ -6009,7 +6009,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Outside NYC,10
 2018,Queens,44
 2018,Staten Island,11
-2018,BRONX,1
+2018,Bronx,1
 2018,Bronx,15
 2018,Brooklyn,55
 2018,Manhattan,17
@@ -6225,7 +6225,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Bronx,12
 2018,Brooklyn,27
 2018,Queens,26
-2018,BROOKLYN,3
+2018,Brooklyn,3
 2018,Brooklyn,41
 2018,Manhattan,36
 2018,Queens,23
@@ -6374,7 +6374,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Brooklyn,34
 2018,Manhattan,8
 2018,Queens,20
-2018,BRONX,1
+2018,Bronx,1
 2018,Bronx,1
 2018,Brooklyn,51
 2018,Manhattan,26
@@ -6404,7 +6404,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,32
 2018,Queens,19
 2018,Staten Island,2
-2018,BROOKLYN,1
+2018,Brooklyn,1
 2018,Bronx,6
 2018,Brooklyn,50
 2018,Manhattan,36
@@ -6567,7 +6567,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,32
 2018,Queens,22
 2018,Staten Island,1
-2018,BRONX,3
+2018,Bronx,3
 2018,Bronx,6
 2018,Brooklyn,32
 2018,Manhattan,21
@@ -6679,7 +6679,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Bronx,10
 2018,Manhattan,13
 2018,Queens,8
-2018,BRONX,3
+2018,Bronx,3
 2018,Bronx,9
 2018,Brooklyn,4
 2018,Queens,4
@@ -6732,7 +6732,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,40
 2018,Queens,22
 2018,Staten Island,1
-2018,BRONX,5
+2018,Bronx,5
 2018,Bronx,28
 2018,Brooklyn,6
 2018,Queens,4
@@ -6743,7 +6743,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,19
 2018,Queens,30
 2018,Staten Island,3
-2018,BRONX,1
+2018,Bronx,1
 2018,Bronx,14
 2018,Brooklyn,45
 2018,Queens,50
@@ -6797,7 +6797,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Brooklyn,30
 2018,Manhattan,58
 2018,Queens,26
-2018,BRONX,2
+2018,Bronx,2
 2018,Bronx,7
 2018,Brooklyn,28
 2018,Manhattan,40
@@ -6816,7 +6816,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Brooklyn,5
 2018,Queens,6
 2018,Bronx,3
-2018,BRONX,2
+2018,Bronx,2
 2018,Bronx,20
 2018,Brooklyn,26
 2018,Outside NYC,1
@@ -6877,7 +6877,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Brooklyn,53
 2018,Manhattan,46
 2018,Queens,72
-2018,BRONX,2
+2018,Bronx,2
 2018,Bronx,17
 2018,Brooklyn,42
 2018,Manhattan,38
@@ -6911,7 +6911,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Manhattan,52
 2018,Outside NYC,5
 2018,Queens,35
-2018,BRONX,3
+2018,Bronx,3
 2018,Bronx,18
 2018,Brooklyn,80
 2018,Manhattan,30
@@ -6991,7 +6991,7 @@ violation_year,borough,count_violation_by_date_borough
 2018,Brooklyn,27
 2018,Manhattan,13
 2018,Staten Island,12
-2018,BRONX,2
+2018,Bronx,2
 2018,Bronx,7
 2018,Manhattan,19
 2018,Queens,11
@@ -7101,7 +7101,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Bronx,10
 2019,Brooklyn,5
 2019,Queens,20
-2019,BRONX,1
+2019,Bronx,1
 2019,Bronx,34
 2019,Brooklyn,45
 2019,Manhattan,38
@@ -7308,7 +7308,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Bronx,33
 2019,Brooklyn,26
 2019,Queens,28
-2019,BROOKLYN,2
+2019,Brooklyn,2
 2019,Brooklyn,56
 2019,Manhattan,57
 2019,Queens,26
@@ -7446,7 +7446,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Brooklyn,25
 2019,Manhattan,8
 2019,Queens,45
-2019,BRONX,4
+2019,Bronx,4
 2019,Brooklyn,44
 2019,Manhattan,40
 2019,Queens,41
@@ -7486,7 +7486,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,34
 2019,Queens,35
 2019,Staten Island,14
-2019,BRONX,2
+2019,Bronx,2
 2019,Bronx,20
 2019,Brooklyn,42
 2019,Manhattan,5
@@ -7510,7 +7510,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Brooklyn,19
 2019,Manhattan,4
 2019,Queens,6
-2019,BROOKLYN,1
+2019,Brooklyn,1
 2019,Bronx,19
 2019,Brooklyn,38
 2019,Manhattan,42
@@ -7523,7 +7523,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,36
 2019,Queens,24
 2019,Staten Island,9
-2019,BRONX,1
+2019,Bronx,1
 2019,Bronx,30
 2019,Brooklyn,43
 2019,Manhattan,58
@@ -7822,9 +7822,9 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,17
 2019,Queens,14
 2019,Staten Island,6
-2019,BRONX,2
+2019,Bronx,2
 2019,Bronx,1
-2019,BRONX,1
+2019,Bronx,1
 2019,Bronx,8
 2019,Brooklyn,49
 2019,Manhattan,31
@@ -7840,7 +7840,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Outside NYC,4
 2019,Queens,40
 2019,Staten Island,8
-2019,BROOKLYN,4
+2019,Brooklyn,4
 2019,Bronx,1
 2019,Brooklyn,49
 2019,Manhattan,46
@@ -7903,7 +7903,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,59
 2019,Queens,38
 2019,Staten Island,7
-2019,BRONX,3
+2019,Bronx,3
 2019,Bronx,8
 2019,Brooklyn,43
 2019,Manhattan,53
@@ -7959,7 +7959,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,28
 2019,Queens,46
 2019,Staten Island,7
-2019,BROOKLYN,7
+2019,Brooklyn,7
 2019,Bronx,5
 2019,Brooklyn,40
 2019,Manhattan,50
@@ -8009,7 +8009,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,32
 2019,Queens,30
 2019,Staten Island,17
-2019,BROOKLYN,1
+2019,Brooklyn,1
 2019,Bronx,7
 2019,Brooklyn,39
 2019,Manhattan,2
@@ -8036,7 +8036,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Brooklyn,11
 2019,Manhattan,3
 2019,Queens,2
-2019,BROOKLYN,3
+2019,Brooklyn,3
 2019,Bronx,9
 2019,Brooklyn,35
 2019,Manhattan,32
@@ -8105,7 +8105,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Manhattan,32
 2019,Queens,29
 2019,Staten Island,5
-2019,BROOKLYN,1
+2019,Brooklyn,1
 2019,Bronx,14
 2019,Brooklyn,49
 2019,Manhattan,15
@@ -8353,7 +8353,7 @@ violation_year,borough,count_violation_by_date_borough
 2019,Queens,18
 2019,Staten Island,3
 2019,Unknown,1
-2019,BROOKLYN,1
+2019,Brooklyn,1
 2019,Bronx,11
 2019,Brooklyn,24
 2019,Queens,16
@@ -8367,7 +8367,7 @@ violation_year,borough,count_violation_by_date_borough
 2020,Manhattan,34
 2020,Queens,4
 2020,Staten Island,5
-2020,BRONX,5
+2020,Bronx,5
 2020,Bronx,12
 2020,Manhattan,30
 2020,Queens,4
@@ -8552,7 +8552,7 @@ violation_year,borough,count_violation_by_date_borough
 2020,Manhattan,35
 2020,Queens,15
 2020,Staten Island,4
-2020,BRONX,3
+2020,Bronx,3
 2020,Bronx,34
 2020,Brooklyn,27
 2020,Manhattan,39
@@ -8572,13 +8572,13 @@ violation_year,borough,count_violation_by_date_borough
 2020,Manhattan,36
 2020,Queens,7
 2020,Staten Island,13
-2020,BRONX,1
+2020,Bronx,1
 2020,Bronx,8
 2020,Brooklyn,13
 2020,Manhattan,40
 2020,Queens,8
 2020,Staten Island,10
-2020,BRONX,6
+2020,Bronx,6
 2020,Bronx,25
 2020,Brooklyn,8
 2020,Bronx,28
@@ -8586,7 +8586,7 @@ violation_year,borough,count_violation_by_date_borough
 2020,Manhattan,27
 2020,Queens,19
 2020,Staten Island,2
-2020,BROOKLYN,1
+2020,Brooklyn,1
 2020,Bronx,15
 2020,Brooklyn,42
 2020,Manhattan,14
@@ -8903,7 +8903,7 @@ violation_year,borough,count_violation_by_date_borough
 2020,Brooklyn,1
 2020,Manhattan,5
 2020,Queens,7
-2020,BRONX,1
+2020,Bronx,1
 2020,Bronx,3
 2020,Brooklyn,5
 2020,Outside NYC,1
