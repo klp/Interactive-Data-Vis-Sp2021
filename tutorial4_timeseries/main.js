@@ -124,6 +124,7 @@ function draw() {
     .join(
       enter => enter.append("g")
         .attr("class", "dot")
+        .attr("fill", d => colorScale(d.borough))
         .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`)
       ,
       update => update
@@ -139,20 +140,19 @@ function draw() {
       .join("circle")
       .attr("r", radius)
 
-  // // + DEFINE AREA GENERATOR FUNCTION
-  // const area = d3.area()
-  //   .x(d => x(d.year))
-  //   .y1(d => y(d.count_charges))
-  //   .y0(y(0));
+  // + DEFINE AREA GENERATOR FUNCTION
+  const lineGen = d3.line()
+    .x(d => xScale(d.year))
+    .y(d => yScale(d.count_charges))
 
-  // // + DRAW LINE AND/OR AREA
-  // svg.selectAll(".area")
-  // .data([filteredData]) // data needs to take an []
-  // .join("path")
-  // .attr("class", 'area')
-  // .attr("fill", d => colorScale(d.borough))
-  // .attr("stroke", "black")
-  // .transition()
-  // .duration(1000)
-  // .attr("d", d => lineGen(d))
+  // + DRAW LINE AND/OR AREA
+  svg.selectAll(".line")
+  .data([filteredByBorough]) // data needs to take an []
+  .join("path")
+  .attr("class", 'line')
+  .attr("fill", "none")
+  .attr("stroke", "magenta")
+  .transition()
+  .duration(1000)
+  .attr("d", d => lineGen(d))
 }
