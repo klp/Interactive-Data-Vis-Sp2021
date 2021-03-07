@@ -97,7 +97,7 @@ function init() {
   
   yAxisGroup.append("text")
     .attr("class", 'axis_title')
-    .attr("x", -40)
+    .attr("x", -80)
     .attr("y", height / 2)
     .attr("writing-mode", "vertical-lr")
     .attr("text-archor", "middle")
@@ -124,8 +124,9 @@ function draw() {
     .join(
       enter => enter.append("g")
         .attr("class", "dot")
-        .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`),
-      update => update.transition()
+        .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`)
+      ,
+      update => update
         .call(update => update.transition()
           .duration(900)
           .attr("transform", d => `translate(${xScale(d.year)}, ${yScale(d.count_charges)})`)
@@ -138,20 +139,20 @@ function draw() {
       .join("circle")
       .attr("r", radius)
 
-  // + DEFINE AREA GENERATOR FUNCTION
-  const area = d3.area()
-    .x(d => x(d.year))
-    .y1(d => y(d.count_charges))
-    .y0(y(0));
+  // // + DEFINE AREA GENERATOR FUNCTION
+  // const area = d3.area()
+  //   .x(d => x(d.year))
+  //   .y1(d => y(d.count_charges))
+  //   .y0(y(0));
 
-  // + DRAW LINE AND/OR AREA
-  svg.selectAll(".area")
-  .data([filteredData]) // data needs to take an []
-  .join("path")
-  .attr("class", 'area')
-  .attr("fill", d => colorScale(d.borough))
-  .attr("stroke", "black")
-  .transition()
-  .duration(1000)
-  .attr("d", d => lineGen(d))
+  // // + DRAW LINE AND/OR AREA
+  // svg.selectAll(".area")
+  // .data([filteredData]) // data needs to take an []
+  // .join("path")
+  // .attr("class", 'area')
+  // .attr("fill", d => colorScale(d.borough))
+  // .attr("stroke", "black")
+  // .transition()
+  // .duration(1000)
+  // .attr("d", d => lineGen(d))
 }
