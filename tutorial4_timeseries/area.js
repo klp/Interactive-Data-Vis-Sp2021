@@ -84,11 +84,11 @@ function drawA() {
     .y0(height - margin.bottom)
     .y1(d => yScaleA(d.count_charges))
 
-svgA.selectAll("path.line")
+svgA.selectAll(".area")
     .data(stateA.data)
     .join("path")
-    .attr("class", 'line')
+    .attr("class", 'area')
     .attr("fill", d => colorScaleA(d.borough))
     .attr("stroke", "black")
-    .attr("d", areaFunc)
+    .attr("d", d => areaFunc(d))
 }
