@@ -5,11 +5,21 @@
     <link rel="stylesheet" href="./style.css">
   </head>
   <body>
-    Welcome to Interactive Data Visualization Tutorials
+    <h2>Interactive Data Visualization Tutorial 4</h2>
+    <h3>Timeseries</h3>
+    <h4>Line chart</h4>
+    <p>This line graph shows the number of charges/fees the NYC Department of Consumer Affairs
+    has levied against business by borough by year. The raw source data can be found 
+    <a href="https://data.cityofnewyork.us/Business/Charges/5fn4-dr26">here</a>. </p>
     <label for="dropdown">Select borough</label>
     <select id="dropdown" name="dropdown"></select>
     <div id="d3-container"></div>
+    <h4>Area chart</h4>
+    <p>This area charge seeks to show the same data, but highlight the differences 
+    between the charges for each borough over time.</p>
+    <div id="d3-area"></div>
     <script src="../lib/d3.js"></script>
     <script src="main.js"></script>
+    <script src="area.js"></script>
   </body>
 </html>

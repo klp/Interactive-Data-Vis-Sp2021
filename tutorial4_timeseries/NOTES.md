@@ -30,3 +30,4 @@ per borough), then have an x-axis equal to date or maybe month. Wondering if I s
 4. It occurs to me that I should probably start saving more const and vars over time.
 5. See circa 92 or 98 where I'm hardcoding values for the axis-labels. How can I avoid that? 
 6. I used the elipses to append the options to the default text in the dropdown. I'm not sure how that works though?
+7. Really struggled with the creation of an area graph...
