@@ -31,3 +31,4 @@ per borough), then have an x-axis equal to date or maybe month. Wondering if I s
 5. See circa 92 or 98 where I'm hardcoding values for the axis-labels. How can I avoid that? 
 6. I used the elipses to append the options to the default text in the dropdown. I'm not sure how that works though?
 7. Really struggled with the creation of an area graph...
+8. Somehow, I blew away my YAxis on the area chart. I think I'll need to resubmit this next week.

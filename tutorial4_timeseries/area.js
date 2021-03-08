@@ -43,7 +43,7 @@ function initA() {
     const yAxisA = d3.axisLeft(yScaleA)
 
     svgA = d3.select("#d3-area")
-    .append("svgA")
+    .append("svg")
     .attr("width", width)
     .attr("height", height)
 
