@@ -1,5 +1,3 @@
-
-
 d3.csv('../data/count_top_wines_by_country.csv', d3.autoType) // load data
 .then(data => {
     console.log("data", data)
