@@ -15,6 +15,14 @@ let svg;
  * */
 let state = {
   // + SET UP STATE
+  geojson: null,
+  points: null,
+  hover: {
+    screenPosition: null, // will be array with x/y coorindates when covering?
+    mapPosition: null,    // array of long and lat
+    visible: false,       // we're just setting these up to be manipulated later
+  },
+  
 };
 
 /**
@@ -24,10 +32,10 @@ let state = {
 Promise.all([
   d3.json("../data/usState.json"),
   d3.csv("../data/usHeatExtremes.csv", d3.autoType),
-]).then(([geojson, extremeData]) => {
+]).then(([geojson, data]) => {
   // + SET STATE WITH DATA
   state.geojson = geojson
-  state.points = extremeData
+  state.points = data
   console.log("state: ", state);
   init();
 });
@@ -61,7 +69,20 @@ function init() {
     .attr("stroke", "darkgrey")
     .attr("fill", "transparent")
     .attr ("d", path)
+
+  // + Draw points on map
+  const dot = svg 
+  .selectAll("circle.point")
+  .data(state.data)
+  .join("circle")
+  .attr("fill", "green")
+  .attr("r", 5)
+  .attr("transform", d => {
+    const [x, y] = project([d.Long, d.Lat])
+    return `translate(${x}, ${y})`
+  })
   // + ADD EVENT LISTENERS (if you want)
+
 
   draw(); // calls the draw function
 }
@@ -70,4 +91,12 @@ function init() {
  * DRAW FUNCTION
  * we call this everytime there is an update to the data/state
  * */
-function draw() {}
+function draw() {
+  d3.select("#d3-container")
+    .selectAll('div.tooltip')
+    .data[state.hover]
+    .attr("class", 'tooltip')
+    .classed("visible", d => d.visible)
+    .style("transform")
+    .style("position", 'absolute')
+}
