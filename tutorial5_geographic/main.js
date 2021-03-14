@@ -22,10 +22,12 @@ let state = {
  * Using a Promise.all([]), we can load more than one dataset at a time
  * */
 Promise.all([
-  d3.json("PATH_TO_YOUR_GEOJSON"),
-  d3.csv("PATH_TO_ANOTHER_DATASET", d3.autoType),
-]).then(([geojson, otherData]) => {
+  d3.json("../data/usState.json"),
+  d3.csv("../data/usHeatExtremes.csv", d3.autoType),
+]).then(([geojson, extremeData]) => {
   // + SET STATE WITH DATA
+  state.geojson = geojson
+  state.points = extremeData
   console.log("state: ", state);
   init();
 });
@@ -42,10 +44,23 @@ function init() {
     .attr("width", width)
     .attr("height", height);
 
-  // + SET UP PROJECTION
+  // + SET UP PROJECTION...this is like setting the scale with domain/range
+  const project = d3.geoAlbersUsa()
+    .fitSize ([
+      width-margin.left - margin.right,
+      height - margin.top - margin.bottom
+    ], state.geojson)
   // + SET UP GEOPATH
+  const path = d3.geoPath(project)
 
   // + DRAW BASE MAP PATH
+  const states = svg.selectAll("path.states")
+    .data(state.geojson.features)
+    .join("path")
+    .attr("class", 'states')
+    .attr("stroke", "darkgrey")
+    .attr("fill", "transparent")
+    .attr ("d", path)
   // + ADD EVENT LISTENERS (if you want)
 
   draw(); // calls the draw function
