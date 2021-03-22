@@ -40,6 +40,10 @@ function init() {
     .attr("height", height);
 
   // + INITIALIZE TOOLTIP IN YOUR CONTAINER ELEMENT
+  tooltip = container.append("div")
+    .attr("class", "tooltip")
+    .style("top", 0)
+    .style("right", 0)
 
   // + CREATE YOUR ROOT HIERARCHY NODE
   const root = d3.hierarchy(state.data)
@@ -76,6 +80,25 @@ function init() {
         return colorScale(previousAncestor.data.name);
         }
       )
+  // mouse over event
+  groups
+    .on("mouseenter", (event, d) => {
+      state.hover = {
+        position: [d.x0, d.y0],
+        name: d.data.name,
+        value: d.data.value,
+        path: d.ancestors()
+          .reverse()
+          .map(d => d.data.name)
+          .join("/")
+      }
+      draw()
+    })
+    .on("mouseleave", () => {
+      // resets hover when mouse moves out of leaf
+      state.hover = null
+      draw();
+    })
 
 
   draw(); // calls the draw function
@@ -87,4 +110,19 @@ function init() {
  * */
 function draw() {
   // + UPDATE TOOLTIP
+  function draw() {
+    if(state.hover) {
+      tooltip
+        .html(
+          `
+          <div>Name:  ${state.hover.name}</div>
+          <div>Value: ${state.hover.value}</div>
+          `
+        )
+        .transition()
+        .duration(800)
+        .style("transform", `translate(${state.hover.position[0]}px, ${state.hover.position[1]}px)`)
+    }
+  }
+  tooltip.classed("visible", state.hover)
 }
